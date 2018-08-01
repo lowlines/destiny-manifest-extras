@@ -1,0 +1,2045 @@
+{
+    "version": "2018-07-31T20:14:49+09:30",
+    "worldContent": {
+        "DestinyActivityDefinition": {
+            "3834639884": {
+                "hash": 3834639884,
+                "bubbleHash": 2212414297,
+                "displayProperties": {
+                    "name": "A Shard Act to Follow"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 4206151375,
+                    "itemHash": 0
+                }
+            },
+            "926012363": {
+                "hash": 926012363,
+                "bubbleHash": 2212414297,
+                "displayProperties": {
+                    "name": "Slamfire"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 4206151375,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Artillery Operations Commander"
+                    ]
+                }
+            },
+            "293858112": {
+                "hash": 293858112,
+                "bubbleHash": 2212414297,
+                "displayProperties": {
+                    "name": "Firebase Fireworks"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "189324537": {
+                "hash": 189324537,
+                "bubbleHash": 2212414297,
+                "displayProperties": {
+                    "name": "Brain Oxygenation"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 1459201683,
+                    "enemyStrings": [
+                        "Psions"
+                    ]
+                }
+            },
+            "1525633702": {
+                "hash": 1525633702,
+                "bubbleHash": 2212414297,
+                "displayProperties": {
+                    "name": "Supply Run"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 1459201683,
+                    "enemyStrings": [
+                        "Legionaries"
+                    ]
+                }
+            },
+            "4050886070": {
+                "hash": 4050886070,
+                "bubbleHash": 2212414297,
+                "displayProperties": {
+                    "name": "Getting Away from It All"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3854937584,
+                    "itemHash": 0
+                }
+            },
+            "461203479": {
+                "hash": 461203479,
+                "bubbleHash": 2212414297,
+                "displayProperties": {
+                    "name": "Beneath the Surfaces"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3861059923,
+                    "itemHash": 0
+                }
+            },
+            "2773222353": {
+                "hash": 2773222353,
+                "bubbleHash": 3340296448,
+                "displayProperties": {
+                    "name": "Camping Trip"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 119587106,
+                    "itemHash": 0
+                }
+            },
+            "1685237649": {
+                "hash": 1685237649,
+                "bubbleHash": 3340296448,
+                "displayProperties": {
+                    "name": "Other People's Stuff"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 119587106,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Mineral Conversion Processor",
+                        "Tracer Shank x2"
+                    ]
+                }
+            },
+            "3337731612": {
+                "hash": 3337731612,
+                "bubbleHash": 3340296448,
+                "displayProperties": {
+                    "name": "Suburban Violence"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "2629998776": {
+                "hash": 2629998776,
+                "bubbleHash": 3340296448,
+                "displayProperties": {
+                    "name": "Fallen Literacy Rates"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2740871147,
+                    "enemyStrings": [
+                        "Fallen"
+                    ]
+                }
+            },
+            "2782300570": {
+                "hash": 2782300570,
+                "bubbleHash": 3340296448,
+                "displayProperties": {
+                    "name": "Vandal Tanks"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2414900593,
+                    "enemyStrings": [
+                        "Vandals"
+                    ]
+                }
+            },
+            "1451946951": {
+                "hash": 1451946951,
+                "bubbleHash": 3340296448,
+                "displayProperties": {
+                    "name": "Bottle Recycling"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2414900593,
+                    "enemyStrings": [
+                        "Dregs"
+                    ]
+                }
+            },
+            "2580713007": {
+                "hash": 2580713007,
+                "bubbleHash": 3340296448,
+                "displayProperties": {
+                    "name": "Back in Town"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3091570009,
+                    "itemHash": 0
+                }
+            },
+            "3298775062": {
+                "hash": 3298775062,
+                "bubbleHash": 3340296448,
+                "displayProperties": {
+                    "name": "Beachcombing"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3854937584,
+                    "itemHash": 0
+                }
+            },
+            "1536764325": {
+                "hash": 1536764325,
+                "bubbleHash": 3340296448,
+                "displayProperties": {
+                    "name": "Land Ho"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 4200309587,
+                    "itemHash": 0
+                }
+            },
+            "3515770727": {
+                "hash": 3515770727,
+                "bubbleHash": 1094980045,
+                "displayProperties": {
+                    "name": "Living Under a Rock"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 702543394,
+                    "itemHash": 0
+                }
+            },
+            "459955094": {
+                "hash": 459955094,
+                "bubbleHash": 1094980045,
+                "displayProperties": {
+                    "name": "What's in the Box"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 4206151375,
+                    "itemHash": 0
+                }
+            },
+            "3806583577": {
+                "hash": 3806583577,
+                "bubbleHash": 1094980045,
+                "displayProperties": {
+                    "name": "Fire Down Below"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 702543394,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Fortification Substrate Enforcer"
+                    ]
+                }
+            },
+            "1949546348": {
+                "hash": 1949546348,
+                "bubbleHash": 1094980045,
+                "displayProperties": {
+                    "name": "Security en Garde"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 4206151375,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Cargo Security Chief"
+                    ]
+                }
+            },
+            "2784803584": {
+                "hash": 2784803584,
+                "bubbleHash": 1094980045,
+                "displayProperties": {
+                    "name": "On the Land As on the Sea"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "3303685562": {
+                "hash": 3303685562,
+                "bubbleHash": 1094980045,
+                "displayProperties": {
+                    "name": "Sunken Supplies"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 1459201683,
+                    "enemyStrings": [
+                        "Legionaries"
+                    ]
+                }
+            },
+            "4095207117": {
+                "hash": 4095207117,
+                "bubbleHash": 1094980045,
+                "displayProperties": {
+                    "name": "Work Smarter and Harder"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 1459201683,
+                    "enemyStrings": [
+                        "Psions"
+                    ]
+                }
+            },
+            "2619236227": {
+                "hash": 2619236227,
+                "bubbleHash": 3861059923,
+                "displayProperties": {
+                    "name": "Claustrophobia"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 702543394,
+                    "itemHash": 0
+                }
+            },
+            "197670945": {
+                "hash": 197670945,
+                "bubbleHash": 3861059923,
+                "displayProperties": {
+                    "name": "Underground Fighting"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 702543394,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Subterranean Hydration Officer"
+                    ]
+                }
+            },
+            "444087412": {
+                "hash": 444087412,
+                "bubbleHash": 3861059923,
+                "displayProperties": {
+                    "name": "Wetwork"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "2684479494": {
+                "hash": 2684479494,
+                "bubbleHash": 3861059923,
+                "displayProperties": {
+                    "name": "De-Supplying the Legion"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 1459201683,
+                    "enemyStrings": [
+                        "Legionaries"
+                    ]
+                }
+            },
+            "1614692057": {
+                "hash": 1614692057,
+                "bubbleHash": 3861059923,
+                "displayProperties": {
+                    "name": "River Transport"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 1459201683,
+                    "enemyStrings": [
+                        "Psions"
+                    ]
+                }
+            },
+            "2301390667": {
+                "hash": 2301390667,
+                "bubbleHash": 3861059923,
+                "displayProperties": {
+                    "name": "Paved with Good Intentions"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 2212414297,
+                    "itemHash": 0
+                }
+            },
+            "298747401": {
+                "hash": 298747401,
+                "bubbleHash": 3861059923,
+                "displayProperties": {
+                    "name": "Something More Refined"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 4200309587,
+                    "itemHash": 0
+                }
+            },
+            "2651851341": {
+                "hash": 2651851341,
+                "bubbleHash": 4200309587,
+                "displayProperties": {
+                    "name": "Treehugger"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 491961918,
+                    "itemHash": 0
+                }
+            },
+            "2445164291": {
+                "hash": 2445164291,
+                "bubbleHash": 4200309587,
+                "displayProperties": {
+                    "name": "Only You Can Prevent"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 491961918,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Scavenging Crew Leader",
+                        "Ravenous Taken Goblin x2"
+                    ]
+                }
+            },
+            "104342360": {
+                "hash": 104342360,
+                "bubbleHash": 4200309587,
+                "displayProperties": {
+                    "name": "Industrial Warfare"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "3208779612": {
+                "hash": 3208779612,
+                "bubbleHash": 4200309587,
+                "displayProperties": {
+                    "name": "This Is For Your Own Goods"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 1459201683,
+                    "enemyStrings": [
+                        "Legionaries"
+                    ]
+                }
+            },
+            "286324446": {
+                "hash": 286324446,
+                "bubbleHash": 4200309587,
+                "displayProperties": {
+                    "name": "Environmental Storytelling"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2740871147,
+                    "enemyStrings": [
+                        "Cabal"
+                    ]
+                }
+            },
+            "1498466193": {
+                "hash": 1498466193,
+                "bubbleHash": 4200309587,
+                "displayProperties": {
+                    "name": "Psion Their Own Supply"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 1459201683,
+                    "enemyStrings": [
+                        "Psions"
+                    ]
+                }
+            },
+            "2536491635": {
+                "hash": 2536491635,
+                "bubbleHash": 4200309587,
+                "displayProperties": {
+                    "name": "Everybody in the Pools"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3861059923,
+                    "itemHash": 0
+                }
+            },
+            "57103244": {
+                "hash": 57103244,
+                "bubbleHash": 4200309587,
+                "displayProperties": {
+                    "name": "Coasting"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3340296448,
+                    "itemHash": 0
+                }
+            },
+            "2151274060": {
+                "hash": 2151274060,
+                "bubbleHash": 3091570009,
+                "displayProperties": {
+                    "name": "Chronicler of History"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3331349367,
+                    "itemHash": 0
+                }
+            },
+            "2610112492": {
+                "hash": 2610112492,
+                "bubbleHash": 3091570009,
+                "displayProperties": {
+                    "name": "Mining Operations"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3600472775,
+                    "itemHash": 0
+                }
+            },
+            "2288260902": {
+                "hash": 2288260902,
+                "bubbleHash": 3091570009,
+                "displayProperties": {
+                    "name": "The Scavenge Beast"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 3331349367,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Fallen Supply Raider",
+                        "Resilient Shank x2"
+                    ]
+                }
+            },
+            "355984230": {
+                "hash": 355984230,
+                "bubbleHash": 3091570009,
+                "displayProperties": {
+                    "name": "Deep, Dark, and Down"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 3600472775,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Taken Decayer",
+                        "Resilient Vandal x2"
+                    ]
+                }
+            },
+            "798143184": {
+                "hash": 798143184,
+                "bubbleHash": 3091570009,
+                "displayProperties": {
+                    "name": "Not in My Backyard"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "3268684190": {
+                "hash": 3268684190,
+                "bubbleHash": 3091570009,
+                "displayProperties": {
+                    "name": "Those Don't Belong to You"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2740871147,
+                    "enemyStrings": [
+                        "Fallen"
+                    ]
+                }
+            },
+            "175598161": {
+                "hash": 175598161,
+                "bubbleHash": 3091570009,
+                "displayProperties": {
+                    "name": "Cleaning Up the Streets"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2414900593,
+                    "enemyStrings": [
+                        "Dregs"
+                    ]
+                }
+            },
+            "3958400416": {
+                "hash": 3958400416,
+                "bubbleHash": 3091570009,
+                "displayProperties": {
+                    "name": "Urban Flight"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3340296448,
+                    "itemHash": 0
+                }
+            },
+            "3479544154": {
+                "hash": 3479544154,
+                "bubbleHash": 3854937584,
+                "displayProperties": {
+                    "name": "Unsafe for Swimming"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "4209774794": {
+                "hash": 4209774794,
+                "bubbleHash": 3854937584,
+                "displayProperties": {
+                    "name": "Cleaning Up the Beach"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2414900593,
+                    "enemyStrings": [
+                        "Dregs"
+                    ]
+                }
+            },
+            "743100125": {
+                "hash": 743100125,
+                "bubbleHash": 3854937584,
+                "displayProperties": {
+                    "name": "Invisible Pollution"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2414900593,
+                    "enemyStrings": [
+                        "Fallen"
+                    ]
+                }
+            },
+            "4043714237": {
+                "hash": 4043714237,
+                "bubbleHash": 3854937584,
+                "displayProperties": {
+                    "name": "Return to Basics"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 2212414297,
+                    "itemHash": 0
+                }
+            },
+            "880665770": {
+                "hash": 880665770,
+                "bubbleHash": 3854937584,
+                "displayProperties": {
+                    "name": "The Hills Have You"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3340296448,
+                    "itemHash": 0
+                }
+            },
+            "1105211124": {
+                "hash": 1105211124,
+                "bubbleHash": 1161967626,
+                "displayProperties": {
+                    "name": "Wirecutter"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 2243000836,
+                    "itemHash": 0
+                }
+            },
+            "1778450722": {
+                "hash": 1778450722,
+                "bubbleHash": 1161967626,
+                "displayProperties": {
+                    "name": "Potential Energy"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 516030978,
+                    "itemHash": 0
+                }
+            },
+            "1038710420": {
+                "hash": 1038710420,
+                "bubbleHash": 1161967626,
+                "displayProperties": {
+                    "name": "Defragmentation"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 516030978,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Taken Virologist",
+                        "Ravenous Taken Goblin x2"
+                    ]
+                }
+            },
+            "4047570705": {
+                "hash": 4047570705,
+                "bubbleHash": 1161967626,
+                "displayProperties": {
+                    "name": "Giving and Receiving"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "261349035": {
+                "hash": 261349035,
+                "bubbleHash": 1161967626,
+                "displayProperties": {
+                    "name": "Robot Rocks"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 563154290,
+                    "enemyStrings": [
+                        "Vex"
+                    ]
+                }
+            },
+            "387171436": {
+                "hash": 387171436,
+                "bubbleHash": 1161967626,
+                "displayProperties": {
+                    "name": "It Does a Bot Good"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2748499483,
+                    "enemyStrings": [
+                        "Goblins"
+                    ]
+                }
+            },
+            "1557641249": {
+                "hash": 1557641249,
+                "bubbleHash": 1161967626,
+                "displayProperties": {
+                    "name": "Giant Stones"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2748499483,
+                    "enemyStrings": [
+                        "Taken"
+                    ]
+                }
+            },
+            "3489692681": {
+                "hash": 3489692681,
+                "bubbleHash": 1161967626,
+                "displayProperties": {
+                    "name": "Don't Look Back in Anger"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 697305512,
+                    "itemHash": 0
+                }
+            },
+            "3662124488": {
+                "hash": 3662124488,
+                "bubbleHash": 1161967626,
+                "displayProperties": {
+                    "name": "The Most Stable Structure"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 577912749,
+                    "itemHash": 0
+                }
+            },
+            "2519564410": {
+                "hash": 2519564410,
+                "bubbleHash": 697305512,
+                "displayProperties": {
+                    "name": "Category Five"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 2243000836,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Vortex Mind",
+                        "Quantum Goblin x2"
+                    ]
+                }
+            },
+            "30240416": {
+                "hash": 30240416,
+                "bubbleHash": 697305512,
+                "displayProperties": {
+                    "name": "Severed Spine"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 2701633580,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Taken Polarizer",
+                        "Taken Knight x2"
+                    ]
+                }
+            },
+            "2025057095": {
+                "hash": 2025057095,
+                "bubbleHash": 697305512,
+                "displayProperties": {
+                    "name": "Bring It on Down"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "143647473": {
+                "hash": 143647473,
+                "bubbleHash": 697305512,
+                "displayProperties": {
+                    "name": "Dark Oasis"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 563154290,
+                    "enemyStrings": [
+                        "Taken"
+                    ]
+                }
+            },
+            "2558926634": {
+                "hash": 2558926634,
+                "bubbleHash": 697305512,
+                "displayProperties": {
+                    "name": "10,000-Foot View Pyramid"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 577912749,
+                    "itemHash": 0
+                }
+            },
+            "37050217": {
+                "hash": 37050217,
+                "bubbleHash": 697305512,
+                "displayProperties": {
+                    "name": "Afterimage"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 1161967626,
+                    "itemHash": 0
+                }
+            },
+            "204298081": {
+                "hash": 204298081,
+                "bubbleHash": 577912749,
+                "displayProperties": {
+                    "name": "Lock the Gates!"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 1329445049,
+                    "itemHash": 0
+                }
+            },
+            "4283649349": {
+                "hash": 4283649349,
+                "bubbleHash": 577912749,
+                "displayProperties": {
+                    "name": "Gatecrasher"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 1329445049,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Recursive Mind",
+                        "Quantum Hobgoblin x2"
+                    ]
+                }
+            },
+            "2629975203": {
+                "hash": 2629975203,
+                "bubbleHash": 577912749,
+                "displayProperties": {
+                    "name": "Rapture in the Rupture"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "3211303924": {
+                "hash": 3211303924,
+                "bubbleHash": 577912749,
+                "displayProperties": {
+                    "name": "Bot Milk?"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2748499483,
+                    "enemyStrings": [
+                        "Goblins"
+                    ]
+                }
+            },
+            "429361491": {
+                "hash": 429361491,
+                "bubbleHash": 577912749,
+                "displayProperties": {
+                    "name": "Rupture Eruption"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 563154290,
+                    "enemyStrings": [
+                        "Vex"
+                    ]
+                }
+            },
+            "993152361": {
+                "hash": 993152361,
+                "bubbleHash": 577912749,
+                "displayProperties": {
+                    "name": "Corruption in the Rupture"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 563154290,
+                    "enemyStrings": [
+                        "Taken"
+                    ]
+                }
+            },
+            "2969403085": {
+                "hash": 2969403085,
+                "bubbleHash": 577912749,
+                "displayProperties": {
+                    "name": "Window to the Past"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 1161967626,
+                    "itemHash": 0
+                }
+            },
+            "549123191": {
+                "hash": 549123191,
+                "bubbleHash": 577912749,
+                "displayProperties": {
+                    "name": "Up in the Sky"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 697305512,
+                    "itemHash": 0
+                }
+            },
+            "1848339284": {
+                "hash": 1848339284,
+                "bubbleHash": 1461622515,
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 24063045,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Dread Unhallowed Adherent"
+                    ]
+                }
+            },
+            "2134290761": {
+                "hash": 2134290761,
+                "bubbleHash": 1461622515,
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "2896212196": {
+                "hash": 2896212196,
+                "bubbleHash": 1461622515,
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 1459201683,
+                    "enemyStrings": [
+                        "Psions"
+                    ]
+                }
+            },
+            "3914655049": {
+                "hash": 3914655049,
+                "bubbleHash": 1461622515,
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 1459201683,
+                    "enemyStrings": [
+                        "Cabal"
+                    ]
+                }
+            },
+            "724887049": {
+                "hash": 724887049,
+                "bubbleHash": 1461622515,
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3899539020,
+                    "itemHash": 0
+                }
+            },
+            "722882932": {
+                "hash": 722882932,
+                "bubbleHash": 3899539020,
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 4204472107,
+                    "itemHash": 0
+                }
+            },
+            "2044882505": {
+                "hash": 2044882505,
+                "bubbleHash": 3899539020,
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "3371785215": {
+                "hash": 3371785215,
+                "bubbleHash": 3899539020,
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 788879497,
+                    "enemyStrings": [
+                        "Acolytes"
+                    ]
+                }
+            },
+            "1980705864": {
+                "hash": 1980705864,
+                "bubbleHash": 3899539020,
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 788879497,
+                    "enemyStrings": [
+                        "Hive"
+                    ]
+                }
+            },
+            "3377331506": {
+                "hash": 3377331506,
+                "bubbleHash": 3899539020,
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 1461622515,
+                    "itemHash": 0
+                }
+            },
+            "145136689": {
+                "hash": 145136689,
+                "bubbleHash": 2822410613,
+                "displayProperties": {
+                    "name": "Cull the herd"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "3376869257": {
+                "hash": 3376869257,
+                "bubbleHash": 2822410613,
+                "displayProperties": {
+                    "name": "Enemy mine"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 563154290,
+                    "enemyStrings": [
+                        "Cabal"
+                    ]
+                }
+            },
+            "1120584691": {
+                "hash": 1120584691,
+                "bubbleHash": 2822410613,
+                "displayProperties": {
+                    "name": "He collects Vex"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2748499483,
+                    "enemyStrings": [
+                        "Vex"
+                    ]
+                }
+            },
+            "3792746061": {
+                "hash": 3792746061,
+                "bubbleHash": 1702304883,
+                "displayProperties": {
+                    "name": "Artifact Hunting"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "474380713": {
+                "hash": 474380713,
+                "bubbleHash": 1702304883,
+                "displayProperties": {
+                    "name": "Searching High and Low"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2988223906,
+                    "enemyStrings": [
+                        "Vex"
+                    ]
+                }
+            },
+            "2798856614": {
+                "hash": 2798856614,
+                "bubbleHash": 1702304883,
+                "displayProperties": {
+                    "name": "Watch Your Step"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3710329679,
+                    "itemHash": 0
+                }
+            },
+            "3487576414": {
+                "hash": 3487576414,
+                "bubbleHash": 1702304883,
+                "displayProperties": {
+                    "name": "Untangling the Situation"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 933267223,
+                    "itemHash": 0
+                }
+            },
+            "2287222467": {
+                "hash": 2287222467,
+                "bubbleHash": 4205285323,
+                "displayProperties": {
+                    "name": "Ceiling and Ground"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 2382012660,
+                    "itemHash": 0
+                }
+            },
+            "1090267699": {
+                "hash": 1090267699,
+                "bubbleHash": 4205285323,
+                "displayProperties": {
+                    "name": "The Point of No Return"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 2382012660,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Ozone Polluter",
+                        "Resilient Vandal x2"
+                    ]
+                }
+            },
+            "2846775197": {
+                "hash": 2846775197,
+                "bubbleHash": 4205285323,
+                "displayProperties": {
+                    "name": "No Survivors"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "2573702057": {
+                "hash": 2573702057,
+                "bubbleHash": 4205285323,
+                "displayProperties": {
+                    "name": "Fallen, Out of the Sky"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2988223906,
+                    "enemyStrings": [
+                        "Fallen"
+                    ]
+                }
+            },
+            "750649238": {
+                "hash": 750649238,
+                "bubbleHash": 4205285323,
+                "displayProperties": {
+                    "name": "Drained from the Dregs"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2414900593,
+                    "enemyStrings": [
+                        "Dregs"
+                    ]
+                }
+            },
+            "1164772243": {
+                "hash": 1164772243,
+                "bubbleHash": 4205285323,
+                "displayProperties": {
+                    "name": "Secure Your Mask before Helping Others"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2414900593,
+                    "enemyStrings": [
+                        "Vandals"
+                    ]
+                }
+            },
+            "1581219251": {
+                "hash": 1581219251,
+                "bubbleHash": 4205285323,
+                "displayProperties": {
+                    "name": "Through the Wreckage"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3311195705,
+                    "itemHash": 0
+                }
+            },
+            "3627094182": {
+                "hash": 3627094182,
+                "bubbleHash": 3311195705,
+                "displayProperties": {
+                    "name": "Soundproofing"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "51408141": {
+                "hash": 51408141,
+                "bubbleHash": 3311195705,
+                "displayProperties": {
+                    "name": "Echoes of What Remains"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2414900593,
+                    "enemyStrings": [
+                        "Vandals"
+                    ]
+                }
+            },
+            "1756055546": {
+                "hash": 1756055546,
+                "bubbleHash": 3311195705,
+                "displayProperties": {
+                    "name": "Conversion One"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2988223906,
+                    "enemyStrings": [
+                        "Fallen"
+                    ]
+                }
+            },
+            "2561308143": {
+                "hash": 2561308143,
+                "bubbleHash": 3311195705,
+                "displayProperties": {
+                    "name": "Should the Pool Be Glowing?"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 2132187573,
+                    "itemHash": 0
+                }
+            },
+            "4231544111": {
+                "hash": 4231544111,
+                "bubbleHash": 3311195705,
+                "displayProperties": {
+                    "name": "The Crash Site"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 4205285323,
+                    "itemHash": 0
+                }
+            },
+            "2184866967": {
+                "hash": 2184866967,
+                "bubbleHash": 3710329679,
+                "displayProperties": {
+                    "name": "Don't Pass the Torch"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 542273287,
+                    "itemHash": 0
+                }
+            },
+            "1102824603": {
+                "hash": 1102824603,
+                "bubbleHash": 3710329679,
+                "displayProperties": {
+                    "name": "Below Vex"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 542273287,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Spaelosus, Buried Mind",
+                        "Quantum Harpy x2"
+                    ]
+                }
+            },
+            "2575990417": {
+                "hash": 2575990417,
+                "bubbleHash": 3710329679,
+                "displayProperties": {
+                    "name": "An Empty Feeling"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "3379039897": {
+                "hash": 3379039897,
+                "bubbleHash": 1702304883,
+                "displayProperties": {
+                    "name": "Hallows, What's This?"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2988223906,
+                    "enemyStrings": [
+                        "Vex"
+                    ]
+                }
+            },
+            "4174103238": {
+                "hash": 4174103238,
+                "bubbleHash": 3710329679,
+                "displayProperties": {
+                    "name": "Pods in the Hallows"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2748499483,
+                    "enemyStrings": [
+                        "Goblins"
+                    ]
+                }
+            },
+            "388289443": {
+                "hash": 388289443,
+                "bubbleHash": 3710329679,
+                "displayProperties": {
+                    "name": "Seeing is Believing"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3311195705,
+                    "itemHash": 0
+                }
+            },
+            "782290869": {
+                "hash": 782290869,
+                "bubbleHash": 3710329679,
+                "displayProperties": {
+                    "name": "Watch What Happens"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3254430284,
+                    "itemHash": 0
+                }
+            },
+            "3231065327": {
+                "hash": 3231065327,
+                "bubbleHash": 2132187573,
+                "displayProperties": {
+                    "name": "Nothing is Crystal Clear"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 1429357501,
+                    "itemHash": 0
+                }
+            },
+            "1375839088": {
+                "hash": 1375839088,
+                "bubbleHash": 2132187573,
+                "displayProperties": {
+                    "name": "Out of Order"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 2560872303,
+                    "itemHash": 0
+                }
+            },
+            "3038694763": {
+                "hash": 3038694763,
+                "bubbleHash": 2132187573,
+                "displayProperties": {
+                    "name": "Pools Party"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 1429357501,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Photometric Mind",
+                        "Quantum Goblin x2"
+                    ]
+                }
+            },
+            "1250426564": {
+                "hash": 1250426564,
+                "bubbleHash": 2132187573,
+                "displayProperties": {
+                    "name": "Thermal Decomposition"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 2560872303,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Accumulative Mind",
+                        "Quantum Harpy x2"
+                    ]
+                }
+            },
+            "715306877": {
+                "hash": 715306877,
+                "bubbleHash": 2132187573,
+                "displayProperties": {
+                    "name": "Bathtime"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "4254776501": {
+                "hash": 4254776501,
+                "bubbleHash": 2132187573,
+                "displayProperties": {
+                    "name": "Cistern Vandals"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2988223906,
+                    "enemyStrings": [
+                        "Vandals"
+                    ]
+                }
+            },
+            "248066530": {
+                "hash": 248066530,
+                "bubbleHash": 2132187573,
+                "displayProperties": {
+                    "name": "Half Empty"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2414900593,
+                    "enemyStrings": [
+                        "Fallen"
+                    ]
+                }
+            },
+            "415388387": {
+                "hash": 415388387,
+                "bubbleHash": 2132187573,
+                "displayProperties": {
+                    "name": "Taking Shelter"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3311195705,
+                    "itemHash": 0
+                }
+            },
+            "1085523978": {
+                "hash": 1085523978,
+                "bubbleHash": 2132187573,
+                "displayProperties": {
+                    "name": "Brave New World"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 933267223,
+                    "itemHash": 0
+                }
+            },
+            "2379494367": {
+                "hash": 2379494367,
+                "bubbleHash": 933267223,
+                "displayProperties": {
+                    "name": "Binary and Digital"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 2224987225,
+                    "itemHash": 0
+                }
+            },
+            "1249965655": {
+                "hash": 1249965655,
+                "bubbleHash": 933267223,
+                "displayProperties": {
+                    "name": "Having a Ball"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 896012584,
+                    "itemHash": 0
+                }
+            },
+            "782175145": {
+                "hash": 782175145,
+                "bubbleHash": 933267223,
+                "displayProperties": {
+                    "name": "Acoustic Shadow"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 701006849,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Attenuation Mind",
+                        "?? Vex x2"
+                    ]
+                }
+            },
+            "1053141615": {
+                "hash": 1053141615,
+                "bubbleHash": 933267223,
+                "displayProperties": {
+                    "name": "Mind Control"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 896012584,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Igneous Mind",
+                        "Quantum Harpy x2"
+                    ]
+                }
+            },
+            "1206154103": {
+                "hash": 1206154103,
+                "bubbleHash": 933267223,
+                "displayProperties": {
+                    "name": "Unilateral Disarmament"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 2224987225,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Nucleative Mind",
+                        "Quantum Hobgoblin x2"
+                    ]
+                }
+            },
+            "116352029": {
+                "hash": 116352029,
+                "bubbleHash": 933267223,
+                "displayProperties": {
+                    "name": "Entanglement"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "2420240009": {
+                "hash": 2420240009,
+                "bubbleHash": 933267223,
+                "displayProperties": {
+                    "name": "Tangled Up in Red"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2988223906,
+                    "enemyStrings": [
+                        "Vex"
+                    ]
+                }
+            },
+            "3669054326": {
+                "hash": 3669054326,
+                "bubbleHash": 933267223,
+                "displayProperties": {
+                    "name": "Sifting Through the Tangle"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2748499483,
+                    "enemyStrings": [
+                        "Harpies"
+                    ]
+                }
+            },
+            "2588220738": {
+                "hash": 2588220738,
+                "bubbleHash": 933267223,
+                "displayProperties": {
+                    "name": "Spelunking"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 2132187573,
+                    "itemHash": 0
+                }
+            },
+            "3612741503": {
+                "hash": 3612741503,
+                "bubbleHash": 933267223,
+                "displayProperties": {
+                    "name": "Brave to the Grave"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3254430284,
+                    "itemHash": 0
+                }
+            },
+            "545240418": {
+                "hash": 545240418,
+                "bubbleHash": 933267223,
+                "displayProperties": {
+                    "name": "What is This Place?"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 1702304883,
+                    "itemHash": 0
+                }
+            },
+            "2187073261": {
+                "hash": 2187073261,
+                "bubbleHash": 3254430284,
+                "displayProperties": {
+                    "name": "Long Way Down"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 537009175,
+                    "itemHash": 0
+                }
+            },
+            "1076851943": {
+                "hash": 1076851943,
+                "bubbleHash": 3254430284,
+                "displayProperties": {
+                    "name": "States of Matter"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 537009175,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Liquid Mind",
+                        "Quantum Goblin x2"
+                    ]
+                }
+            },
+            "2243336789": {
+                "hash": 2243336789,
+                "bubbleHash": 3254430284,
+                "displayProperties": {
+                    "name": "Putting Them in Their Graves"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "3978357488": {
+                "hash": 3978357488,
+                "bubbleHash": 3254430284,
+                "displayProperties": {
+                    "name": "Radiolarian to the Grave"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2748499483,
+                    "enemyStrings": [
+                        "Harpies"
+                    ]
+                }
+            },
+            "837763871": {
+                "hash": 837763871,
+                "bubbleHash": 3254430284,
+                "displayProperties": {
+                    "name": "Not Like This"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2988223906,
+                    "enemyStrings": [
+                        "Vex"
+                    ]
+                }
+            },
+            "3026637018": {
+                "hash": 3026637018,
+                "bubbleHash": 3254430284,
+                "displayProperties": {
+                    "name": "The Shapes of Things"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3710329679,
+                    "itemHash": 0
+                }
+            },
+            "3481058226": {
+                "hash": 3481058226,
+                "bubbleHash": 3254430284,
+                "displayProperties": {
+                    "name": "Crimson Canopy"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 933267223,
+                    "itemHash": 0
+                }
+            },
+            "849242583": {
+                "hash": 849242583,
+                "bubbleHash": 1291433366,
+                "displayProperties": {
+                    "name": "Look at the Bones"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 3327797828,
+                    "itemHash": 0
+                }
+            },
+            "2768347363": {
+                "hash": 2768347363,
+                "bubbleHash": 1291433366,
+                "displayProperties": {
+                    "name": "Death at Sea"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 3327797828,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Drenched Sorceress",
+                        "Revenant Knight x2"
+                    ]
+                }
+            },
+            "19982784": {
+                "hash": 19982784,
+                "bubbleHash": 1291433366,
+                "displayProperties": {
+                    "name": "Watch Out!"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "298793060": {
+                "hash": 298793060,
+                "bubbleHash": 1291433366,
+                "displayProperties": {
+                    "name": "Scavenged Components"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2641099036,
+                    "enemyStrings": [
+                        "Fallen"
+                    ]
+                }
+            },
+            "964196803": {
+                "hash": 964196803,
+                "bubbleHash": 1291433366,
+                "displayProperties": {
+                    "name": "Running Dry, Somehow"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2414900593,
+                    "enemyStrings": [
+                        "Dregs"
+                    ]
+                }
+            },
+            "581323290": {
+                "hash": 581323290,
+                "bubbleHash": 1291433366,
+                "displayProperties": {
+                    "name": "Shipping Costs"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 4035573696,
+                    "itemHash": 0
+                }
+            },
+            "1331268141": {
+                "hash": 1331268141,
+                "bubbleHash": 1291433366,
+                "displayProperties": {
+                    "name": "What a View"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 4035573696,
+                    "itemHash": 0
+                }
+            },
+            "3049122128": {
+                "hash": 3049122128,
+                "bubbleHash": 4035573696,
+                "displayProperties": {
+                    "name": "Would You Like to Know More"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 414380065,
+                    "itemHash": 0
+                }
+            },
+            "435989417": {
+                "hash": 435989417,
+                "bubbleHash": 4035573696,
+                "displayProperties": {
+                    "name": "Logical Damage"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 334231652,
+                    "itemHash": 0
+                }
+            },
+            "4103844069": {
+                "hash": 4103844069,
+                "bubbleHash": 4035573696,
+                "displayProperties": {
+                    "name": "Power Surge"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 334231652,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Energized Brute",
+                        "Revenant Acolyte x2"
+                    ]
+                }
+            },
+            "2001433484": {
+                "hash": 2001433484,
+                "bubbleHash": 4035573696,
+                "displayProperties": {
+                    "name": "Spherochromatism"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 414380065,
+                    "itemHash": 0,
+                    "enemyStrings": [
+                        "Chromatic Scapper",
+                        "Resilient Vandal x2"
+                    ]
+                }
+            },
+            "3173130826": {
+                "hash": 3173130826,
+                "bubbleHash": 4035573696,
+                "displayProperties": {
+                    "name": "Relieve the Kraken"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 0
+                }
+            },
+            "4216926874": {
+                "hash": 4216926874,
+                "bubbleHash": 4035573696,
+                "displayProperties": {
+                    "name": "Artifacts from the Deep"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2641099036,
+                    "enemyStrings": [
+                        "Hive"
+                    ]
+                }
+            },
+            "671904429": {
+                "hash": 671904429,
+                "bubbleHash": 4035573696,
+                "displayProperties": {
+                    "name": "Tanks and Tanks"
+                },
+                "missionObjective": {
+                    "killEnemies": true,
+                    "bubbleHash": 0,
+                    "itemHash": 2414900593,
+                    "enemyStrings": [
+                        "Vandals"
+                    ]
+                }
+            },
+            "2908287325": {
+                "hash": 2908287325,
+                "bubbleHash": 4035573696,
+                "displayProperties": {
+                    "name": "High Water Mark"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 1291433366,
+                    "itemHash": 0
+                }
+            },
+            "2079994698": {
+                "hash": 2079994698,
+                "bubbleHash": 4035573696,
+                "displayProperties": {
+                    "name": "Tight to the Mast"
+                },
+                "missionObjective": {
+                    "killEnemies": false,
+                    "bubbleHash": 1291433366,
+                    "itemHash": 0
+                }
+            }
+        }
+    }
+}
