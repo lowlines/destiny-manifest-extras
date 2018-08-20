@@ -12,7 +12,12 @@
                     "killEnemies": false,
                     "bubbleHash": 4206151375,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "926012363": {
                 "hash": 926012363,
@@ -27,7 +32,12 @@
                     "enemyStrings": [
                         "Artillery Operations Commander"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "293858112": {
                 "hash": 293858112,
@@ -39,7 +49,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "189324537": {
                 "hash": 189324537,
@@ -54,7 +69,12 @@
                     "enemyStrings": [
                         "Psions"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1525633702": {
                 "hash": 1525633702,
@@ -69,7 +89,12 @@
                     "enemyStrings": [
                         "Legionaries"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "4050886070": {
                 "hash": 4050886070,
@@ -81,7 +106,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3854937584,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "461203479": {
                 "hash": 461203479,
@@ -93,7 +123,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3861059923,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2773222353": {
                 "hash": 2773222353,
@@ -105,7 +140,12 @@
                     "killEnemies": false,
                     "bubbleHash": 119587106,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1685237649": {
                 "hash": 1685237649,
@@ -121,7 +161,12 @@
                         "Mineral Conversion Processor",
                         "Tracer Shank x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3337731612": {
                 "hash": 3337731612,
@@ -133,7 +178,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2629998776": {
                 "hash": 2629998776,
@@ -148,7 +198,12 @@
                     "enemyStrings": [
                         "Fallen"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2782300570": {
                 "hash": 2782300570,
@@ -163,7 +218,12 @@
                     "enemyStrings": [
                         "Vandals"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1451946951": {
                 "hash": 1451946951,
@@ -178,7 +238,12 @@
                     "enemyStrings": [
                         "Dregs"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2580713007": {
                 "hash": 2580713007,
@@ -190,7 +255,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3091570009,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3298775062": {
                 "hash": 3298775062,
@@ -202,7 +272,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3854937584,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1536764325": {
                 "hash": 1536764325,
@@ -214,7 +289,12 @@
                     "killEnemies": false,
                     "bubbleHash": 4200309587,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3515770727": {
                 "hash": 3515770727,
@@ -226,7 +306,12 @@
                     "killEnemies": false,
                     "bubbleHash": 702543394,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "459955094": {
                 "hash": 459955094,
@@ -238,7 +323,12 @@
                     "killEnemies": false,
                     "bubbleHash": 4206151375,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3806583577": {
                 "hash": 3806583577,
@@ -253,7 +343,12 @@
                     "enemyStrings": [
                         "Fortification Substrate Enforcer"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1949546348": {
                 "hash": 1949546348,
@@ -268,7 +363,12 @@
                     "enemyStrings": [
                         "Cargo Security Chief"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2784803584": {
                 "hash": 2784803584,
@@ -280,7 +380,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3303685562": {
                 "hash": 3303685562,
@@ -295,7 +400,12 @@
                     "enemyStrings": [
                         "Legionaries"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "4095207117": {
                 "hash": 4095207117,
@@ -310,7 +420,12 @@
                     "enemyStrings": [
                         "Psions"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2619236227": {
                 "hash": 2619236227,
@@ -322,7 +437,12 @@
                     "killEnemies": false,
                     "bubbleHash": 702543394,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "197670945": {
                 "hash": 197670945,
@@ -337,7 +457,12 @@
                     "enemyStrings": [
                         "Subterranean Hydration Officer"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "444087412": {
                 "hash": 444087412,
@@ -349,7 +474,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2684479494": {
                 "hash": 2684479494,
@@ -364,7 +494,12 @@
                     "enemyStrings": [
                         "Legionaries"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1614692057": {
                 "hash": 1614692057,
@@ -379,7 +514,12 @@
                     "enemyStrings": [
                         "Psions"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2301390667": {
                 "hash": 2301390667,
@@ -391,7 +531,12 @@
                     "killEnemies": false,
                     "bubbleHash": 2212414297,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "298747401": {
                 "hash": 298747401,
@@ -403,7 +548,12 @@
                     "killEnemies": false,
                     "bubbleHash": 4200309587,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2651851341": {
                 "hash": 2651851341,
@@ -415,7 +565,12 @@
                     "killEnemies": false,
                     "bubbleHash": 491961918,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2445164291": {
                 "hash": 2445164291,
@@ -431,7 +586,12 @@
                         "Scavenging Crew Leader",
                         "Ravenous Taken Goblin x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "104342360": {
                 "hash": 104342360,
@@ -443,7 +603,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3208779612": {
                 "hash": 3208779612,
@@ -458,7 +623,12 @@
                     "enemyStrings": [
                         "Legionaries"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "286324446": {
                 "hash": 286324446,
@@ -473,7 +643,12 @@
                     "enemyStrings": [
                         "Cabal"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1498466193": {
                 "hash": 1498466193,
@@ -488,7 +663,12 @@
                     "enemyStrings": [
                         "Psions"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2536491635": {
                 "hash": 2536491635,
@@ -500,7 +680,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3861059923,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "57103244": {
                 "hash": 57103244,
@@ -512,7 +697,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3340296448,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2151274060": {
                 "hash": 2151274060,
@@ -524,7 +714,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3331349367,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2610112492": {
                 "hash": 2610112492,
@@ -536,7 +731,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3600472775,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2288260902": {
                 "hash": 2288260902,
@@ -552,7 +752,12 @@
                         "Fallen Supply Raider",
                         "Resilient Shank x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "355984230": {
                 "hash": 355984230,
@@ -568,7 +773,12 @@
                         "Taken Decayer",
                         "Resilient Vandal x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "798143184": {
                 "hash": 798143184,
@@ -580,7 +790,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3268684190": {
                 "hash": 3268684190,
@@ -595,7 +810,12 @@
                     "enemyStrings": [
                         "Fallen"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "175598161": {
                 "hash": 175598161,
@@ -610,7 +830,12 @@
                     "enemyStrings": [
                         "Dregs"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3958400416": {
                 "hash": 3958400416,
@@ -622,7 +847,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3340296448,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3479544154": {
                 "hash": 3479544154,
@@ -634,7 +864,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "4209774794": {
                 "hash": 4209774794,
@@ -649,7 +884,12 @@
                     "enemyStrings": [
                         "Dregs"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "743100125": {
                 "hash": 743100125,
@@ -664,7 +904,12 @@
                     "enemyStrings": [
                         "Fallen"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "4043714237": {
                 "hash": 4043714237,
@@ -676,7 +921,12 @@
                     "killEnemies": false,
                     "bubbleHash": 2212414297,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "880665770": {
                 "hash": 880665770,
@@ -688,7 +938,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3340296448,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1105211124": {
                 "hash": 1105211124,
@@ -700,7 +955,12 @@
                     "killEnemies": false,
                     "bubbleHash": 2243000836,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1778450722": {
                 "hash": 1778450722,
@@ -712,7 +972,12 @@
                     "killEnemies": false,
                     "bubbleHash": 516030978,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1038710420": {
                 "hash": 1038710420,
@@ -728,7 +993,12 @@
                         "Taken Virologist",
                         "Ravenous Taken Goblin x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "4047570705": {
                 "hash": 4047570705,
@@ -740,7 +1010,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "261349035": {
                 "hash": 261349035,
@@ -755,7 +1030,12 @@
                     "enemyStrings": [
                         "Vex"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "387171436": {
                 "hash": 387171436,
@@ -770,7 +1050,12 @@
                     "enemyStrings": [
                         "Goblins"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1557641249": {
                 "hash": 1557641249,
@@ -785,7 +1070,12 @@
                     "enemyStrings": [
                         "Taken"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3489692681": {
                 "hash": 3489692681,
@@ -797,7 +1087,12 @@
                     "killEnemies": false,
                     "bubbleHash": 697305512,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3662124488": {
                 "hash": 3662124488,
@@ -809,7 +1104,12 @@
                     "killEnemies": false,
                     "bubbleHash": 577912749,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2519564410": {
                 "hash": 2519564410,
@@ -825,7 +1125,12 @@
                         "Vortex Mind",
                         "Quantum Goblin x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "30240416": {
                 "hash": 30240416,
@@ -841,7 +1146,12 @@
                         "Taken Polarizer",
                         "Taken Knight x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2025057095": {
                 "hash": 2025057095,
@@ -853,7 +1163,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "143647473": {
                 "hash": 143647473,
@@ -868,7 +1183,12 @@
                     "enemyStrings": [
                         "Taken"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2558926634": {
                 "hash": 2558926634,
@@ -880,7 +1200,12 @@
                     "killEnemies": false,
                     "bubbleHash": 577912749,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "37050217": {
                 "hash": 37050217,
@@ -892,7 +1217,12 @@
                     "killEnemies": false,
                     "bubbleHash": 1161967626,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "204298081": {
                 "hash": 204298081,
@@ -904,7 +1234,12 @@
                     "killEnemies": false,
                     "bubbleHash": 1329445049,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "4283649349": {
                 "hash": 4283649349,
@@ -920,7 +1255,12 @@
                         "Recursive Mind",
                         "Quantum Hobgoblin x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2629975203": {
                 "hash": 2629975203,
@@ -932,7 +1272,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3211303924": {
                 "hash": 3211303924,
@@ -947,7 +1292,12 @@
                     "enemyStrings": [
                         "Goblins"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "429361491": {
                 "hash": 429361491,
@@ -962,7 +1312,12 @@
                     "enemyStrings": [
                         "Vex"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "993152361": {
                 "hash": 993152361,
@@ -977,7 +1332,12 @@
                     "enemyStrings": [
                         "Taken"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2969403085": {
                 "hash": 2969403085,
@@ -989,7 +1349,12 @@
                     "killEnemies": false,
                     "bubbleHash": 1161967626,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "549123191": {
                 "hash": 549123191,
@@ -1001,7 +1366,12 @@
                     "killEnemies": false,
                     "bubbleHash": 697305512,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1848339284": {
                 "hash": 1848339284,
@@ -1013,7 +1383,12 @@
                     "enemyStrings": [
                         "Dread Unhallowed Adherent"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2134290761": {
                 "hash": 2134290761,
@@ -1022,7 +1397,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2896212196": {
                 "hash": 2896212196,
@@ -1034,7 +1414,12 @@
                     "enemyStrings": [
                         "Psions"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3914655049": {
                 "hash": 3914655049,
@@ -1046,7 +1431,12 @@
                     "enemyStrings": [
                         "Cabal"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "724887049": {
                 "hash": 724887049,
@@ -1055,7 +1445,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3899539020,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "722882932": {
                 "hash": 722882932,
@@ -1064,7 +1459,12 @@
                     "killEnemies": true,
                     "bubbleHash": 4204472107,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2044882505": {
                 "hash": 2044882505,
@@ -1073,7 +1473,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3371785215": {
                 "hash": 3371785215,
@@ -1085,7 +1490,12 @@
                     "enemyStrings": [
                         "Acolytes"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1980705864": {
                 "hash": 1980705864,
@@ -1097,7 +1507,12 @@
                     "enemyStrings": [
                         "Hive"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3377331506": {
                 "hash": 3377331506,
@@ -1106,7 +1521,12 @@
                     "killEnemies": false,
                     "bubbleHash": 1461622515,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "145136689": {
                 "hash": 145136689,
@@ -1118,7 +1538,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3376869257": {
                 "hash": 3376869257,
@@ -1133,7 +1558,12 @@
                     "enemyStrings": [
                         "Cabal"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1120584691": {
                 "hash": 1120584691,
@@ -1148,7 +1578,12 @@
                     "enemyStrings": [
                         "Vex"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3792746061": {
                 "hash": 3792746061,
@@ -1160,7 +1595,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "474380713": {
                 "hash": 474380713,
@@ -1175,7 +1615,12 @@
                     "enemyStrings": [
                         "Vex"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2798856614": {
                 "hash": 2798856614,
@@ -1187,7 +1632,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3710329679,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3487576414": {
                 "hash": 3487576414,
@@ -1199,7 +1649,12 @@
                     "killEnemies": false,
                     "bubbleHash": 933267223,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2287222467": {
                 "hash": 2287222467,
@@ -1211,7 +1666,12 @@
                     "killEnemies": false,
                     "bubbleHash": 2382012660,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1090267699": {
                 "hash": 1090267699,
@@ -1227,7 +1687,12 @@
                         "Ozone Polluter",
                         "Resilient Vandal x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2846775197": {
                 "hash": 2846775197,
@@ -1239,7 +1704,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2573702057": {
                 "hash": 2573702057,
@@ -1254,7 +1724,12 @@
                     "enemyStrings": [
                         "Fallen"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "750649238": {
                 "hash": 750649238,
@@ -1269,7 +1744,12 @@
                     "enemyStrings": [
                         "Dregs"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1164772243": {
                 "hash": 1164772243,
@@ -1284,7 +1764,12 @@
                     "enemyStrings": [
                         "Vandals"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1581219251": {
                 "hash": 1581219251,
@@ -1296,7 +1781,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3311195705,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3627094182": {
                 "hash": 3627094182,
@@ -1308,7 +1798,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "51408141": {
                 "hash": 51408141,
@@ -1323,7 +1818,12 @@
                     "enemyStrings": [
                         "Vandals"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1756055546": {
                 "hash": 1756055546,
@@ -1338,7 +1838,12 @@
                     "enemyStrings": [
                         "Fallen"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2561308143": {
                 "hash": 2561308143,
@@ -1350,7 +1855,12 @@
                     "killEnemies": false,
                     "bubbleHash": 2132187573,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "4231544111": {
                 "hash": 4231544111,
@@ -1362,7 +1872,12 @@
                     "killEnemies": false,
                     "bubbleHash": 4205285323,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2184866967": {
                 "hash": 2184866967,
@@ -1374,7 +1889,12 @@
                     "killEnemies": false,
                     "bubbleHash": 542273287,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1102824603": {
                 "hash": 1102824603,
@@ -1390,7 +1910,12 @@
                         "Spaelosus, Buried Mind",
                         "Quantum Harpy x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2575990417": {
                 "hash": 2575990417,
@@ -1402,7 +1927,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3379039897": {
                 "hash": 3379039897,
@@ -1417,7 +1947,12 @@
                     "enemyStrings": [
                         "Vex"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "4174103238": {
                 "hash": 4174103238,
@@ -1432,7 +1967,12 @@
                     "enemyStrings": [
                         "Goblins"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "388289443": {
                 "hash": 388289443,
@@ -1444,7 +1984,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3311195705,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "782290869": {
                 "hash": 782290869,
@@ -1456,7 +2001,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3254430284,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3231065327": {
                 "hash": 3231065327,
@@ -1468,7 +2018,12 @@
                     "killEnemies": false,
                     "bubbleHash": 1429357501,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1375839088": {
                 "hash": 1375839088,
@@ -1480,7 +2035,12 @@
                     "killEnemies": false,
                     "bubbleHash": 2560872303,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3038694763": {
                 "hash": 3038694763,
@@ -1496,7 +2056,12 @@
                         "Photometric Mind",
                         "Quantum Goblin x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1250426564": {
                 "hash": 1250426564,
@@ -1512,7 +2077,12 @@
                         "Accumulative Mind",
                         "Quantum Harpy x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "715306877": {
                 "hash": 715306877,
@@ -1524,7 +2094,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "4254776501": {
                 "hash": 4254776501,
@@ -1539,7 +2114,12 @@
                     "enemyStrings": [
                         "Vandals"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "248066530": {
                 "hash": 248066530,
@@ -1554,7 +2134,12 @@
                     "enemyStrings": [
                         "Fallen"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "415388387": {
                 "hash": 415388387,
@@ -1566,7 +2151,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3311195705,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1085523978": {
                 "hash": 1085523978,
@@ -1578,7 +2168,12 @@
                     "killEnemies": false,
                     "bubbleHash": 933267223,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2379494367": {
                 "hash": 2379494367,
@@ -1590,7 +2185,12 @@
                     "killEnemies": false,
                     "bubbleHash": 2224987225,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1249965655": {
                 "hash": 1249965655,
@@ -1602,7 +2202,12 @@
                     "killEnemies": false,
                     "bubbleHash": 896012584,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "782175145": {
                 "hash": 782175145,
@@ -1618,7 +2223,12 @@
                         "Attenuation Mind",
                         "?? Vex x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1053141615": {
                 "hash": 1053141615,
@@ -1634,7 +2244,12 @@
                         "Igneous Mind",
                         "Quantum Harpy x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1206154103": {
                 "hash": 1206154103,
@@ -1650,7 +2265,12 @@
                         "Nucleative Mind",
                         "Quantum Hobgoblin x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "116352029": {
                 "hash": 116352029,
@@ -1662,7 +2282,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2420240009": {
                 "hash": 2420240009,
@@ -1677,7 +2302,12 @@
                     "enemyStrings": [
                         "Vex"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3669054326": {
                 "hash": 3669054326,
@@ -1692,7 +2322,12 @@
                     "enemyStrings": [
                         "Harpies"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2588220738": {
                 "hash": 2588220738,
@@ -1704,7 +2339,12 @@
                     "killEnemies": false,
                     "bubbleHash": 2132187573,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3612741503": {
                 "hash": 3612741503,
@@ -1716,7 +2356,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3254430284,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "545240418": {
                 "hash": 545240418,
@@ -1728,7 +2373,12 @@
                     "killEnemies": false,
                     "bubbleHash": 1702304883,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2187073261": {
                 "hash": 2187073261,
@@ -1740,7 +2390,12 @@
                     "killEnemies": false,
                     "bubbleHash": 537009175,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1076851943": {
                 "hash": 1076851943,
@@ -1756,7 +2411,12 @@
                         "Liquid Mind",
                         "Quantum Goblin x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2243336789": {
                 "hash": 2243336789,
@@ -1768,7 +2428,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3978357488": {
                 "hash": 3978357488,
@@ -1783,7 +2448,12 @@
                     "enemyStrings": [
                         "Harpies"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "837763871": {
                 "hash": 837763871,
@@ -1798,7 +2468,12 @@
                     "enemyStrings": [
                         "Vex"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3026637018": {
                 "hash": 3026637018,
@@ -1810,7 +2485,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3710329679,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3481058226": {
                 "hash": 3481058226,
@@ -1822,7 +2502,12 @@
                     "killEnemies": false,
                     "bubbleHash": 933267223,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "849242583": {
                 "hash": 849242583,
@@ -1834,7 +2519,12 @@
                     "killEnemies": false,
                     "bubbleHash": 3327797828,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2768347363": {
                 "hash": 2768347363,
@@ -1850,7 +2540,12 @@
                         "Drenched Sorceress",
                         "Revenant Knight x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "19982784": {
                 "hash": 19982784,
@@ -1862,7 +2557,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "298793060": {
                 "hash": 298793060,
@@ -1877,7 +2577,12 @@
                     "enemyStrings": [
                         "Fallen"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "964196803": {
                 "hash": 964196803,
@@ -1892,7 +2597,12 @@
                     "enemyStrings": [
                         "Dregs"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "581323290": {
                 "hash": 581323290,
@@ -1904,7 +2614,12 @@
                     "killEnemies": false,
                     "bubbleHash": 4035573696,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "1331268141": {
                 "hash": 1331268141,
@@ -1916,7 +2631,12 @@
                     "killEnemies": false,
                     "bubbleHash": 4035573696,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3049122128": {
                 "hash": 3049122128,
@@ -1928,7 +2648,12 @@
                     "killEnemies": false,
                     "bubbleHash": 414380065,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "435989417": {
                 "hash": 435989417,
@@ -1940,7 +2665,12 @@
                     "killEnemies": false,
                     "bubbleHash": 334231652,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "4103844069": {
                 "hash": 4103844069,
@@ -1956,7 +2686,12 @@
                         "Energized Brute",
                         "Revenant Acolyte x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2001433484": {
                 "hash": 2001433484,
@@ -1972,7 +2707,12 @@
                         "Chromatic Scapper",
                         "Resilient Vandal x2"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "3173130826": {
                 "hash": 3173130826,
@@ -1984,7 +2724,12 @@
                     "killEnemies": true,
                     "bubbleHash": 0,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "4216926874": {
                 "hash": 4216926874,
@@ -1999,7 +2744,12 @@
                     "enemyStrings": [
                         "Hive"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "671904429": {
                 "hash": 671904429,
@@ -2014,7 +2764,12 @@
                     "enemyStrings": [
                         "Vandals"
                     ]
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2908287325": {
                 "hash": 2908287325,
@@ -2026,7 +2781,12 @@
                     "killEnemies": false,
                     "bubbleHash": 1291433366,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
             },
             "2079994698": {
                 "hash": 2079994698,
@@ -2038,7 +2798,1475 @@
                     "killEnemies": false,
                     "bubbleHash": 1291433366,
                     "itemHash": 0
-                }
+                },
+                "activityModeTypes": [
+                    6,
+                    7,
+                    601
+                ]
+            },
+            "2174556965": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2183066491": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "2199986157": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "2231840083": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2250935166": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2259811067": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    201
+                ]
+            },
+            "2264636552": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "2266954523": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "2276204547": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "2279197206": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "2291549972": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "2297638408": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "2302677459": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2307090074": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "2336998357": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "2351745587": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "2400231344": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "2427944384": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "2468202005": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    201
+                ]
+            },
+            "2472211469": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2478782573": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "2517540332": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2559514952": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "2574607799": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2642769170": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "2665134323": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2675435236": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2702476101": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "2708828207": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "2718696427": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "2737739053": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2752743635": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2759086913": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2776929937": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "2926767881": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "2949941834": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2966841322": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3002511278": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3105090879": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "3140524926": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3143798436": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    600
+                ]
+            },
+            "3147707814": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "3148431353": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3150153711": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "3172367001": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    201
+                ]
+            },
+            "3204449126": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "3206026167": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "3211568383": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3215844014": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "3226632017": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "3248193378": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3249986335": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    208
+                ]
+            },
+            "3272002712": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "3277510674": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3283790633": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3289681664": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3289842296": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "3292523719": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "3304835347": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3336275007": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "3346345105": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "3359466010": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "3370527053": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3384410381": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3405569225": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "3410237988": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    207
+                ]
+            },
+            "3410530777": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "3417504239": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "3485876484": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3500791146": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3543680867": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "3580793473": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "3642412717": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "3645117987": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3652531274": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    201
+                ]
+            },
+            "3664915501": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3679941640": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    207
+                ]
+            },
+            "3688464794": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "3700722865": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3702064261": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "3738159218": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "3752039537": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3780356141": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3801976119": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "3836086286": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3865706603": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "3872525353": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3909841711": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3920569453": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "3966792859": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    600
+                ]
+            },
+            "3982474534": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "4034557395": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "4094398454": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "4119522487": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "4159221189": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    600
+                ]
+            },
+            "4166562681": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    600
+                ]
+            },
+            "4166632210": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "4170982146": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "4239233351": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "4253800115": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "4291922223": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "40940368": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "53954174": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "60002467": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "74501540": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    206
+                ]
+            },
+            "78673128": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "80726883": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "122988657": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "153537894": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "234065414": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    207
+                ]
+            },
+            "255819671": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "305709154": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "313572698": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    201
+                ]
+            },
+            "320680002": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "340004423": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "359488722": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "379330092": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    201
+                ]
+            },
+            "464789944": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "539897061": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "553537971": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "563435123": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    207
+                ]
+            },
+            "622895925": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "632790902": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "667604912": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "703311712": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    201
+                ]
+            },
+            "719906507": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "723733266": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "789332628": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "808931822": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "834864522": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "877831883": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    207
+                ]
+            },
+            "919252154": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "938512773": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "955852466": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "963938931": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "965849694": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    200
+                ]
+            },
+            "969385987": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "991410404": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "1002145272": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "1011304245": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    207
+                ]
+            },
+            "1019362992": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "1021495354": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "1034805570": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "1049899965": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "1057017675": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "1063969232": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1073289414": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    600
+                ]
+            },
+            "1075152813": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "1099555105": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    206
+                ]
+            },
+            "1107208644": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1159314159": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1166237584": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "1175770231": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "1194986370": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "1202325606": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "1202325607": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "1225970098": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1228327586": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1233767907": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    600
+                ]
+            },
+            "1243390694": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "1254990192": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1255167276": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "1265390366": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1278641935": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "1279862229": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1289867188": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1294490226": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1412142789": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "1416597166": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1418217191": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1419459505": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "1426391278": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "1428050875": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "1466550401": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1490848577": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "1491022087": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1503376677": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1512980468": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    204
+                ]
+            },
+            "1570598249": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1643069750": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1646219807": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "1651979106": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1657356109": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "1658347443": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "1682036469": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1725302079": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1740310101": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1760460831": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "1773400654": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1783922093": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1786054751": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "1790343591": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    201
+                ]
+            },
+            "1811228210": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1823921651": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1824067376": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1829866365": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1874578888": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1926167080": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "1952521609": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    201
+                ]
+            },
+            "1956541147": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1967025365": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    205
+                ]
+            },
+            "1969800443": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1971154629": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1981289329": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "1987624188": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    602
+                ]
+            },
+            "2052289205": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
+            },
+            "2067233851": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "2091731913": {
+                "activityModeTypes": [
+                    6,
+                    7,
+                    200
+                ]
+            },
+            "2113712124": {
+                "activityModeTypes": [
+                    2,
+                    7,
+                    203
+                ]
             }
         }
     }
