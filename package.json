@@ -1,0 +1,21 @@
+{
+  "name": "destiny-manifest-extras",
+  "version": "0.0.2",
+  "description": "A community managed manifest that adds extra/missing information not available in the official Bungie.net manifest.",
+  "main": "scripts/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "update": "node scripts/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lowlines/destiny-manifest-extras.git"
+  },
+  "author": "lowlines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lowlines/destiny-manifest-extras/issues"
+  },
+  "homepage": "https://github.com/lowlines/destiny-manifest-extras#readme"
+}

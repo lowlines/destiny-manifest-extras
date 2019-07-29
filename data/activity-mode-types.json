@@ -1,0 +1,2324 @@
+{
+  "DestinyActivityDefinition": {
+    "10898844": {
+      "#name": "Forge Ignition",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "11199080": {
+      "#name": "[11199080]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "19982784": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "30240416": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "37050217": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "40940368": {
+      "#name": "Curse of Osiris",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "51408141": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "53954174": {
+      "#name": "Anti-Anti-Air",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "57103244": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "60002467": {
+      "#name": "Sacrilege",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "74501540": {
+      "#name": "The Whisper",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "78673128": {
+      "#name": "Thief of Thieves",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "80726883": {
+      "#name": "O Captain",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "82913930": {
+      "#name": "[82913930]",
+      "activityModeTypes": [999]
+    },
+    "90389924": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "96442917": {
+      "#name": "(Heroic) Red Legion, Black Oil",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "98112589": {
+      "#name": "Field Assignment: Salvage",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "104342360": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "116352029": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "122988657": {
+      "#name": "Red Legion, Black Oil",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "129918239": {
+      "#name": "Daily Heroic Story Mission: Hope",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "130838713": {
+      "#name": "Field Assignment: Salvage",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "143647473": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "145136689": {
+      "#name": "Combat mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "153537894": {
+      "#name": "A New Frontier",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "175598161": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "185515551": {
+      "#name": "(Heroic) Invitation from the Emperor",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "186006588": {
+      "#name": "WANTED: Gravetide Summoner",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "189324537": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "197670945": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "204298081": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "234065414": {
+      "#name": "Spark",
+      "activityModeTypes": [2, 7, 207]
+    },
+    "248066530": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "255819671": {
+      "#name": "Fury",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "261349035": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "271962655": {
+      "#name": "Daily Heroic Story Mission: Utopia",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "286324446": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "293858112": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "298747401": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "298793060": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "305709154": {
+      "#name": "Ice and Shadow",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "313572698": {
+      "#name": "Shard of the Traveler",
+      "activityModeTypes": [2, 7, 201]
+    },
+    "319240296": {
+      "#name": "(Heroic) Deathless",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "320680002": {
+      "#name": "Supply and Demand",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "340004423": {
+      "#name": "Hephaestus",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "355984230": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "359488722": {
+      "#name": "Hack the Planet",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "379330092": {
+      "#name": "Shard of the Traveler",
+      "activityModeTypes": [2, 7, 201]
+    },
+    "384786172": {
+      "#name": "[384786172]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "386959931": {
+      "#name": "WANTED: Gravetide Summoner",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "387171436": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "388289443": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "415388387": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "429361491": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "435989417": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "444087412": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "445417088": {
+      "#name": "[445417088]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "449926115": {
+      "#name": "(Heroic) Postmodern Prometheus",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "459955094": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "461203479": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "464789944": {
+      "#name": "Chosen",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "466447952": {
+      "#name": "Destiny 2: Shadowkeep",
+      "activityModeTypes": [2, 7, 214]
+    },
+    "474193231": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "474380713": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "494635832": {
+      "#name": "WANTED: Silent Fang",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "497583046": {
+      "#name": "WANTED: Gravetide Summoner",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "498220076": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "501703034": {
+      "#name": "The Reckoning",
+      "activityModeTypes": [2, 7, 212]
+    },
+    "521403014": {
+      "#name": "Last Call",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "530720427": {
+      "#name": "High Plains Blues",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "539897061": {
+      "#name": "Reversing the Polarity",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "539969356": {
+      "#name": "[539969356]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "545240418": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "549123191": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "553537971": {
+      "#name": "Chosen",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "563435123": {
+      "#name": "Payback",
+      "activityModeTypes": [2, 7, 207]
+    },
+    "564863404": {
+      "#name": "[564863404]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "581323290": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "589157009": {
+      "#name": "Daily Heroic Story Mission: 1AU",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "606484622": {
+      "#name": "Black Armory signature",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "619321468": {
+      "#name": "The Damnation",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "622895925": {
+      "#name": "Arecibo",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "625165976": {
+      "#name": "The Trickster (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "632790902": {
+      "#name": "Cliffhanger",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "666063689": {
+      "#name": "Last Call",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "667604912": {
+      "#name": "Meditation: \"Looped\"",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "671904429": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "703311712": {
+      "#name": "Shard of the Traveler",
+      "activityModeTypes": [2, 7, 201]
+    },
+    "707826522": {
+      "#name": "Firewalled Haunted Forest",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "709854835": {
+      "#name": "Niobe's Torment",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "715306877": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "719906507": {
+      "#name": "The Third Spire",
+      "activityModeTypes": [6, 7, 40]
+    },
+    "722882932": {
+      "#name": "Defeat the Target",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "723733266": {
+      "#name": "The Runner (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "724887049": {
+      "#name": "Survey the Hive",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "743100125": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "750649238": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "782175145": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "782290869": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "785871069": {
+      "#name": "(Heroic) Unbreakable",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "789332628": {
+      "#name": "Thief of Thieves",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "798143184": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "801458995": {
+      "#name": "(Heroic) Unexpected Guests",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "808931822": {
+      "#name": "Postmodern Prometheus",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "834864522": {
+      "#name": "Curse of Osiris",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "837763871": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "840467755": {
+      "#name": "Field Assignment: Assassination",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "849242583": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "851766451": {
+      "#name": "[851766451]",
+      "activityModeTypes": [6, 7, 999]
+    },
+    "851841785": {
+      "#name": "The Machinist",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "855989781": {
+      "#name": "Reignite the Izanami Forge",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "856342832": {
+      "#name": "(Heroic) Deep Conversation",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "877831883": {
+      "#name": "Homecoming",
+      "activityModeTypes": [2, 7, 207]
+    },
+    "880665770": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "897272366": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "919252154": {
+      "#name": "Dark Alliance",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "926012363": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "927242860": {
+      "#name": "Ace in the Hole",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "938512773": {
+      "#name": "Unbroken",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "952862146": {
+      "#name": "Target: The Hangman",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "955852466": {
+      "#name": "1AU",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "957727787": {
+      "#name": "Gofannon Forge",
+      "activityModeTypes": [2, 7, 211]
+    },
+    "963938931": {
+      "#name": "Deep Conversation",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "964196803": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "965849694": {
+      "#name": "Protocol \"Perfected Form\"",
+      "activityModeTypes": [2, 7, 200]
+    },
+    "969385987": {
+      "#name": "Lighting the Dark",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "991410404": {
+      "#name": "Meditation: \"Hijacked\"",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "993152361": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "993905880": {
+      "#name": "(Heroic) Supply and Demand",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "996637433": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "999972877": {
+      "#name": "(Heroic) Stop and Go",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1002145272": {
+      "#name": "Tree of Probabilities",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "1003955024": {
+      "#name": "WANTED: Blood Cleaver",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "1011304245": {
+      "#name": "Chosen",
+      "activityModeTypes": [2, 7, 207]
+    },
+    "1018040791": {
+      "#name": "(Heroic) Getting Your Hands Dirty",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1018385878": {
+      "#name": "(Heroic) Dark Alliance",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1019362992": {
+      "#name": "Meditation: \"Homecoming\"",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "1019949956": {
+      "#name": "Forge Ignition",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "1021495354": {
+      "#name": "Ice and Shadow",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "1023966646": {
+      "#name": "Daily Heroic Story Mission: Payback",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "1034805570": {
+      "#name": "Meditation: \"A Garden World\"",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "1038710420": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1042784002": {
+      "#name": "Target: The Trickster",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1049899965": {
+      "#name": "Beyond Infinity",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "1053141615": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1057017675": {
+      "#name": "The Gateway",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "1063969232": {
+      "#name": "Invitation from the Emperor",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1070049743": {
+      "#name": "Daily Heroic Story Mission: High Plains Blues",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "1073289414": {
+      "#name": "Landing Zone",
+      "activityModeTypes": [6, 7, 600]
+    },
+    "1075001832": {
+      "#name": "Field Assignment: Assassination",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1075152813": {
+      "#name": "European Dead Zone",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "1076851943": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1085523978": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1090267699": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1099158615": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1099555105": {
+      "#name": "The Whisper (Heroic)",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "1102824603": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1105211124": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1107208644": {
+      "#name": "Hack the Planet",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1111101131": {
+      "#name": "WANTED: Silent Fang",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "1111176435": {
+      "#name": "[1111176435]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "1120584691": {
+      "#name": "Salvage mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1132291813": {
+      "#name": "Daily Heroic Story Mission: Scorned",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "1134562791": {
+      "#name": "Origin: Nessus",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "1154661682": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1159314159": {
+      "#name": "Poor Reception",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1164772243": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1166237584": {
+      "#name": "Pilgrimage",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "1175770231": {
+      "#name": "The Gateway",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "1194986370": {
+      "#name": "Ice and Shadow",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "1202325606": {
+      "#name": "Ice and Shadow",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "1202325607": {
+      "#name": "Ice and Shadow",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "1206154103": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1225970098": {
+      "#name": "Lost Crew",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1228327586": {
+      "#name": "Anti-Anti-Air",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1229540554": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1233767907": {
+      "#name": "Hellas Basin",
+      "activityModeTypes": [6, 7, 600]
+    },
+    "1243390694": {
+      "#name": "Larceny",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "1249965655": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1250426564": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1254990192": {
+      "#name": "No Safe Distance",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1255167276": {
+      "#name": "Meditation: \"Strange Terrain\"",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "1259766043": {
+      "#name": "Daily Heroic Story Mission: Beyond Infinity",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "1265390366": {
+      "#name": "Poor Reception",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1267556998": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1275562432": {
+      "#name": "(Heroic) Thief of Thieves",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1278641935": {
+      "#name": "A Garden World",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "1279862229": {
+      "#name": "Bug in the System",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1281404748": {
+      "#name": "The Reckoning",
+      "activityModeTypes": [76, 7, 212]
+    },
+    "1289867188": {
+      "#name": "Unbreakable",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1294490226": {
+      "#name": "Deathly Tremors",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1302437673": {
+      "#name": "(Heroic) A Frame Job",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1313648352": {
+      "#name": "Daily Heroic Story Mission: Looped",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "1313738982": {
+      "#name": "Dark Monastery",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "1331268141": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1333621919": {
+      "#name": "(Heroic) Unsafe at Any Speed",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1338487764": {
+      "#name": "A Hum of Starlight",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "1367215417": {
+      "#name": "Lost Souvenir",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "1375839088": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1412142789": {
+      "#name": "[1412142789]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "1416597166": {
+      "#name": "Supply and Demand",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1418217191": {
+      "#name": "The Up and Up (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1419459505": {
+      "#name": "Off-World Recovery",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "1426391278": {
+      "#name": "Deep Storage",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "1428050875": {
+      "#name": "My Captain",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "1429621744": {
+      "#name": "Target: The Rider",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1434072700": {
+      "#name": "Bergusia Forge",
+      "activityModeTypes": [2, 7, 211]
+    },
+    "1446606128": {
+      "#name": "The Reckoning: Tier III",
+      "activityModeTypes": [76, 7, 212]
+    },
+    "1449366986": {
+      "#name": "Target: The Mad Bomber",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1451946951": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1454880421": {
+      "#name": "Haunted Forest",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "1463335228": {
+      "#name": "[1463335228]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "1463335231": {
+      "#name": "[1463335231]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "1466550401": {
+      "#name": "Unsafe at Any Speed",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1483179969": {
+      "#name": "Forge Ignition",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "1490848577": {
+      "#name": "Looped",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "1491022087": {
+      "#name": "Exodus Siege",
+      "activityModeTypes": [6, 7, 203]
+    },
+    "1498466193": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1503376677": {
+      "#name": "Hephaestus",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1506080581": {
+      "#name": "Volundr Forge",
+      "activityModeTypes": [2, 7, 211]
+    },
+    "1512980468": {
+      "#name": "The Gateway",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "1513386090": {
+      "#name": "Daily Heroic Story Mission: Last Call",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "1525152742": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1525633702": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1533124168": {
+      "#name": "[1533124168]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "1533124171": {
+      "#name": "[1533124171]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "1534123682": {
+      "#name": "Daily Heroic Story Mission: Unbroken",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "1536764325": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1557641249": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1570598249": {
+      "#name": "The Runner",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1581219251": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1602328239": {
+      "#name": "Daily Heroic Story Mission: Six",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "1612844171": {
+      "#name": "Festival of the Lost… Sector",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "1614692057": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1640956655": {
+      "#name": "Broken Courier",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "1643069750": {
+      "#name": "Incursion",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1646219807": {
+      "#name": "Larceny",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "1651979106": {
+      "#name": "Postmodern Prometheus",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1657356109": {
+      "#name": "Psionic Potential (Heroic)",
+      "activityModeTypes": [2, 7, 603]
+    },
+    "1658347443": {
+      "#name": "Homecoming",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "1671235700": {
+      "#name": "(Heroic) Release",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1679453803": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1682036469": {
+      "#name": "Deathly Tremors (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1685237649": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1689885469": {
+      "#name": "Field Assignment: Pilgrimage",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1691057182": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1694456220": {
+      "#name": "Visions of Light",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "1705677315": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1725302079": {
+      "#name": "The Up and Up",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1740310101": {
+      "#name": "Bug in the System (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1756055546": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1760460831": {
+      "#name": "Fury",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "1773400654": {
+      "#name": "Invitation from the Emperor",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1778450722": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1783922093": {
+      "#name": "Incursion (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1786054751": {
+      "#name": "Premeditation",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "1790343591": {
+      "#name": "Shard of the Traveler",
+      "activityModeTypes": [2, 7, 201]
+    },
+    "1799380107": {
+      "#name": "The Lost Cryptarch",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "1800749202": {
+      "#name": "The Rider (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1803806070": {
+      "#name": "[1803806070]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "1811228210": {
+      "#name": "Psionic Potential (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1823921651": {
+      "#name": "The Up and Up",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1824067376": {
+      "#name": "Road Rage",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1829866365": {
+      "#name": "Getting Your Hands Dirty",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1831470693": {
+      "#name": "The Menagerie: The Menagerie (Heroic) Matchmaking",
+      "activityModeTypes": [77, 7, 213]
+    },
+    "1848339284": {
+      "#name": "Neutralize the Target",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1872813880": {
+      "#name": "Daily Heroic Story Mission: Deep Storage",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "1874578888": {
+      "#name": "Bug in the System (Heroic)",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1878615566": {
+      "#name": "Forge Ignition",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "1882259272": {
+      "#name": "Daily Heroic Story Mission: The Gateway",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "1893059148": {
+      "#name": "The Shattered Throne",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "1903826490": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1906514856": {
+      "#name": "Daily Heroic Story Mission: Chosen",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "1926167080": {
+      "#name": "Strange Terrain",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "1928964032": {
+      "#name": "The Tangled Shore",
+      "activityModeTypes": [6, 7, 600]
+    },
+    "1928964033": {
+      "#name": "The Tangled Shore",
+      "activityModeTypes": [6, 7, 600]
+    },
+    "1949546348": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1952521609": {
+      "#name": "Shard of the Traveler",
+      "activityModeTypes": [2, 7, 201]
+    },
+    "1956541147": {
+      "#name": "Calling Them Home",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1967025365": {
+      "#name": "Ice and Shadow",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "1969800443": {
+      "#name": "Arecibo",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1971154629": {
+      "#name": "Unsafe at Any Speed",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "1980705864": {
+      "#name": "Collect Hive Tablets",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1981289329": {
+      "#name": "Exodus Siege",
+      "activityModeTypes": [6, 7, 203]
+    },
+    "1987624188": {
+      "#name": "The Up and Up (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "1992706528": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1996247142": {
+      "#name": "Field Assignment: Salvage",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1998911089": {
+      "#name": "Dead Drop",
+      "activityModeTypes": [6, 7, 206]
+    },
+    "2000185095": {
+      "#name": "Daily Heroic Story Mission: Fury",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "2001433484": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2025057095": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2032534090": {
+      "#name": "The Shattered Throne",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "2044882505": {
+      "#name": "Defeat enemies",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2047813119": {
+      "#name": "The Dreaming City",
+      "activityModeTypes": [6, 7, 600]
+    },
+    "2052289205": {
+      "#name": "Combustion",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "2062544704": {
+      "#name": "Mystery and Potential",
+      "activityModeTypes": [6, 7, 606]
+    },
+    "2067233851": {
+      "#name": "Not Even the Darkness",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "2068689865": {
+      "#name": "Destiny 2: Forsaken",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "2069143995": {
+      "#name": "(Heroic) Lost Crew",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "2079994698": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2091731913": {
+      "#name": "Legacy Code",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "2113712124": {
+      "#name": "Sacrilege",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "2134290761": {
+      "#name": "Defeat Enemies",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2146977720": {
+      "#name": "Daily Heroic Story Mission: Nothing Left to Say",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "2151274060": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2159219121": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2174556965": {
+      "#name": "A Frame Job",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "2183066491": {
+      "#name": "The Farm",
+      "activityModeTypes": [2, 7, 40]
+    },
+    "2184866967": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2187073261": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2199986157": {
+      "#name": "Hijacked",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "2207037656": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2219006909": {
+      "#name": "(Heroic) Arecibo",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "2231840083": {
+      "#name": "Siren Song",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "2243336789": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2245202378": {
+      "#name": "(Heroic) Anti-Anti-Air",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "2249739266": {
+      "#name": "The Reckoning",
+      "activityModeTypes": [2, 7, 212]
+    },
+    "2250935166": {
+      "#name": "Deathless",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "2258680077": {
+      "#name": "The Mindbender (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "2259811067": {
+      "#name": "Shard of the Traveler",
+      "activityModeTypes": [2, 7, 201]
+    },
+    "2261527950": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2264636552": {
+      "#name": "Meditation: \"Combustion\"",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "2266954523": {
+      "#name": "The Farm",
+      "activityModeTypes": [2, 7, 40]
+    },
+    "2272383802": {
+      "#name": "Field Assignment: Salvage",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2276204547": {
+      "#name": "Omega",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "2278374121": {
+      "#name": "Unknown Space",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "2279197206": {
+      "#name": "A Deadly Trial",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "2287222467": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2288260902": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2291549972": {
+      "#name": "Enhance!",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "2297638408": {
+      "#name": "Fury",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "2301390667": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2302677459": {
+      "#name": "Psionic Potential",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "2307090074": {
+      "#name": "Signal Light",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "2310677039": {
+      "#name": "(Heroic) Calling Them Home",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "2327656989": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2327658858": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2336998357": {
+      "#name": "The Long Play",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "2340776707": {
+      "#name": "(Heroic) Poor Reception",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "2345788617": {
+      "#name": "Scorned",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "2351745587": {
+      "#name": "The Gateway",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "2375911307": {
+      "#name": "Unidentified Radiant Frame",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "2379494367": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2400231344": {
+      "#name": "The Frozen God",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "2420240009": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2427944384": {
+      "#name": "Meditation: \"Offworld Recovery\"",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "2428721124": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2431838030": {
+      "#name": "WANTED: Arcadian Chord",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "2445164291": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2468202005": {
+      "#name": "Shard of the Traveler",
+      "activityModeTypes": [2, 7, 201]
+    },
+    "2472211469": {
+      "#name": "Contested Zone: Metropolis",
+      "activityModeTypes": [6, 7, 999]
+    },
+    "2478782573": {
+      "#name": "[2478782573]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "2504933700": {
+      "#name": "Target: The Rifleman",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "2509539864": {
+      "#name": "The Menagerie: The Menagerie (Heroic)",
+      "activityModeTypes": [77, 7, 213]
+    },
+    "2509539865": {
+      "#name": "The Menagerie: The Menagerie (Heroic)",
+      "activityModeTypes": [77, 7, 213]
+    },
+    "2509539867": {
+      "#name": "The Menagerie: The Menagerie (Heroic)",
+      "activityModeTypes": [77, 7, 213]
+    },
+    "2517540332": {
+      "#name": "No Safe Distance",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "2519564410": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2524369154": {
+      "#name": "Firewalled Verdant Forest",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "2536491635": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2558926634": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2559514952": {
+      "#name": "Utopia",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "2561308143": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2568845238": {
+      "#name": "Daily Heroic Story Mission: Off-World Recovery",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "2573702057": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2574607799": {
+      "#name": "Bad Neighbors",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "2575990417": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2580713007": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2588220738": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2604307096": {
+      "#name": "Another Lost Forge",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "2610112492": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2619236227": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2629975203": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2629998776": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2639045396": {
+      "#name": "Scourge of the Armory",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "2642769170": {
+      "#name": "Six",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "2651851341": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2656947700": {
+      "#name": "Izanami Forge",
+      "activityModeTypes": [2, 7, 211]
+    },
+    "2660895412": {
+      "#name": "Daily Heroic Story Mission: Ice and Shadow",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "2665134323": {
+      "#name": "Release",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "2675435236": {
+      "#name": "Bug in the System",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "2684479494": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2695348045": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2702476101": {
+      "#name": "Tower",
+      "activityModeTypes": [2, 7, 40]
+    },
+    "2708828207": {
+      "#name": "Utopia",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "2718696427": {
+      "#name": "Will of the Thousands",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "2731208666": {
+      "#name": "Zero Hour (Heroic)",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "2735529319": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2737739053": {
+      "#name": "Deep Conversation",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "2752743635": {
+      "#name": "Hephaestus (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "2759086913": {
+      "#name": "[2759086913]",
+      "activityModeTypes": [6, 7, 999]
+    },
+    "2768347363": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2772894447": {
+      "#name": "Daily Heroic Story Mission: Larceny",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "2773222353": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2776154899": {
+      "#name": "Daily Heroic Story Mission: Sacrilege",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "2776929937": {
+      "#name": "Differential Diagnosis",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "2782300570": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2784803584": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2798856614": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2814410372": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2814646673": {
+      "#name": "The Dreaming City",
+      "activityModeTypes": [6, 7, 600]
+    },
+    "2831644165": {
+      "#name": "(Heroic) Reversing the Polarity",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "2846775197": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2892775311": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2896212196": {
+      "#name": "Collect Supplies",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2905427653": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2908287325": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2926767881": {
+      "#name": "Payback",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "2948690563": {
+      "#name": "Destiny 2: Forsaken Annual Pass",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "2949941834": {
+      "#name": "Unexpected Guests",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "2962137994": {
+      "#name": "Daily Heroic Story Mission: Ace in the Hole",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "2966841322": {
+      "#name": "Incursion",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "2969403085": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "2974605887": {
+      "#name": "Awakening",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "3002511278": {
+      "#name": "Dark Alliance",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3008658049": {
+      "#name": "Daily Heroic Story Mission: Pilgrimage",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "3015346707": {
+      "#name": "(Heroic) Bad Neighbors",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3026637018": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3033151437": {
+      "#name": "(Heroic) Siren Song",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3038694763": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3042112297": {
+      "#name": "(Heroic) Hack the Planet",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3049122128": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3069330044": {
+      "#name": "The Hangman (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3078057004": {
+      "#name": "Field Assignment: Pilgrimage",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3091400008": {
+      "#name": "[3091400008]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "3091400011": {
+      "#name": "[3091400011]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "3094124867": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3105090879": {
+      "#name": "Adieu",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "3107795800": {
+      "#name": "The Menagerie: The Menagerie (Heroic) Matchmaking",
+      "activityModeTypes": [77, 7, 213]
+    },
+    "3108278497": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3115455134": {
+      "#name": "The Menagerie: The Menagerie (Heroic) Matchmaking",
+      "activityModeTypes": [77, 7, 213]
+    },
+    "3140524926": {
+      "#name": "Unbreakable",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3143659188": {
+      "#name": "The Reckoning: Tier I",
+      "activityModeTypes": [76, 7, 212]
+    },
+    "3143798436": {
+      "#name": "European Dead Zone",
+      "activityModeTypes": [6, 7, 600]
+    },
+    "3147707814": {
+      "#name": "Riptide",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "3148431353": {
+      "#name": "Getting Your Hands Dirty",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3149513022": {
+      "#name": "A Hum of Starlight",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "3150153711": {
+      "#name": "Chances and Choices",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "3151789989": {
+      "#name": "???",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "3172367001": {
+      "#name": "Shard of the Traveler",
+      "activityModeTypes": [2, 7, 201]
+    },
+    "3173130826": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3204449126": {
+      "#name": "A Piece of the Past",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "3205547455": {
+      "#name": "Daily Heroic Story Mission: Riptide",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "3206026167": {
+      "#name": "The Gateway",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "3208779612": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3211303924": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3211568383": {
+      "#name": "Siren Song",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3215844014": {
+      "#name": "Meditation: \"Omega\"",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "3226038743": {
+      "#name": "Last Call",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "3226632017": {
+      "#name": "Meditation: \"A Deadly Trial\"",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "3231065327": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3232506937": {
+      "#name": "Zero Hour",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "3248193378": {
+      "#name": "The Up and Up (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3249986335": {
+      "#name": "Destiny 2: Forsaken",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "3255524827": {
+      "#name": "(Heroic) Cliffhanger",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3264501078": {
+      "#name": "The Reckoning: Tier II",
+      "activityModeTypes": [76, 7, 212]
+    },
+    "3268684190": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3271773240": {
+      "#name": "Daily Heroic Story Mission: Combustion",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "3272002712": {
+      "#name": "Hope",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "3277510674": {
+      "#name": "Deathless",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3283790633": {
+      "#name": "A Frame Job",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3289681664": {
+      "#name": "Lost Crew",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3289842296": {
+      "#name": "Curse of Osiris",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "3292523719": {
+      "#name": "Meditation: \"The Gateway\"",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "3298775062": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3303685562": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3304835347": {
+      "#name": "Calling Them Home",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3336275007": {
+      "#name": "Meditation: \"Six\"",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "3337731612": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3346345105": {
+      "#name": "Experimental Treatment",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "3346680969": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3352425710": {
+      "#name": "Looking for a Lead",
+      "activityModeTypes": [6, 7, 206]
+    },
+    "3359466010": {
+      "#name": "Spark",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "3370527053": {
+      "#name": "The Runner (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3371785215": {
+      "#name": "Collect Hive Tablets",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3376869257": {
+      "#name": "Salvage mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3377331506": {
+      "#name": "Survey the Area",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3379039897": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3384410381": {
+      "#name": "Psionic Potential",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3405569225": {
+      "#name": "The Frozen God",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "3410237988": {
+      "#name": "1AU",
+      "activityModeTypes": [2, 7, 207]
+    },
+    "3410530777": {
+      "#name": "Calculated Action",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "3417504239": {
+      "#name": "Riptide",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "3434499700": {
+      "#name": "Initiation",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "3467071851": {
+      "#name": "Field Assignment: Pilgrimage",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3479544154": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3481058226": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3485876484": {
+      "#name": "Road Rage",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3487576414": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3489692681": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3500791146": {
+      "#name": "Cliffhanger",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3515770727": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3535117433": {
+      "#name": "Field Assignment: Assassination",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3535622620": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3536651661": {
+      "#name": "The Other Side",
+      "activityModeTypes": [6, 7, 206]
+    },
+    "3543680867": {
+      "#name": "Strange Terrain",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "3559661941": {
+      "#name": "Nothing Left to Say",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "3580793473": {
+      "#name": "Meditation: \"1AU\"",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "3601218952": {
+      "#name": "The Rifleman (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3601558330": {
+      "#name": "Field Assignment: Salvage",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3612741503": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3614852628": {
+      "#name": "Repair the Izanami Igniter",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "3627094182": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3628257792": {
+      "#name": "The Conversation",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "3634370598": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3641102502": {
+      "#name": "Refurbished Izanami Igniter",
+      "activityModeTypes": [2, 7, 210]
+    },
+    "3642412717": {
+      "#name": "Meditation: \"Tree of Probabilities\"",
+      "activityModeTypes": [2, 7, 204]
+    },
+    "3644215993": {
+      "#name": "(Heroic) Road Rage",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3645117987": {
+      "#name": "Bad Neighbors",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3652531274": {
+      "#name": "Shard of the Traveler",
+      "activityModeTypes": [2, 7, 201]
+    },
+    "3662124488": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3664729722": {
+      "#name": "(Heroic) Exodus Siege",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3664915501": {
+      "#name": "Red Legion, Black Oil",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3669054326": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3676143304": {
+      "#name": "WANTED: Arcadian Chord",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "3679941640": {
+      "#name": "Homecoming",
+      "activityModeTypes": [2, 7, 207]
+    },
+    "3679946187": {
+      "#name": "WANTED: Silent Fang",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "3688464794": {
+      "#name": "The Importance of Networking",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "3691789482": {
+      "#name": "(Heroic) No Safe Distance",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3700722865": {
+      "#name": "Release",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3702064261": {
+      "#name": "Data Requisition",
+      "activityModeTypes": [6, 7, 200]
+    },
+    "3738159218": {
+      "#name": "Unbroken",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "3746811765": {
+      "#name": "The Oracle Engine",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "3752039537": {
+      "#name": "Reversing the Polarity",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3774573332": {
+      "#name": "WANTED: Arcadian Chord",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "3780356141": {
+      "#name": "Stop and Go",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3792746061": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3801976119": {
+      "#name": "Meditation: \"Will of the Thousands\"",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "3805779101": {
+      "#name": "WANTED: Combustor Valus",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "3806583577": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3834639884": {
+      "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3835150701": {
+      "#name": "The Verdant Forest",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "3836086286": {
+      "#name": "Unexpected Guests",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3858493935": {
+      "#name": "The Tribute Hall",
+      "activityModeTypes": [6, 7, 206]
+    },
+    "3865706603": {
+      "#name": "Meditation: \"Pilgrimage\"",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "3872525353": {
+      "#name": "Stop and Go",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3874292246": {
+      "#name": "Haunted Forest",
+      "activityModeTypes": [2, 7, 206]
+    },
+    "3909841711": {
+      "#name": "Psionic Potential (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3914655049": {
+      "#name": "Collect Supplies",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3920569453": {
+      "#name": "Bug in the System (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "3926419686": {
+      "#name": "Target: The Mindbender",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "3957909528": {
+      "#name": "WANTED: Blood Cleaver",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "3958400416": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3966792859": {
+      "#name": "Nessus, Unstable Centaur",
+      "activityModeTypes": [6, 7, 600]
+    },
+    "3978357488": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "3982474534": {
+      "#name": "Payback",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "4009655461": {
+      "#name": "Daily Heroic Story Mission: The Machinist",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "4034557395": {
+      "#name": "Homecoming",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "4043714237": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "4047570705": {
+      "#name": "Combat Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "4050886070": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "4055504678": {
+      "#name": "[4055504678]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "4067720717": {
+      "#name": "[4067720717]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "4086427957": {
+      "#name": "[4086427957]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "4086427958": {
+      "#name": "[4086427958]",
+      "activityModeTypes": [2, 7, 999]
+    },
+    "4094398454": {
+      "#name": "Deathly Tremors",
+      "activityModeTypes": [6, 7, 602]
+    },
+    "4095207117": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "4103844069": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "4119522487": {
+      "#name": "Meditation: \"Deep Storage\"",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "4150577752": {
+      "#name": "WANTED: The Eye in the Dark",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "4159221189": {
+      "#name": "Io",
+      "activityModeTypes": [6, 7, 600]
+    },
+    "4166562681": {
+      "#name": "Titan",
+      "activityModeTypes": [6, 7, 600]
+    },
+    "4166632210": {
+      "#name": "The Frozen God",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "4170982146": {
+      "#name": "Meditation: \"Ice and Shadow\"",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "4174103238": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "4199058482": {
+      "#name": "WANTED: The Eye in the Dark",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "4204849452": {
+      "#name": "Nothing Left to Say",
+      "activityModeTypes": [2, 7, 208]
+    },
+    "4209774794": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "4216926874": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "4231544111": {
+      "#name": "Survey mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "4234327344": {
+      "#name": "Daily Heroic Story Mission: A Deadly Trial",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "4237009519": {
+      "#name": "Daily Heroic Story Mission: Omega",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "4238309598": {
+      "#name": "The Mad Bomber (Heroic)",
+      "activityModeTypes": [6, 7, 603]
+    },
+    "4239233351": {
+      "#name": "Meditation: \"Spark\"",
+      "activityModeTypes": [2, 7, 203]
+    },
+    "4244464899": {
+      "#name": "Daily Heroic Story Mission: Hijacked",
+      "activityModeTypes": [2, 7, 209]
+    },
+    "4253800115": {
+      "#name": "The Frozen God",
+      "activityModeTypes": [2, 7, 205]
+    },
+    "4254776501": {
+      "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "4275462311": {
+      "#name": "WANTED: Blood Cleaver",
+      "activityModeTypes": [6, 7, 605]
+    },
+    "4283649349": {
+      "#name": "Assassination Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "4291922223": {
+      "#name": "Hope",
+      "activityModeTypes": [2, 7, 203]
+    }
+  }
+}
