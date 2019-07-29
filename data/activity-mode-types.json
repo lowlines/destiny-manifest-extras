@@ -62,7 +62,7 @@
     },
     "96442917": {
       "#name": "(Heroic) Red Legion, Black Oil",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "98112589": {
       "#name": "Field Assignment: Salvage",
@@ -106,11 +106,11 @@
     },
     "185515551": {
       "#name": "(Heroic) Invitation from the Emperor",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "186006588": {
       "#name": "WANTED: Gravetide Summoner",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "189324537": {
       "#name": "Salvage Mission",
@@ -170,7 +170,7 @@
     },
     "319240296": {
       "#name": "(Heroic) Deathless",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "320680002": {
       "#name": "Supply and Demand",
@@ -198,7 +198,7 @@
     },
     "386959931": {
       "#name": "WANTED: Gravetide Summoner",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "387171436": {
       "#name": "Salvage Mission",
@@ -230,7 +230,7 @@
     },
     "449926115": {
       "#name": "(Heroic) Postmodern Prometheus",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "459955094": {
       "#name": "Analysis Mission",
@@ -246,7 +246,7 @@
     },
     "466447952": {
       "#name": "Destiny 2: Shadowkeep",
-      "activityModeTypes": [2, 7, 214]
+      "activityModeTypes": [2, 7, 213]
     },
     "474193231": {
       "#name": "Survey mission",
@@ -258,11 +258,11 @@
     },
     "494635832": {
       "#name": "WANTED: Silent Fang",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "497583046": {
       "#name": "WANTED: Gravetide Summoner",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "498220076": {
       "#name": "Salvage Mission",
@@ -270,7 +270,7 @@
     },
     "501703034": {
       "#name": "The Reckoning",
-      "activityModeTypes": [2, 7, 212]
+      "activityModeTypes": [2, 7, 76]
     },
     "521403014": {
       "#name": "Last Call",
@@ -330,7 +330,7 @@
     },
     "625165976": {
       "#name": "The Trickster (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "632790902": {
       "#name": "Cliffhanger",
@@ -374,7 +374,7 @@
     },
     "723733266": {
       "#name": "The Runner (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "724887049": {
       "#name": "Survey the Hive",
@@ -398,7 +398,7 @@
     },
     "785871069": {
       "#name": "(Heroic) Unbreakable",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "789332628": {
       "#name": "Thief of Thieves",
@@ -410,7 +410,7 @@
     },
     "801458995": {
       "#name": "(Heroic) Unexpected Guests",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "808931822": {
       "#name": "Postmodern Prometheus",
@@ -446,7 +446,7 @@
     },
     "856342832": {
       "#name": "(Heroic) Deep Conversation",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "877831883": {
       "#name": "Homecoming",
@@ -514,7 +514,7 @@
     },
     "993905880": {
       "#name": "(Heroic) Supply and Demand",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "996637433": {
       "#name": "Field Assignment: Active Duty",
@@ -522,7 +522,7 @@
     },
     "999972877": {
       "#name": "(Heroic) Stop and Go",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1002145272": {
       "#name": "Tree of Probabilities",
@@ -530,7 +530,7 @@
     },
     "1003955024": {
       "#name": "WANTED: Blood Cleaver",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "1011304245": {
       "#name": "Chosen",
@@ -538,11 +538,11 @@
     },
     "1018040791": {
       "#name": "(Heroic) Getting Your Hands Dirty",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1018385878": {
       "#name": "(Heroic) Dark Alliance",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1019362992": {
       "#name": "Meditation: \"Homecoming\"",
@@ -638,7 +638,7 @@
     },
     "1111101131": {
       "#name": "WANTED: Silent Fang",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "1111176435": {
       "#name": "[1111176435]",
@@ -742,7 +742,7 @@
     },
     "1275562432": {
       "#name": "(Heroic) Thief of Thieves",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1278641935": {
       "#name": "A Garden World",
@@ -751,10 +751,6 @@
     "1279862229": {
       "#name": "Bug in the System",
       "activityModeTypes": [6, 7, 602]
-    },
-    "1281404748": {
-      "#name": "The Reckoning",
-      "activityModeTypes": [76, 7, 212]
     },
     "1289867188": {
       "#name": "Unbreakable",
@@ -766,7 +762,7 @@
     },
     "1302437673": {
       "#name": "(Heroic) A Frame Job",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1313648352": {
       "#name": "Daily Heroic Story Mission: Looped",
@@ -782,7 +778,7 @@
     },
     "1333621919": {
       "#name": "(Heroic) Unsafe at Any Speed",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1338487764": {
       "#name": "A Hum of Starlight",
@@ -806,7 +802,7 @@
     },
     "1418217191": {
       "#name": "The Up and Up (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1419459505": {
       "#name": "Off-World Recovery",
@@ -827,10 +823,6 @@
     "1434072700": {
       "#name": "Bergusia Forge",
       "activityModeTypes": [2, 7, 211]
-    },
-    "1446606128": {
-      "#name": "The Reckoning: Tier III",
-      "activityModeTypes": [76, 7, 212]
     },
     "1449366986": {
       "#name": "Target: The Mad Bomber",
@@ -954,7 +946,7 @@
     },
     "1657356109": {
       "#name": "Psionic Potential (Heroic)",
-      "activityModeTypes": [2, 7, 603]
+      "activityModeTypes": [2, 7, 58]
     },
     "1658347443": {
       "#name": "Homecoming",
@@ -962,7 +954,7 @@
     },
     "1671235700": {
       "#name": "(Heroic) Release",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1679453803": {
       "#name": "Salvage Mission",
@@ -970,7 +962,7 @@
     },
     "1682036469": {
       "#name": "Deathly Tremors (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1685237649": {
       "#name": "Assassination Mission",
@@ -998,7 +990,7 @@
     },
     "1740310101": {
       "#name": "Bug in the System (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1756055546": {
       "#name": "Salvage Mission",
@@ -1018,7 +1010,7 @@
     },
     "1783922093": {
       "#name": "Incursion (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1786054751": {
       "#name": "Premeditation",
@@ -1034,7 +1026,7 @@
     },
     "1800749202": {
       "#name": "The Rider (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1803806070": {
       "#name": "[1803806070]",
@@ -1042,7 +1034,7 @@
     },
     "1811228210": {
       "#name": "Psionic Potential (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1823921651": {
       "#name": "The Up and Up",
@@ -1055,10 +1047,6 @@
     "1829866365": {
       "#name": "Getting Your Hands Dirty",
       "activityModeTypes": [6, 7, 602]
-    },
-    "1831470693": {
-      "#name": "The Menagerie: The Menagerie (Heroic) Matchmaking",
-      "activityModeTypes": [77, 7, 213]
     },
     "1848339284": {
       "#name": "Neutralize the Target",
@@ -1138,7 +1126,7 @@
     },
     "1987624188": {
       "#name": "The Up and Up (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "1992706528": {
       "#name": "Survey mission",
@@ -1182,7 +1170,7 @@
     },
     "2062544704": {
       "#name": "Mystery and Potential",
-      "activityModeTypes": [6, 7, 606]
+      "activityModeTypes": [6, 7, 212]
     },
     "2067233851": {
       "#name": "Not Even the Darkness",
@@ -1194,7 +1182,7 @@
     },
     "2069143995": {
       "#name": "(Heroic) Lost Crew",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "2079994698": {
       "#name": "Survey mission",
@@ -1250,7 +1238,7 @@
     },
     "2219006909": {
       "#name": "(Heroic) Arecibo",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "2231840083": {
       "#name": "Siren Song",
@@ -1262,11 +1250,11 @@
     },
     "2245202378": {
       "#name": "(Heroic) Anti-Anti-Air",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "2249739266": {
       "#name": "The Reckoning",
-      "activityModeTypes": [2, 7, 212]
+      "activityModeTypes": [2, 7, 76]
     },
     "2250935166": {
       "#name": "Deathless",
@@ -1274,7 +1262,7 @@
     },
     "2258680077": {
       "#name": "The Mindbender (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "2259811067": {
       "#name": "Shard of the Traveler",
@@ -1338,7 +1326,7 @@
     },
     "2310677039": {
       "#name": "(Heroic) Calling Them Home",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "2327656989": {
       "#name": "Combat Mission",
@@ -1354,7 +1342,7 @@
     },
     "2340776707": {
       "#name": "(Heroic) Poor Reception",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "2345788617": {
       "#name": "Scorned",
@@ -1390,7 +1378,7 @@
     },
     "2431838030": {
       "#name": "WANTED: Arcadian Chord",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "2445164291": {
       "#name": "Assassination Mission",
@@ -1411,18 +1399,6 @@
     "2504933700": {
       "#name": "Target: The Rifleman",
       "activityModeTypes": [6, 7, 602]
-    },
-    "2509539864": {
-      "#name": "The Menagerie: The Menagerie (Heroic)",
-      "activityModeTypes": [77, 7, 213]
-    },
-    "2509539865": {
-      "#name": "The Menagerie: The Menagerie (Heroic)",
-      "activityModeTypes": [77, 7, 213]
-    },
-    "2509539867": {
-      "#name": "The Menagerie: The Menagerie (Heroic)",
-      "activityModeTypes": [77, 7, 213]
     },
     "2517540332": {
       "#name": "No Safe Distance",
@@ -1558,7 +1534,7 @@
     },
     "2752743635": {
       "#name": "Hephaestus (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "2759086913": {
       "#name": "[2759086913]",
@@ -1606,7 +1582,7 @@
     },
     "2831644165": {
       "#name": "(Heroic) Reversing the Polarity",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "2846775197": {
       "#name": "Combat Mission",
@@ -1666,7 +1642,7 @@
     },
     "3015346707": {
       "#name": "(Heroic) Bad Neighbors",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "3026637018": {
       "#name": "Survey mission",
@@ -1674,7 +1650,7 @@
     },
     "3033151437": {
       "#name": "(Heroic) Siren Song",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "3038694763": {
       "#name": "Assassination Mission",
@@ -1682,7 +1658,7 @@
     },
     "3042112297": {
       "#name": "(Heroic) Hack the Planet",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "3049122128": {
       "#name": "Analysis Mission",
@@ -1690,7 +1666,7 @@
     },
     "3069330044": {
       "#name": "The Hangman (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "3078057004": {
       "#name": "Field Assignment: Pilgrimage",
@@ -1712,25 +1688,13 @@
       "#name": "Adieu",
       "activityModeTypes": [2, 7, 203]
     },
-    "3107795800": {
-      "#name": "The Menagerie: The Menagerie (Heroic) Matchmaking",
-      "activityModeTypes": [77, 7, 213]
-    },
     "3108278497": {
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
     },
-    "3115455134": {
-      "#name": "The Menagerie: The Menagerie (Heroic) Matchmaking",
-      "activityModeTypes": [77, 7, 213]
-    },
     "3140524926": {
       "#name": "Unbreakable",
       "activityModeTypes": [6, 7, 602]
-    },
-    "3143659188": {
-      "#name": "The Reckoning: Tier I",
-      "activityModeTypes": [76, 7, 212]
     },
     "3143798436": {
       "#name": "European Dead Zone",
@@ -1810,7 +1774,7 @@
     },
     "3248193378": {
       "#name": "The Up and Up (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "3249986335": {
       "#name": "Destiny 2: Forsaken",
@@ -1818,11 +1782,7 @@
     },
     "3255524827": {
       "#name": "(Heroic) Cliffhanger",
-      "activityModeTypes": [6, 7, 603]
-    },
-    "3264501078": {
-      "#name": "The Reckoning: Tier II",
-      "activityModeTypes": [76, 7, 212]
+      "activityModeTypes": [6, 7, 58]
     },
     "3268684190": {
       "#name": "Salvage Mission",
@@ -1894,7 +1854,7 @@
     },
     "3370527053": {
       "#name": "The Runner (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "3371785215": {
       "#name": "Collect Hive Tablets",
@@ -1994,7 +1954,7 @@
     },
     "3601218952": {
       "#name": "The Rifleman (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "3601558330": {
       "#name": "Field Assignment: Salvage",
@@ -2030,7 +1990,7 @@
     },
     "3644215993": {
       "#name": "(Heroic) Road Rage",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "3645117987": {
       "#name": "Bad Neighbors",
@@ -2046,7 +2006,7 @@
     },
     "3664729722": {
       "#name": "(Heroic) Exodus Siege",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "3664915501": {
       "#name": "Red Legion, Black Oil",
@@ -2058,7 +2018,7 @@
     },
     "3676143304": {
       "#name": "WANTED: Arcadian Chord",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "3679941640": {
       "#name": "Homecoming",
@@ -2066,7 +2026,7 @@
     },
     "3679946187": {
       "#name": "WANTED: Silent Fang",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "3688464794": {
       "#name": "The Importance of Networking",
@@ -2074,7 +2034,7 @@
     },
     "3691789482": {
       "#name": "(Heroic) No Safe Distance",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "3700722865": {
       "#name": "Release",
@@ -2098,7 +2058,7 @@
     },
     "3774573332": {
       "#name": "WANTED: Arcadian Chord",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "3780356141": {
       "#name": "Stop and Go",
@@ -2114,7 +2074,7 @@
     },
     "3805779101": {
       "#name": "WANTED: Combustor Valus",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "3806583577": {
       "#name": "Assassination Mission",
@@ -2150,7 +2110,7 @@
     },
     "3909841711": {
       "#name": "Psionic Potential (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "3914655049": {
       "#name": "Collect Supplies",
@@ -2158,7 +2118,7 @@
     },
     "3920569453": {
       "#name": "Bug in the System (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "3926419686": {
       "#name": "Target: The Mindbender",
@@ -2166,7 +2126,7 @@
     },
     "3957909528": {
       "#name": "WANTED: Blood Cleaver",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "3958400416": {
       "#name": "Survey mission",
@@ -2238,7 +2198,7 @@
     },
     "4150577752": {
       "#name": "WANTED: The Eye in the Dark",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "4159221189": {
       "#name": "Io",
@@ -2262,7 +2222,7 @@
     },
     "4199058482": {
       "#name": "WANTED: The Eye in the Dark",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "4204849452": {
       "#name": "Nothing Left to Say",
@@ -2290,7 +2250,7 @@
     },
     "4238309598": {
       "#name": "The Mad Bomber (Heroic)",
-      "activityModeTypes": [6, 7, 603]
+      "activityModeTypes": [6, 7, 58]
     },
     "4239233351": {
       "#name": "Meditation: \"Spark\"",
@@ -2310,7 +2270,7 @@
     },
     "4275462311": {
       "#name": "WANTED: Blood Cleaver",
-      "activityModeTypes": [6, 7, 605]
+      "activityModeTypes": [6, 7, 603]
     },
     "4283649349": {
       "#name": "Assassination Mission",

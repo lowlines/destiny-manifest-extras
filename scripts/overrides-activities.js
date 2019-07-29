@@ -22,6 +22,8 @@ module.exports = manifestData => {
 
     if (modeTypes.indexOf(63) !== -1) return; // Gambit
     if (modeTypes.indexOf(75) !== -1) return; // Gambit Prime
+    if (modeTypes.indexOf(76) !== -1) return; // Reckoning
+    if (modeTypes.indexOf(77) !== -1) return; // Menagerie
 
     Object.keys(lookupTables.ModeTypes).map(modeType => {
       const hashes = lookupTables.ModeTypes[modeType];
@@ -62,8 +64,6 @@ module.exports = manifestData => {
       };
     }
   });
-
-  console.log("ActivityOverrides", overrides);
 
   fs.writeFileSync(
     DATA_PATH,

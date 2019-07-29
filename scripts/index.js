@@ -4,8 +4,8 @@ const overrides = require("./overrides");
 async function run() {
   const manifestData = await manifest.getManifest();
   //   console.log(Object.keys(manifestData));
-  // overrides.downloadSpreadsheets();
-  // overrides.scanManifest(manifestData);
+  await overrides.downloadSpreadsheets();
+  await overrides.scanManifest(manifestData);
   overrides.generate();
 }
 

@@ -615,7 +615,7 @@ const ModeTypeHeroicAdventure = [
   625165976 // The Trickster (Heroic) (480)
 ];
 
-const ModeTypeWanted = [
+const ModeTypeWantedAdventure = [
   2431838030, // WANTED: Arcadian Chord (550)
   3676143304, // WANTED: Arcadian Chord (550)
   3679946187, // WANTED: Silent Fang (550)
@@ -690,6 +690,9 @@ const ModeTypeUnknown = [
 
 const ModeTypes = {
   "40": ModeTypeSocial,
+  "58": ModeTypeHeroicAdventure,
+  "76": ModeTypeReckoning,
+  "77": ModeTypeMenagerie,
 
   "200": ModeTypeLegacyQuest,
   "201": ModeTypeSubclassQuest,
@@ -702,17 +705,13 @@ const ModeTypes = {
   "209": ModeTypeHeroicStory,
   "210": ModeTypeBlackArmory,
   "211": ModeTypeForge,
-  "212": ModeTypeReckoning,
-  "213": ModeTypeMenagerie,
-  "214": ModeTypeShadowkeep,
+  "212": ModeTypeInvitationsOfTheNine,
+  "213": ModeTypeShadowkeep,
 
   "600": ModeTypeExplore,
   "601": ModeTypePatrols,
   "602": ModeTypeAdventure,
-  "603": ModeTypeHeroicAdventure,
-
-  "605": ModeTypeWanted,
-  "606": ModeTypeInvitationsOfTheNine,
+  "603": ModeTypeWantedAdventure,
 
   "999": ModeTypeUnknown
 };

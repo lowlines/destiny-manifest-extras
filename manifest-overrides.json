@@ -1,27 +1,15 @@
 {
-  "version": "2019-07-29T16:53:44.316Z",
+  "version": "2019-07-29T17:18:10.642Z",
   "worldContent": {
     "DestinyActivityDefinition": {
       "10898844": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "11199080": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "19982784": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1291433366,
         "displayProperties": {
           "name": "Watch Out!"
@@ -34,11 +22,7 @@
         }
       },
       "30240416": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 697305512,
         "displayProperties": {
           "name": "Severed Spine"
@@ -47,18 +31,11 @@
           "killEnemies": true,
           "bubbleHash": 2701633580,
           "itemHash": 0,
-          "enemyStrings": [
-            "Taken Polarizer",
-            "Taken Knight x2"
-          ]
+          "enemyStrings": ["Taken Polarizer", "Taken Knight x2"]
         }
       },
       "37050217": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 697305512,
         "displayProperties": {
           "name": "Afterimage"
@@ -71,18 +48,10 @@
         }
       },
       "40940368": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "51408141": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3311195705,
         "displayProperties": {
           "name": "Echoes of What Remains"
@@ -91,24 +60,14 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2414900593,
-          "enemyStrings": [
-            "Vandals"
-          ]
+          "enemyStrings": ["Vandals"]
         }
       },
       "53954174": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "57103244": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4200309587,
         "displayProperties": {
           "name": "Coasting"
@@ -121,65 +80,31 @@
         }
       },
       "60002467": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "74501540": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "78673128": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "80726883": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "82913930": {
-        "activityModeTypes": [
-          999
-        ]
+        "activityModeTypes": [999]
       },
       "90389924": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "96442917": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "98112589": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "104342360": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4200309587,
         "displayProperties": {
           "name": "Industrial Warfare"
@@ -192,11 +117,7 @@
         }
       },
       "116352029": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 933267223,
         "displayProperties": {
           "name": "Entanglement"
@@ -209,32 +130,16 @@
         }
       },
       "122988657": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "129918239": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "130838713": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "143647473": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 697305512,
         "displayProperties": {
           "name": "Dark Oasis"
@@ -243,17 +148,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 563154290,
-          "enemyStrings": [
-            "Taken"
-          ]
+          "enemyStrings": ["Taken"]
         }
       },
       "145136689": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2822410613,
         "displayProperties": {
           "name": "Cull the herd"
@@ -266,18 +165,10 @@
         }
       },
       "153537894": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "175598161": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3091570009,
         "displayProperties": {
           "name": "Cleaning Up the Streets"
@@ -286,31 +177,17 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2414900593,
-          "enemyStrings": [
-            "Dregs"
-          ]
+          "enemyStrings": ["Dregs"]
         }
       },
       "185515551": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "186006588": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "189324537": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2212414297,
         "displayProperties": {
           "name": "Brain Oxygenation"
@@ -319,17 +196,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 1459201683,
-          "enemyStrings": [
-            "Psions"
-          ]
+          "enemyStrings": ["Psions"]
         }
       },
       "197670945": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3861059923,
         "displayProperties": {
           "name": "Underground Fighting"
@@ -338,17 +209,11 @@
           "killEnemies": true,
           "bubbleHash": 702543394,
           "itemHash": 0,
-          "enemyStrings": [
-            "Subterranean Hydration Officer"
-          ]
+          "enemyStrings": ["Subterranean Hydration Officer"]
         }
       },
       "204298081": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 577912749,
         "displayProperties": {
           "name": "Lock the Gates!"
@@ -361,18 +226,10 @@
         }
       },
       "234065414": {
-        "activityModeTypes": [
-          2,
-          7,
-          207
-        ]
+        "activityModeTypes": [2, 7, 207]
       },
       "248066530": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2132187573,
         "displayProperties": {
           "name": "Half Empty"
@@ -381,24 +238,14 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2414900593,
-          "enemyStrings": [
-            "Fallen"
-          ]
+          "enemyStrings": ["Fallen"]
         }
       },
       "255819671": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "261349035": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1161967626,
         "displayProperties": {
           "name": "Robot Rocks"
@@ -407,24 +254,14 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 563154290,
-          "enemyStrings": [
-            "Vex"
-          ]
+          "enemyStrings": ["Vex"]
         }
       },
       "271962655": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "286324446": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4200309587,
         "displayProperties": {
           "name": "Environmental Storytelling"
@@ -433,17 +270,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2740871147,
-          "enemyStrings": [
-            "Cabal"
-          ]
+          "enemyStrings": ["Cabal"]
         }
       },
       "293858112": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2212414297,
         "displayProperties": {
           "name": "Firebase Fireworks"
@@ -456,11 +287,7 @@
         }
       },
       "298747401": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3861059923,
         "displayProperties": {
           "name": "Something More Refined"
@@ -473,11 +300,7 @@
         }
       },
       "298793060": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1291433366,
         "displayProperties": {
           "name": "Scavenged Components"
@@ -486,52 +309,26 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2641099036,
-          "enemyStrings": [
-            "Fallen"
-          ]
+          "enemyStrings": ["Fallen"]
         }
       },
       "305709154": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "313572698": {
-        "activityModeTypes": [
-          2,
-          7,
-          201
-        ]
+        "activityModeTypes": [2, 7, 201]
       },
       "319240296": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "320680002": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "340004423": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "355984230": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3091570009,
         "displayProperties": {
           "name": "Deep, Dark, and Down"
@@ -540,46 +337,23 @@
           "killEnemies": true,
           "bubbleHash": 3600472775,
           "itemHash": 0,
-          "enemyStrings": [
-            "Taken Decayer",
-            "Resilient Vandal x2"
-          ]
+          "enemyStrings": ["Taken Decayer", "Resilient Vandal x2"]
         }
       },
       "359488722": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "379330092": {
-        "activityModeTypes": [
-          2,
-          7,
-          201
-        ]
+        "activityModeTypes": [2, 7, 201]
       },
       "384786172": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "386959931": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "387171436": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1161967626,
         "displayProperties": {
           "name": "It Does a Bot Good"
@@ -588,17 +362,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2748499483,
-          "enemyStrings": [
-            "Goblins"
-          ]
+          "enemyStrings": ["Goblins"]
         }
       },
       "388289443": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3710329679,
         "displayProperties": {
           "name": "Seeing is Believing"
@@ -611,11 +379,7 @@
         }
       },
       "415388387": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2132187573,
         "displayProperties": {
           "name": "Taking Shelter"
@@ -628,11 +392,7 @@
         }
       },
       "429361491": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 577912749,
         "displayProperties": {
           "name": "Rupture Eruption"
@@ -641,17 +401,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 563154290,
-          "enemyStrings": [
-            "Vex"
-          ]
+          "enemyStrings": ["Vex"]
         }
       },
       "435989417": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4035573696,
         "displayProperties": {
           "name": "Logical Damage"
@@ -664,11 +418,7 @@
         }
       },
       "444087412": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3861059923,
         "displayProperties": {
           "name": "Wetwork"
@@ -681,25 +431,13 @@
         }
       },
       "445417088": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "449926115": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "459955094": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1094980045,
         "displayProperties": {
           "name": "What's in the Box"
@@ -712,11 +450,7 @@
         }
       },
       "461203479": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2212414297,
         "displayProperties": {
           "name": "Beneath the Surfaces"
@@ -729,32 +463,16 @@
         }
       },
       "464789944": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "466447952": {
-        "activityModeTypes": [
-          2,
-          7,
-          214
-        ]
+        "activityModeTypes": [2, 7, 213]
       },
       "474193231": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "474380713": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1702304883,
         "displayProperties": {
           "name": "Searching High and Low"
@@ -763,73 +481,35 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2988223906,
-          "enemyStrings": [
-            "Vex"
-          ]
+          "enemyStrings": ["Vex"]
         }
       },
       "494635832": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "497583046": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "498220076": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "501703034": {
-        "activityModeTypes": [
-          2,
-          7,
-          212
-        ]
+        "activityModeTypes": [2, 7, 76]
       },
       "521403014": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "530720427": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "539897061": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "539969356": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "545240418": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 933267223,
         "displayProperties": {
           "name": "What is This Place?"
@@ -842,11 +522,7 @@
         }
       },
       "549123191": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 577912749,
         "displayProperties": {
           "name": "Up in the Sky"
@@ -859,32 +535,16 @@
         }
       },
       "553537971": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "563435123": {
-        "activityModeTypes": [
-          2,
-          7,
-          207
-        ]
+        "activityModeTypes": [2, 7, 207]
       },
       "564863404": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "581323290": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1291433366,
         "displayProperties": {
           "name": "Shipping Costs"
@@ -897,67 +557,31 @@
         }
       },
       "589157009": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "606484622": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "619321468": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "622895925": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "625165976": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "632790902": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "666063689": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "667604912": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "671904429": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4035573696,
         "displayProperties": {
           "name": "Tanks and Tanks"
@@ -966,38 +590,20 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2414900593,
-          "enemyStrings": [
-            "Vandals"
-          ]
+          "enemyStrings": ["Vandals"]
         }
       },
       "703311712": {
-        "activityModeTypes": [
-          2,
-          7,
-          201
-        ]
+        "activityModeTypes": [2, 7, 201]
       },
       "707826522": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "709854835": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "715306877": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2132187573,
         "displayProperties": {
           "name": "Bathtime"
@@ -1010,18 +616,10 @@
         }
       },
       "719906507": {
-        "activityModeTypes": [
-          6,
-          7,
-          40
-        ]
+        "activityModeTypes": [6, 7, 40]
       },
       "722882932": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3899539020,
         "displayProperties": {
           "name": ""
@@ -1034,18 +632,10 @@
         }
       },
       "723733266": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "724887049": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1461622515,
         "displayProperties": {
           "name": ""
@@ -1058,11 +648,7 @@
         }
       },
       "743100125": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3854937584,
         "displayProperties": {
           "name": "Invisible Pollution"
@@ -1071,17 +657,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2414900593,
-          "enemyStrings": [
-            "Fallen"
-          ]
+          "enemyStrings": ["Fallen"]
         }
       },
       "750649238": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4205285323,
         "displayProperties": {
           "name": "Drained from the Dregs"
@@ -1090,17 +670,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2414900593,
-          "enemyStrings": [
-            "Dregs"
-          ]
+          "enemyStrings": ["Dregs"]
         }
       },
       "782175145": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 933267223,
         "displayProperties": {
           "name": "Acoustic Shadow"
@@ -1109,18 +683,11 @@
           "killEnemies": true,
           "bubbleHash": 701006849,
           "itemHash": 0,
-          "enemyStrings": [
-            "Attenuation Mind",
-            "?? Vex x2"
-          ]
+          "enemyStrings": ["Attenuation Mind", "?? Vex x2"]
         }
       },
       "782290869": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3710329679,
         "displayProperties": {
           "name": "Watch What Happens"
@@ -1133,25 +700,13 @@
         }
       },
       "785871069": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "789332628": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "798143184": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3091570009,
         "displayProperties": {
           "name": "Not in My Backyard"
@@ -1164,32 +719,16 @@
         }
       },
       "801458995": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "808931822": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "834864522": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "837763871": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3254430284,
         "displayProperties": {
           "name": "Not Like This"
@@ -1198,24 +737,14 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2988223906,
-          "enemyStrings": [
-            "Vex"
-          ]
+          "enemyStrings": ["Vex"]
         }
       },
       "840467755": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "849242583": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1291433366,
         "displayProperties": {
           "name": "Look at the Bones"
@@ -1228,46 +757,22 @@
         }
       },
       "851766451": {
-        "activityModeTypes": [
-          6,
-          7,
-          999
-        ]
+        "activityModeTypes": [6, 7, 999]
       },
       "851841785": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "855989781": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "856342832": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "877831883": {
-        "activityModeTypes": [
-          2,
-          7,
-          207
-        ]
+        "activityModeTypes": [2, 7, 207]
       },
       "880665770": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3854937584,
         "displayProperties": {
           "name": "The Hills Have You"
@@ -1280,25 +785,13 @@
         }
       },
       "897272366": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "919252154": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "926012363": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2212414297,
         "displayProperties": {
           "name": "Slamfire"
@@ -1307,59 +800,29 @@
           "killEnemies": true,
           "bubbleHash": 4206151375,
           "itemHash": 0,
-          "enemyStrings": [
-            "Artillery Operations Commander"
-          ]
+          "enemyStrings": ["Artillery Operations Commander"]
         }
       },
       "927242860": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "938512773": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "952862146": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "955852466": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "957727787": {
-        "activityModeTypes": [
-          2,
-          7,
-          211
-        ]
+        "activityModeTypes": [2, 7, 211]
       },
       "963938931": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "964196803": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1291433366,
         "displayProperties": {
           "name": "Running Dry, Somehow"
@@ -1368,38 +831,20 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2414900593,
-          "enemyStrings": [
-            "Dregs"
-          ]
+          "enemyStrings": ["Dregs"]
         }
       },
       "965849694": {
-        "activityModeTypes": [
-          2,
-          7,
-          200
-        ]
+        "activityModeTypes": [2, 7, 200]
       },
       "969385987": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "991410404": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "993152361": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 577912749,
         "displayProperties": {
           "name": "Corruption in the Rupture"
@@ -1408,108 +853,50 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 563154290,
-          "enemyStrings": [
-            "Taken"
-          ]
+          "enemyStrings": ["Taken"]
         }
       },
       "993905880": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "996637433": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "999972877": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1002145272": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "1003955024": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "1011304245": {
-        "activityModeTypes": [
-          2,
-          7,
-          207
-        ]
+        "activityModeTypes": [2, 7, 207]
       },
       "1018040791": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1018385878": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1019362992": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "1019949956": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "1021495354": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "1023966646": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "1034805570": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "1038710420": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1161967626,
         "displayProperties": {
           "name": "Defragmentation"
@@ -1518,32 +905,17 @@
           "killEnemies": true,
           "bubbleHash": 516030978,
           "itemHash": 0,
-          "enemyStrings": [
-            "Taken Virologist",
-            "Ravenous Taken Goblin x2"
-          ]
+          "enemyStrings": ["Taken Virologist", "Ravenous Taken Goblin x2"]
         }
       },
       "1042784002": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1049899965": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "1053141615": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 933267223,
         "displayProperties": {
           "name": "Mind Control"
@@ -1552,60 +924,29 @@
           "killEnemies": true,
           "bubbleHash": 896012584,
           "itemHash": 0,
-          "enemyStrings": [
-            "Igneous Mind",
-            "Quantum Harpy x2"
-          ]
+          "enemyStrings": ["Igneous Mind", "Quantum Harpy x2"]
         }
       },
       "1057017675": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "1063969232": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1070049743": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "1073289414": {
-        "activityModeTypes": [
-          6,
-          7,
-          600
-        ]
+        "activityModeTypes": [6, 7, 600]
       },
       "1075001832": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1075152813": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "1076851943": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3254430284,
         "displayProperties": {
           "name": "States of Matter"
@@ -1614,18 +955,11 @@
           "killEnemies": true,
           "bubbleHash": 537009175,
           "itemHash": 0,
-          "enemyStrings": [
-            "Liquid Mind",
-            "Quantum Goblin x2"
-          ]
+          "enemyStrings": ["Liquid Mind", "Quantum Goblin x2"]
         }
       },
       "1085523978": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2132187573,
         "displayProperties": {
           "name": "Brave New World"
@@ -1638,11 +972,7 @@
         }
       },
       "1090267699": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4205285323,
         "displayProperties": {
           "name": "The Point of No Return"
@@ -1651,32 +981,17 @@
           "killEnemies": true,
           "bubbleHash": 2382012660,
           "itemHash": 0,
-          "enemyStrings": [
-            "Ozone Polluter",
-            "Resilient Vandal x2"
-          ]
+          "enemyStrings": ["Ozone Polluter", "Resilient Vandal x2"]
         }
       },
       "1099158615": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1099555105": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "1102824603": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3710329679,
         "displayProperties": {
           "name": "Below Vex"
@@ -1685,18 +1000,11 @@
           "killEnemies": true,
           "bubbleHash": 542273287,
           "itemHash": 0,
-          "enemyStrings": [
-            "Spaelosus, Buried Mind",
-            "Quantum Harpy x2"
-          ]
+          "enemyStrings": ["Spaelosus, Buried Mind", "Quantum Harpy x2"]
         }
       },
       "1105211124": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1161967626,
         "displayProperties": {
           "name": "Wirecutter"
@@ -1709,32 +1017,16 @@
         }
       },
       "1107208644": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1111101131": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "1111176435": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "1120584691": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2822410613,
         "displayProperties": {
           "name": "He collects Vex"
@@ -1743,45 +1035,23 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2748499483,
-          "enemyStrings": [
-            "Vex"
-          ]
+          "enemyStrings": ["Vex"]
         }
       },
       "1132291813": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "1134562791": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "1154661682": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1159314159": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1164772243": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4205285323,
         "displayProperties": {
           "name": "Secure Your Mask before Helping Others"
@@ -1790,52 +1060,26 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2414900593,
-          "enemyStrings": [
-            "Vandals"
-          ]
+          "enemyStrings": ["Vandals"]
         }
       },
       "1166237584": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "1175770231": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "1194986370": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "1202325606": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "1202325607": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "1206154103": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 933267223,
         "displayProperties": {
           "name": "Unilateral Disarmament"
@@ -1844,53 +1088,26 @@
           "killEnemies": true,
           "bubbleHash": 2224987225,
           "itemHash": 0,
-          "enemyStrings": [
-            "Nucleative Mind",
-            "Quantum Hobgoblin x2"
-          ]
+          "enemyStrings": ["Nucleative Mind", "Quantum Hobgoblin x2"]
         }
       },
       "1225970098": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1228327586": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1229540554": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1233767907": {
-        "activityModeTypes": [
-          6,
-          7,
-          600
-        ]
+        "activityModeTypes": [6, 7, 600]
       },
       "1243390694": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "1249965655": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 933267223,
         "displayProperties": {
           "name": "Having a Ball"
@@ -1903,11 +1120,7 @@
         }
       },
       "1250426564": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2132187573,
         "displayProperties": {
           "name": "Thermal Decomposition"
@@ -1916,116 +1129,50 @@
           "killEnemies": true,
           "bubbleHash": 2560872303,
           "itemHash": 0,
-          "enemyStrings": [
-            "Accumulative Mind",
-            "Quantum Harpy x2"
-          ]
+          "enemyStrings": ["Accumulative Mind", "Quantum Harpy x2"]
         }
       },
       "1254990192": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1255167276": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "1259766043": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "1265390366": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1267556998": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1275562432": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1278641935": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "1279862229": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
-      },
-      "1281404748": {
-        "activityModeTypes": [
-          76,
-          7,
-          212
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1289867188": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1294490226": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1302437673": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1313648352": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "1313738982": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "1331268141": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1291433366,
         "displayProperties": {
           "name": "What a View"
@@ -2038,32 +1185,16 @@
         }
       },
       "1333621919": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1338487764": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "1367215417": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "1375839088": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2132187573,
         "displayProperties": {
           "name": "Out of Order"
@@ -2076,81 +1207,34 @@
         }
       },
       "1412142789": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "1416597166": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1418217191": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1419459505": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "1426391278": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "1428050875": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "1429621744": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1434072700": {
-        "activityModeTypes": [
-          2,
-          7,
-          211
-        ]
-      },
-      "1446606128": {
-        "activityModeTypes": [
-          76,
-          7,
-          212
-        ]
+        "activityModeTypes": [2, 7, 211]
       },
       "1449366986": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1451946951": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3340296448,
         "displayProperties": {
           "name": "Bottle Recycling"
@@ -2159,66 +1243,32 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2414900593,
-          "enemyStrings": [
-            "Dregs"
-          ]
+          "enemyStrings": ["Dregs"]
         }
       },
       "1454880421": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "1463335228": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "1463335231": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "1466550401": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1483179969": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "1490848577": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "1491022087": {
-        "activityModeTypes": [
-          6,
-          7,
-          203
-        ]
+        "activityModeTypes": [6, 7, 203]
       },
       "1498466193": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4200309587,
         "displayProperties": {
           "name": "Psion Their Own Supply"
@@ -2227,52 +1277,26 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 1459201683,
-          "enemyStrings": [
-            "Psions"
-          ]
+          "enemyStrings": ["Psions"]
         }
       },
       "1503376677": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1506080581": {
-        "activityModeTypes": [
-          2,
-          7,
-          211
-        ]
+        "activityModeTypes": [2, 7, 211]
       },
       "1512980468": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "1513386090": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "1525152742": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1525633702": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2212414297,
         "displayProperties": {
           "name": "Supply Run"
@@ -2281,38 +1305,20 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 1459201683,
-          "enemyStrings": [
-            "Legionaries"
-          ]
+          "enemyStrings": ["Legionaries"]
         }
       },
       "1533124168": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "1533124171": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "1534123682": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "1536764325": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3340296448,
         "displayProperties": {
           "name": "Land Ho"
@@ -2325,11 +1331,7 @@
         }
       },
       "1557641249": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1161967626,
         "displayProperties": {
           "name": "Giant Stones"
@@ -2338,24 +1340,14 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2748499483,
-          "enemyStrings": [
-            "Taken"
-          ]
+          "enemyStrings": ["Taken"]
         }
       },
       "1570598249": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1581219251": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4205285323,
         "displayProperties": {
           "name": "Through the Wreckage"
@@ -2368,25 +1360,13 @@
         }
       },
       "1602328239": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "1612844171": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "1614692057": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3861059923,
         "displayProperties": {
           "name": "River Transport"
@@ -2395,80 +1375,38 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 1459201683,
-          "enemyStrings": [
-            "Psions"
-          ]
+          "enemyStrings": ["Psions"]
         }
       },
       "1640956655": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "1643069750": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1646219807": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "1651979106": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1657356109": {
-        "activityModeTypes": [
-          2,
-          7,
-          603
-        ]
+        "activityModeTypes": [2, 7, 58]
       },
       "1658347443": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "1671235700": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1679453803": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1682036469": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1685237649": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3340296448,
         "displayProperties": {
           "name": "Other People's Stuff"
@@ -2477,60 +1415,29 @@
           "killEnemies": true,
           "bubbleHash": 119587106,
           "itemHash": 0,
-          "enemyStrings": [
-            "Mineral Conversion Processor",
-            "Tracer Shank x2"
-          ]
+          "enemyStrings": ["Mineral Conversion Processor", "Tracer Shank x2"]
         }
       },
       "1689885469": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1691057182": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1694456220": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "1705677315": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1725302079": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1740310101": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1756055546": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3311195705,
         "displayProperties": {
           "name": "Conversion One"
@@ -2539,31 +1446,17 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2988223906,
-          "enemyStrings": [
-            "Fallen"
-          ]
+          "enemyStrings": ["Fallen"]
         }
       },
       "1760460831": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "1773400654": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1778450722": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1161967626,
         "displayProperties": {
           "name": "Potential Energy"
@@ -2576,88 +1469,37 @@
         }
       },
       "1783922093": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1786054751": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "1790343591": {
-        "activityModeTypes": [
-          2,
-          7,
-          201
-        ]
+        "activityModeTypes": [2, 7, 201]
       },
       "1799380107": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "1800749202": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1803806070": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "1811228210": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1823921651": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1824067376": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1829866365": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
-      },
-      "1831470693": {
-        "activityModeTypes": [
-          77,
-          7,
-          213
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1848339284": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1461622515,
         "displayProperties": {
           "name": ""
@@ -2666,87 +1508,41 @@
           "killEnemies": true,
           "bubbleHash": 24063045,
           "itemHash": 0,
-          "enemyStrings": [
-            "Dread Unhallowed Adherent"
-          ]
+          "enemyStrings": ["Dread Unhallowed Adherent"]
         }
       },
       "1872813880": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "1874578888": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1878615566": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "1882259272": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "1893059148": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "1903826490": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1906514856": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "1926167080": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "1928964032": {
-        "activityModeTypes": [
-          6,
-          7,
-          600
-        ]
+        "activityModeTypes": [6, 7, 600]
       },
       "1928964033": {
-        "activityModeTypes": [
-          6,
-          7,
-          600
-        ]
+        "activityModeTypes": [6, 7, 600]
       },
       "1949546348": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1094980045,
         "displayProperties": {
           "name": "Security en Garde"
@@ -2755,52 +1551,26 @@
           "killEnemies": true,
           "bubbleHash": 4206151375,
           "itemHash": 0,
-          "enemyStrings": [
-            "Cargo Security Chief"
-          ]
+          "enemyStrings": ["Cargo Security Chief"]
         }
       },
       "1952521609": {
-        "activityModeTypes": [
-          2,
-          7,
-          201
-        ]
+        "activityModeTypes": [2, 7, 201]
       },
       "1956541147": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1967025365": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "1969800443": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1971154629": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "1980705864": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3899539020,
         "displayProperties": {
           "name": ""
@@ -2809,59 +1579,29 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 788879497,
-          "enemyStrings": [
-            "Hive"
-          ]
+          "enemyStrings": ["Hive"]
         }
       },
       "1981289329": {
-        "activityModeTypes": [
-          6,
-          7,
-          203
-        ]
+        "activityModeTypes": [6, 7, 203]
       },
       "1987624188": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "1992706528": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1996247142": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "1998911089": {
-        "activityModeTypes": [
-          6,
-          7,
-          206
-        ]
+        "activityModeTypes": [6, 7, 206]
       },
       "2000185095": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "2001433484": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4035573696,
         "displayProperties": {
           "name": "Spherochromatism"
@@ -2870,18 +1610,11 @@
           "killEnemies": true,
           "bubbleHash": 414380065,
           "itemHash": 0,
-          "enemyStrings": [
-            "Chromatic Scapper",
-            "Resilient Vandal x2"
-          ]
+          "enemyStrings": ["Chromatic Scapper", "Resilient Vandal x2"]
         }
       },
       "2025057095": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 697305512,
         "displayProperties": {
           "name": "Bring It on Down"
@@ -2894,18 +1627,10 @@
         }
       },
       "2032534090": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "2044882505": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3899539020,
         "displayProperties": {
           "name": ""
@@ -2918,53 +1643,25 @@
         }
       },
       "2047813119": {
-        "activityModeTypes": [
-          6,
-          7,
-          600
-        ]
+        "activityModeTypes": [6, 7, 600]
       },
       "2052289205": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "2062544704": {
-        "activityModeTypes": [
-          6,
-          7,
-          606
-        ]
+        "activityModeTypes": [6, 7, 212]
       },
       "2067233851": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "2068689865": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "2069143995": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "2079994698": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4035573696,
         "displayProperties": {
           "name": "Tight to the Mast"
@@ -2977,25 +1674,13 @@
         }
       },
       "2091731913": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "2113712124": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "2134290761": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1461622515,
         "displayProperties": {
           "name": ""
@@ -3008,18 +1693,10 @@
         }
       },
       "2146977720": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "2151274060": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3091570009,
         "displayProperties": {
           "name": "Chronicler of History"
@@ -3032,32 +1709,16 @@
         }
       },
       "2159219121": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "2174556965": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "2183066491": {
-        "activityModeTypes": [
-          2,
-          7,
-          40
-        ]
+        "activityModeTypes": [2, 7, 40]
       },
       "2184866967": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3710329679,
         "displayProperties": {
           "name": "Don't Pass the Torch"
@@ -3070,11 +1731,7 @@
         }
       },
       "2187073261": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3254430284,
         "displayProperties": {
           "name": "Long Way Down"
@@ -3087,39 +1744,19 @@
         }
       },
       "2199986157": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "2207037656": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "2219006909": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "2231840083": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "2243336789": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3254430284,
         "displayProperties": {
           "name": "Putting Them in Their Graves"
@@ -3132,95 +1769,43 @@
         }
       },
       "2245202378": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "2249739266": {
-        "activityModeTypes": [
-          2,
-          7,
-          212
-        ]
+        "activityModeTypes": [2, 7, 76]
       },
       "2250935166": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "2258680077": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "2259811067": {
-        "activityModeTypes": [
-          2,
-          7,
-          201
-        ]
+        "activityModeTypes": [2, 7, 201]
       },
       "2261527950": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "2264636552": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "2266954523": {
-        "activityModeTypes": [
-          2,
-          7,
-          40
-        ]
+        "activityModeTypes": [2, 7, 40]
       },
       "2272383802": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "2276204547": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "2278374121": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "2279197206": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "2287222467": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4205285323,
         "displayProperties": {
           "name": "Ceiling and Ground"
@@ -3233,11 +1818,7 @@
         }
       },
       "2288260902": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3091570009,
         "displayProperties": {
           "name": "The Scavenge Beast"
@@ -3246,32 +1827,17 @@
           "killEnemies": true,
           "bubbleHash": 3331349367,
           "itemHash": 0,
-          "enemyStrings": [
-            "Fallen Supply Raider",
-            "Resilient Shank x2"
-          ]
+          "enemyStrings": ["Fallen Supply Raider", "Resilient Shank x2"]
         }
       },
       "2291549972": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "2297638408": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "2301390667": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3861059923,
         "displayProperties": {
           "name": "Paved with Good Intentions"
@@ -3284,81 +1850,37 @@
         }
       },
       "2302677459": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "2307090074": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "2310677039": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "2327656989": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "2327658858": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "2336998357": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "2340776707": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "2345788617": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "2351745587": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "2375911307": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "2379494367": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 933267223,
         "displayProperties": {
           "name": "Binary and Digital"
@@ -3371,18 +1893,10 @@
         }
       },
       "2400231344": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "2420240009": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 933267223,
         "displayProperties": {
           "name": "Tangled Up in Red"
@@ -3391,38 +1905,20 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2988223906,
-          "enemyStrings": [
-            "Vex"
-          ]
+          "enemyStrings": ["Vex"]
         }
       },
       "2427944384": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "2428721124": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "2431838030": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "2445164291": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4200309587,
         "displayProperties": {
           "name": "Only You Can Prevent"
@@ -3431,74 +1927,26 @@
           "killEnemies": true,
           "bubbleHash": 491961918,
           "itemHash": 0,
-          "enemyStrings": [
-            "Scavenging Crew Leader",
-            "Ravenous Taken Goblin x2"
-          ]
+          "enemyStrings": ["Scavenging Crew Leader", "Ravenous Taken Goblin x2"]
         }
       },
       "2468202005": {
-        "activityModeTypes": [
-          2,
-          7,
-          201
-        ]
+        "activityModeTypes": [2, 7, 201]
       },
       "2472211469": {
-        "activityModeTypes": [
-          6,
-          7,
-          999
-        ]
+        "activityModeTypes": [6, 7, 999]
       },
       "2478782573": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "2504933700": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
-      },
-      "2509539864": {
-        "activityModeTypes": [
-          77,
-          7,
-          213
-        ]
-      },
-      "2509539865": {
-        "activityModeTypes": [
-          77,
-          7,
-          213
-        ]
-      },
-      "2509539867": {
-        "activityModeTypes": [
-          77,
-          7,
-          213
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "2517540332": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "2519564410": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 697305512,
         "displayProperties": {
           "name": "Category Five"
@@ -3507,25 +1955,14 @@
           "killEnemies": true,
           "bubbleHash": 2243000836,
           "itemHash": 0,
-          "enemyStrings": [
-            "Vortex Mind",
-            "Quantum Goblin x2"
-          ]
+          "enemyStrings": ["Vortex Mind", "Quantum Goblin x2"]
         }
       },
       "2524369154": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "2536491635": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4200309587,
         "displayProperties": {
           "name": "Everybody in the Pools"
@@ -3538,11 +1975,7 @@
         }
       },
       "2558926634": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 697305512,
         "displayProperties": {
           "name": "10,000-Foot View Pyramid"
@@ -3555,18 +1988,10 @@
         }
       },
       "2559514952": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "2561308143": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3311195705,
         "displayProperties": {
           "name": "Should the Pool Be Glowing?"
@@ -3579,18 +2004,10 @@
         }
       },
       "2568845238": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "2573702057": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4205285323,
         "displayProperties": {
           "name": "Fallen, Out of the Sky"
@@ -3599,24 +2016,14 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2988223906,
-          "enemyStrings": [
-            "Fallen"
-          ]
+          "enemyStrings": ["Fallen"]
         }
       },
       "2574607799": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "2575990417": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3710329679,
         "displayProperties": {
           "name": "An Empty Feeling"
@@ -3629,11 +2036,7 @@
         }
       },
       "2580713007": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3340296448,
         "displayProperties": {
           "name": "Back in Town"
@@ -3646,11 +2049,7 @@
         }
       },
       "2588220738": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 933267223,
         "displayProperties": {
           "name": "Spelunking"
@@ -3663,18 +2062,10 @@
         }
       },
       "2604307096": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "2610112492": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3091570009,
         "displayProperties": {
           "name": "Mining Operations"
@@ -3687,11 +2078,7 @@
         }
       },
       "2619236227": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3861059923,
         "displayProperties": {
           "name": "Claustrophobia"
@@ -3704,11 +2091,7 @@
         }
       },
       "2629975203": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 577912749,
         "displayProperties": {
           "name": "Rapture in the Rupture"
@@ -3721,11 +2104,7 @@
         }
       },
       "2629998776": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3340296448,
         "displayProperties": {
           "name": "Fallen Literacy Rates"
@@ -3734,31 +2113,17 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2740871147,
-          "enemyStrings": [
-            "Fallen"
-          ]
+          "enemyStrings": ["Fallen"]
         }
       },
       "2639045396": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "2642769170": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "2651851341": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4200309587,
         "displayProperties": {
           "name": "Treehugger"
@@ -3771,39 +2136,19 @@
         }
       },
       "2656947700": {
-        "activityModeTypes": [
-          2,
-          7,
-          211
-        ]
+        "activityModeTypes": [2, 7, 211]
       },
       "2660895412": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "2665134323": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "2675435236": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "2684479494": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3861059923,
         "displayProperties": {
           "name": "De-Supplying the Legion"
@@ -3812,80 +2157,38 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 1459201683,
-          "enemyStrings": [
-            "Legionaries"
-          ]
+          "enemyStrings": ["Legionaries"]
         }
       },
       "2695348045": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "2702476101": {
-        "activityModeTypes": [
-          2,
-          7,
-          40
-        ]
+        "activityModeTypes": [2, 7, 40]
       },
       "2708828207": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "2718696427": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "2731208666": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "2735529319": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "2737739053": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "2752743635": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "2759086913": {
-        "activityModeTypes": [
-          6,
-          7,
-          999
-        ]
+        "activityModeTypes": [6, 7, 999]
       },
       "2768347363": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1291433366,
         "displayProperties": {
           "name": "Death at Sea"
@@ -3894,25 +2197,14 @@
           "killEnemies": true,
           "bubbleHash": 3327797828,
           "itemHash": 0,
-          "enemyStrings": [
-            "Drenched Sorceress",
-            "Revenant Knight x2"
-          ]
+          "enemyStrings": ["Drenched Sorceress", "Revenant Knight x2"]
         }
       },
       "2772894447": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "2773222353": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3340296448,
         "displayProperties": {
           "name": "Camping Trip"
@@ -3925,25 +2217,13 @@
         }
       },
       "2776154899": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "2776929937": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "2782300570": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3340296448,
         "displayProperties": {
           "name": "Vandal Tanks"
@@ -3952,17 +2232,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2414900593,
-          "enemyStrings": [
-            "Vandals"
-          ]
+          "enemyStrings": ["Vandals"]
         }
       },
       "2784803584": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1094980045,
         "displayProperties": {
           "name": "On the Land As on the Sea"
@@ -3975,11 +2249,7 @@
         }
       },
       "2798856614": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1702304883,
         "displayProperties": {
           "name": "Watch Your Step"
@@ -3992,32 +2262,16 @@
         }
       },
       "2814410372": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "2814646673": {
-        "activityModeTypes": [
-          6,
-          7,
-          600
-        ]
+        "activityModeTypes": [6, 7, 600]
       },
       "2831644165": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "2846775197": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4205285323,
         "displayProperties": {
           "name": "No Survivors"
@@ -4030,18 +2284,10 @@
         }
       },
       "2892775311": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "2896212196": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1461622515,
         "displayProperties": {
           "name": ""
@@ -4050,24 +2296,14 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 1459201683,
-          "enemyStrings": [
-            "Psions"
-          ]
+          "enemyStrings": ["Psions"]
         }
       },
       "2905427653": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "2908287325": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4035573696,
         "displayProperties": {
           "name": "High Water Mark"
@@ -4080,46 +2316,22 @@
         }
       },
       "2926767881": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "2948690563": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "2949941834": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "2962137994": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "2966841322": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "2969403085": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 577912749,
         "displayProperties": {
           "name": "Window to the Past"
@@ -4132,39 +2344,19 @@
         }
       },
       "2974605887": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "3002511278": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3008658049": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "3015346707": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3026637018": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3254430284,
         "displayProperties": {
           "name": "The Shapes of Things"
@@ -4177,18 +2369,10 @@
         }
       },
       "3033151437": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3038694763": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2132187573,
         "displayProperties": {
           "name": "Pools Party"
@@ -4197,25 +2381,14 @@
           "killEnemies": true,
           "bubbleHash": 1429357501,
           "itemHash": 0,
-          "enemyStrings": [
-            "Photometric Mind",
-            "Quantum Goblin x2"
-          ]
+          "enemyStrings": ["Photometric Mind", "Quantum Goblin x2"]
         }
       },
       "3042112297": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3049122128": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4035573696,
         "displayProperties": {
           "name": "Would You Like to Know More"
@@ -4228,137 +2401,52 @@
         }
       },
       "3069330044": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3078057004": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "3091400008": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "3091400011": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "3094124867": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "3105090879": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
-      },
-      "3107795800": {
-        "activityModeTypes": [
-          77,
-          7,
-          213
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "3108278497": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
-      },
-      "3115455134": {
-        "activityModeTypes": [
-          77,
-          7,
-          213
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "3140524926": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
-      },
-      "3143659188": {
-        "activityModeTypes": [
-          76,
-          7,
-          212
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3143798436": {
-        "activityModeTypes": [
-          6,
-          7,
-          600
-        ]
+        "activityModeTypes": [6, 7, 600]
       },
       "3147707814": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "3148431353": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3149513022": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "3150153711": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "3151789989": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "3172367001": {
-        "activityModeTypes": [
-          2,
-          7,
-          201
-        ]
+        "activityModeTypes": [2, 7, 201]
       },
       "3173130826": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4035573696,
         "displayProperties": {
           "name": "Relieve the Kraken"
@@ -4371,32 +2459,16 @@
         }
       },
       "3204449126": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "3205547455": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "3206026167": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "3208779612": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4200309587,
         "displayProperties": {
           "name": "This Is For Your Own Goods"
@@ -4405,17 +2477,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 1459201683,
-          "enemyStrings": [
-            "Legionaries"
-          ]
+          "enemyStrings": ["Legionaries"]
         }
       },
       "3211303924": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 577912749,
         "displayProperties": {
           "name": "Bot Milk?"
@@ -4424,45 +2490,23 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2748499483,
-          "enemyStrings": [
-            "Goblins"
-          ]
+          "enemyStrings": ["Goblins"]
         }
       },
       "3211568383": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3215844014": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "3226038743": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "3226632017": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "3231065327": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2132187573,
         "displayProperties": {
           "name": "Nothing is Crystal Clear"
@@ -4475,46 +2519,19 @@
         }
       },
       "3232506937": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "3248193378": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3249986335": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "3255524827": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
-      },
-      "3264501078": {
-        "activityModeTypes": [
-          76,
-          7,
-          212
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3268684190": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3091570009,
         "displayProperties": {
           "name": "Those Don't Belong to You"
@@ -4523,66 +2540,32 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2740871147,
-          "enemyStrings": [
-            "Fallen"
-          ]
+          "enemyStrings": ["Fallen"]
         }
       },
       "3271773240": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "3272002712": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "3277510674": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3283790633": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3289681664": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3289842296": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "3292523719": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "3298775062": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3340296448,
         "displayProperties": {
           "name": "Beachcombing"
@@ -4595,11 +2578,7 @@
         }
       },
       "3303685562": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1094980045,
         "displayProperties": {
           "name": "Sunken Supplies"
@@ -4608,31 +2587,17 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 1459201683,
-          "enemyStrings": [
-            "Legionaries"
-          ]
+          "enemyStrings": ["Legionaries"]
         }
       },
       "3304835347": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3336275007": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "3337731612": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3340296448,
         "displayProperties": {
           "name": "Suburban Violence"
@@ -4645,46 +2610,22 @@
         }
       },
       "3346345105": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "3346680969": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "3352425710": {
-        "activityModeTypes": [
-          6,
-          7,
-          206
-        ]
+        "activityModeTypes": [6, 7, 206]
       },
       "3359466010": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "3370527053": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3371785215": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3899539020,
         "displayProperties": {
           "name": ""
@@ -4693,17 +2634,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 788879497,
-          "enemyStrings": [
-            "Acolytes"
-          ]
+          "enemyStrings": ["Acolytes"]
         }
       },
       "3376869257": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2822410613,
         "displayProperties": {
           "name": "Enemy mine"
@@ -4712,17 +2647,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 563154290,
-          "enemyStrings": [
-            "Cabal"
-          ]
+          "enemyStrings": ["Cabal"]
         }
       },
       "3377331506": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3899539020,
         "displayProperties": {
           "name": ""
@@ -4735,11 +2664,7 @@
         }
       },
       "3379039897": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1702304883,
         "displayProperties": {
           "name": "Hallows, What's This?"
@@ -4748,66 +2673,32 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2988223906,
-          "enemyStrings": [
-            "Vex"
-          ]
+          "enemyStrings": ["Vex"]
         }
       },
       "3384410381": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3405569225": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "3410237988": {
-        "activityModeTypes": [
-          2,
-          7,
-          207
-        ]
+        "activityModeTypes": [2, 7, 207]
       },
       "3410530777": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "3417504239": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "3434499700": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "3467071851": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "3479544154": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3854937584,
         "displayProperties": {
           "name": "Unsafe for Swimming"
@@ -4820,11 +2711,7 @@
         }
       },
       "3481058226": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3254430284,
         "displayProperties": {
           "name": "Crimson Canopy"
@@ -4837,18 +2724,10 @@
         }
       },
       "3485876484": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3487576414": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1702304883,
         "displayProperties": {
           "name": "Untangling the Situation"
@@ -4861,11 +2740,7 @@
         }
       },
       "3489692681": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1161967626,
         "displayProperties": {
           "name": "Don't Look Back in Anger"
@@ -4878,18 +2753,10 @@
         }
       },
       "3500791146": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3515770727": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1094980045,
         "displayProperties": {
           "name": "Living Under a Rock"
@@ -4902,67 +2769,31 @@
         }
       },
       "3535117433": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "3535622620": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "3536651661": {
-        "activityModeTypes": [
-          6,
-          7,
-          206
-        ]
+        "activityModeTypes": [6, 7, 206]
       },
       "3543680867": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "3559661941": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "3580793473": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "3601218952": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3601558330": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "3612741503": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 933267223,
         "displayProperties": {
           "name": "Brave to the Grave"
@@ -4975,18 +2806,10 @@
         }
       },
       "3614852628": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "3627094182": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3311195705,
         "displayProperties": {
           "name": "Soundproofing"
@@ -4999,60 +2822,28 @@
         }
       },
       "3628257792": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "3634370598": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ]
+        "activityModeTypes": [6, 7, 601]
       },
       "3641102502": {
-        "activityModeTypes": [
-          2,
-          7,
-          210
-        ]
+        "activityModeTypes": [2, 7, 210]
       },
       "3642412717": {
-        "activityModeTypes": [
-          2,
-          7,
-          204
-        ]
+        "activityModeTypes": [2, 7, 204]
       },
       "3644215993": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3645117987": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3652531274": {
-        "activityModeTypes": [
-          2,
-          7,
-          201
-        ]
+        "activityModeTypes": [2, 7, 201]
       },
       "3662124488": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1161967626,
         "displayProperties": {
           "name": "The Most Stable Structure"
@@ -5065,25 +2856,13 @@
         }
       },
       "3664729722": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3664915501": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3669054326": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 933267223,
         "displayProperties": {
           "name": "Sifting Through the Tangle"
@@ -5092,101 +2871,47 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2748499483,
-          "enemyStrings": [
-            "Harpies"
-          ]
+          "enemyStrings": ["Harpies"]
         }
       },
       "3676143304": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "3679941640": {
-        "activityModeTypes": [
-          2,
-          7,
-          207
-        ]
+        "activityModeTypes": [2, 7, 207]
       },
       "3679946187": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "3688464794": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "3691789482": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3700722865": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3702064261": {
-        "activityModeTypes": [
-          6,
-          7,
-          200
-        ]
+        "activityModeTypes": [6, 7, 200]
       },
       "3738159218": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "3746811765": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "3752039537": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3774573332": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "3780356141": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3792746061": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1702304883,
         "displayProperties": {
           "name": "Artifact Hunting"
@@ -5199,25 +2924,13 @@
         }
       },
       "3801976119": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "3805779101": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "3806583577": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1094980045,
         "displayProperties": {
           "name": "Fire Down Below"
@@ -5226,17 +2939,11 @@
           "killEnemies": true,
           "bubbleHash": 702543394,
           "itemHash": 0,
-          "enemyStrings": [
-            "Fortification Substrate Enforcer"
-          ]
+          "enemyStrings": ["Fortification Substrate Enforcer"]
         }
       },
       "3834639884": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2212414297,
         "displayProperties": {
           "name": "A Shard Act to Follow"
@@ -5249,60 +2956,28 @@
         }
       },
       "3835150701": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "3836086286": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3858493935": {
-        "activityModeTypes": [
-          6,
-          7,
-          206
-        ]
+        "activityModeTypes": [6, 7, 206]
       },
       "3865706603": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "3872525353": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3874292246": {
-        "activityModeTypes": [
-          2,
-          7,
-          206
-        ]
+        "activityModeTypes": [2, 7, 206]
       },
       "3909841711": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3914655049": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1461622515,
         "displayProperties": {
           "name": ""
@@ -5311,38 +2986,20 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 1459201683,
-          "enemyStrings": [
-            "Cabal"
-          ]
+          "enemyStrings": ["Cabal"]
         }
       },
       "3920569453": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "3926419686": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "3957909528": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "3958400416": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3091570009,
         "displayProperties": {
           "name": "Urban Flight"
@@ -5355,18 +3012,10 @@
         }
       },
       "3966792859": {
-        "activityModeTypes": [
-          6,
-          7,
-          600
-        ]
+        "activityModeTypes": [6, 7, 600]
       },
       "3978357488": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3254430284,
         "displayProperties": {
           "name": "Radiolarian to the Grave"
@@ -5375,38 +3024,20 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2748499483,
-          "enemyStrings": [
-            "Harpies"
-          ]
+          "enemyStrings": ["Harpies"]
         }
       },
       "3982474534": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "4009655461": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "4034557395": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "4043714237": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3854937584,
         "displayProperties": {
           "name": "Return to Basics"
@@ -5419,11 +3050,7 @@
         }
       },
       "4047570705": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1161967626,
         "displayProperties": {
           "name": "Giving and Receiving"
@@ -5436,11 +3063,7 @@
         }
       },
       "4050886070": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2212414297,
         "displayProperties": {
           "name": "Getting Away from It All"
@@ -5453,46 +3076,22 @@
         }
       },
       "4055504678": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "4067720717": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "4086427957": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "4086427958": {
-        "activityModeTypes": [
-          2,
-          7,
-          999
-        ]
+        "activityModeTypes": [2, 7, 999]
       },
       "4094398454": {
-        "activityModeTypes": [
-          6,
-          7,
-          602
-        ]
+        "activityModeTypes": [6, 7, 602]
       },
       "4095207117": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1094980045,
         "displayProperties": {
           "name": "Work Smarter and Harder"
@@ -5501,17 +3100,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 1459201683,
-          "enemyStrings": [
-            "Psions"
-          ]
+          "enemyStrings": ["Psions"]
         }
       },
       "4103844069": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4035573696,
         "displayProperties": {
           "name": "Power Surge"
@@ -5520,60 +3113,29 @@
           "killEnemies": true,
           "bubbleHash": 334231652,
           "itemHash": 0,
-          "enemyStrings": [
-            "Energized Brute",
-            "Revenant Acolyte x2"
-          ]
+          "enemyStrings": ["Energized Brute", "Revenant Acolyte x2"]
         }
       },
       "4119522487": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "4150577752": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "4159221189": {
-        "activityModeTypes": [
-          6,
-          7,
-          600
-        ]
+        "activityModeTypes": [6, 7, 600]
       },
       "4166562681": {
-        "activityModeTypes": [
-          6,
-          7,
-          600
-        ]
+        "activityModeTypes": [6, 7, 600]
       },
       "4166632210": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "4170982146": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "4174103238": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3710329679,
         "displayProperties": {
           "name": "Pods in the Hallows"
@@ -5582,31 +3144,17 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2748499483,
-          "enemyStrings": [
-            "Goblins"
-          ]
+          "enemyStrings": ["Goblins"]
         }
       },
       "4199058482": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "4204849452": {
-        "activityModeTypes": [
-          2,
-          7,
-          208
-        ]
+        "activityModeTypes": [2, 7, 208]
       },
       "4209774794": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3854937584,
         "displayProperties": {
           "name": "Cleaning Up the Beach"
@@ -5615,17 +3163,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2414900593,
-          "enemyStrings": [
-            "Dregs"
-          ]
+          "enemyStrings": ["Dregs"]
         }
       },
       "4216926874": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4035573696,
         "displayProperties": {
           "name": "Artifacts from the Deep"
@@ -5634,17 +3176,11 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2641099036,
-          "enemyStrings": [
-            "Hive"
-          ]
+          "enemyStrings": ["Hive"]
         }
       },
       "4231544111": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3311195705,
         "displayProperties": {
           "name": "The Crash Site"
@@ -5657,53 +3193,25 @@
         }
       },
       "4234327344": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "4237009519": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "4238309598": {
-        "activityModeTypes": [
-          6,
-          7,
-          603
-        ]
+        "activityModeTypes": [6, 7, 58]
       },
       "4239233351": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       },
       "4244464899": {
-        "activityModeTypes": [
-          2,
-          7,
-          209
-        ]
+        "activityModeTypes": [2, 7, 209]
       },
       "4253800115": {
-        "activityModeTypes": [
-          2,
-          7,
-          205
-        ]
+        "activityModeTypes": [2, 7, 205]
       },
       "4254776501": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2132187573,
         "displayProperties": {
           "name": "Cistern Vandals"
@@ -5712,24 +3220,14 @@
           "killEnemies": true,
           "bubbleHash": 0,
           "itemHash": 2988223906,
-          "enemyStrings": [
-            "Vandals"
-          ]
+          "enemyStrings": ["Vandals"]
         }
       },
       "4275462311": {
-        "activityModeTypes": [
-          6,
-          7,
-          605
-        ]
+        "activityModeTypes": [6, 7, 603]
       },
       "4283649349": {
-        "activityModeTypes": [
-          6,
-          7,
-          601
-        ],
+        "activityModeTypes": [6, 7, 601],
         "bubbleHash": 577912749,
         "displayProperties": {
           "name": "Gatecrasher"
@@ -5738,18 +3236,11 @@
           "killEnemies": true,
           "bubbleHash": 1329445049,
           "itemHash": 0,
-          "enemyStrings": [
-            "Recursive Mind",
-            "Quantum Hobgoblin x2"
-          ]
+          "enemyStrings": ["Recursive Mind", "Quantum Hobgoblin x2"]
         }
       },
       "4291922223": {
-        "activityModeTypes": [
-          2,
-          7,
-          203
-        ]
+        "activityModeTypes": [2, 7, 203]
       }
     }
   }
