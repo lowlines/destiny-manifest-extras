@@ -2,9 +2,11 @@ const https = require("https");
 const fs = require("fs");
 
 const scanActivities = require("./overrides-activities");
+const scanMilestones = require("./overrides-milestones");
 
 const OVERRIDE_DOCS = [
   {
+    // https://docs.google.com/spreadsheets/d/16ljkZMWO2EIgui5HkARn3GFFsAt-tauRy2T_jwdScmc/edit?usp=sharing
     type: "DestinyActivityDefinition",
     id: "16ljkZMWO2EIgui5HkARn3GFFsAt-tauRy2T_jwdScmc",
     name: "activity-patrols"
@@ -146,128 +148,7 @@ function generate() {
 module.exports = {
   downloadSpreadsheets,
   generate,
-  scanManifest
+  scanManifest,
+  scanActivities,
+  scanMilestones
 };
-
-// function get_manifest_overrides(Api_Request $request) {
-// 	$manifest = file_exists(MANIFESTPATH) ? json_decode(file_get_contents(MANIFESTPATH)) : (object)array(
-// 		'version' => date('c'),
-// 		'worldContent' => (object)array()
-// 	);
-
-// 	if ($_SERVER['HTTP_HOST'] == 'lowlidev.io') {
-//
-
-// 		$locale = isset($_GET['locale']) ? $_GET['locale'] : 'en';
-
-// 		$_GET['destiny2'] = '';
-// 		$definitionType = 'DestinyActivityDefinition';
-
-// 		if (!isset($manifest->worldContent->{$definitionType})) $manifest->worldContent->{$definitionType} = (object)array();
-
-// 		$result = queryDatabase('SELECT * FROM DestinyInventoryItemDefinition WHERE json LIKE "%questlineItemHash%activityHash%"', $locale);
-
-// 		if ($result) {
-// 			while($row = $result->fetchArray()) {
-// 				$def = json_decode($row[1]);
-
-// 				//if (!in_array(53, $def->itemCategoryHashes)) continue;
-// 				if (!isset($def->displayProperties->name) || !$def->displayProperties->name) continue;
-// 				if (!$def->objectives->questlineItemHash) continue;
-
-// 				$skip = false;
-// 				foreach($def->objectives->perObjectiveDisplayProperties as $displayProperties) {
-// 					echo $displayProperties->activityHash."\n";
-// 				}
-// 				if ($skip) continue;
-
-// //			foreach($def->setData->itemList as $item) {
-// //				$itemHashes[] = $item->itemHash;
-// //			}
-// //
-// //			$quests->{$def->hash} = $def;
-
-// 				echo $def->hash.' // '.$def->displayProperties->name.' | '.$def->objectives->questTypeIdentifier.' | '.$def->objectives->questlineItemHash."\n";
-// 			}
-// 		}
-
-// 		$result = queryDatabase('SELECT * FROM DestinyActivityDefinition');
-// 		if ($result === 1) {
-
-// 			while($row = $result->fetchArray()) {
-// 				$key = is_numeric($row[0]) ? sprintf('%u', $row[0] & 0xFFFFFFFF) : $row[0];
-// 				$data = json_decode($row[1]);
-// 				if (!isset($data->displayProperties->name) || !$data->displayProperties->name || !isset($data->activityModeTypes)) continue;
-// 				$modeTypes = $data->activityModeTypes;
-
-// 				$hash = $key;
-
-// 				$overrideData = $manifest->worldContent->{$definitionType};
-// 				$overrideDefinition = isset($overrideData->{$hash}) ? $overrideData->{$hash} : (object)array();
-
-// 				$newModeTypes = isset($overrideDefinition->activityModeTypes) ? $overrideDefinition->activityModeTypes : array();
-// 				$newModeTypes = array();
-
-// 				if (isset($heroicStoryMissions[$key])) {
-// 					$overrideDefinition->storyMissionProperties = (object)array(
-// 						'name' => $heroicStoryMissions[$key]
-// 					);
-
-// 					$data->{$hash} = $overrideDefinition;
-// 					$manifest->worldContent->{$definitionType} = $data;
-// 				}
-
-// 				if (in_array(6, $modeTypes)) { // Patrol
-// 					$is_patrol = false;
-// 					if (isset($manifest->worldContent->{$definitionType})) {
-// 						$overrides = $manifest->worldContent->{$definitionType};
-// 						if (isset($overrides->{$hash})) {
-// 							$override = $overrides->{$hash};
-// 							if (isset($override->missionObjective)) {
-// 								$is_patrol = true;
-// 							}
-// 						}
-// 					}
-// 					if ($is_patrol) {
-// 						$newModeTypes[] = 601; // Patrols
-// 						//echo $key.' | '.$data->displayProperties->name.' | '.json_encode($modeTypes).' | '.json_encode($newModeTypes)."\n";
-// 					} else {
-// 						//if (count($newModeTypes) == 0) $newModeTypes[] = 602; // Assume Adventure
-// 						if (isset($_GET['debug']) && count($newModeTypes) == 0) {
-// 							echo $key.', // '.$data->displayProperties->name.' ('.$data->activityLightLevel.')'."\n";
-// 						};
-// 					}
-// 				}
-
-// 				if (in_array(2, $modeTypes)) { // Story
-// 					//if (count($newModeTypes) == 0) $newModeTypes[] = 203; // Assume Red War Story
-// 					//if (count($newModeTypes) == 0) $newModeTypes[] = 208; // Assume Forsaken
-
-// 					if (isset($_GET['debug']) && count($newModeTypes) == 0) {
-// 						echo $key.', // '.$data->displayProperties->name.' ('.$data->activityLightLevel.')'."\n";
-// 					}
-// 				}
-
-// 				if (count($newModeTypes) > 0) {
-// 					$cleanModeTypes = array();
-// 					$newModeTypes = array_merge($modeTypes, $newModeTypes);
-// 					foreach($newModeTypes as $modeType) {
-// 						if (!in_array($modeType, $cleanModeTypes)) $cleanModeTypes[] = $modeType;
-// 					}
-// 					$newModeTypes = $cleanModeTypes;
-
-// 					$overrideDefinition->activityModeTypes = $newModeTypes;
-
-// 					$overrideData->{$hash} = $overrideDefinition;
-// 					$manifest->worldContent->{$definitionType} = $overrideData;
-// 				}
-// 				//$results->{$key} = $data;
-// 				//break;
-// 			}
-// 		}
-
-// 		//file_put_contents(MANIFESTPATH, json_encode($manifest, JSON_PRETTY_PRINT));
-// 	}
-
-// 	$request->result = $manifest;
-// }

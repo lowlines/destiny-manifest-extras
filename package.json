@@ -3,10 +3,17 @@
   "version": "0.0.2",
   "description": "A community managed manifest that adds extra/missing information not available in the official Bungie.net manifest.",
   "main": "scripts/index.js",
-  "dependencies": {},
+  "dependencies": {
+    "adm-zip": "^0.4.13"
+  },
   "devDependencies": {},
   "scripts": {
-    "update": "node scripts/index.js"
+    "manifest": "node scripts/index.js --manifest",
+    "scan": "node scripts/index.js --scan",
+    "scan:activities": "node scripts/index.js --activities",
+    "scan:milestones": "node scripts/index.js --milestones",
+    "build": "node scripts/index.js --generate",
+    "build:all": "node scripts/index.js --manifest --docs --scan --generate"
   },
   "repository": {
     "type": "git",

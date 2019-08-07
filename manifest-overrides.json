@@ -1,5 +1,5 @@
 {
-  "version": "2019-07-29T17:18:10.642Z",
+  "version": "2019-07-31T14:23:13.631Z",
   "worldContent": {
     "DestinyActivityDefinition": {
       "10898844": {
@@ -166,6 +166,9 @@
       },
       "153537894": {
         "activityModeTypes": [6, 7, 602]
+      },
+      "158022875": {
+        "activityModeTypes": [604]
       },
       "175598161": {
         "activityModeTypes": [6, 7, 601],
@@ -673,6 +676,9 @@
           "enemyStrings": ["Dregs"]
         }
       },
+      "770505917": {
+        "activityModeTypes": [604]
+      },
       "782175145": {
         "activityModeTypes": [6, 7, 601],
         "bubbleHash": 933267223,
@@ -1071,6 +1077,9 @@
       },
       "1194986370": {
         "activityModeTypes": [2, 7, 205]
+      },
+      "1199493030": {
+        "activityModeTypes": [604]
       },
       "1202325606": {
         "activityModeTypes": [2, 7, 205]
@@ -1913,6 +1922,9 @@
       },
       "2428721124": {
         "activityModeTypes": [6, 7, 601]
+      },
+      "2429391832": {
+        "activityModeTypes": [604]
       },
       "2431838030": {
         "activityModeTypes": [6, 7, 603]
@@ -2960,6 +2972,9 @@
       },
       "3836086286": {
         "activityModeTypes": [6, 7, 602]
+      },
+      "3840133183": {
+        "activityModeTypes": [604]
       },
       "3858493935": {
         "activityModeTypes": [6, 7, 206]

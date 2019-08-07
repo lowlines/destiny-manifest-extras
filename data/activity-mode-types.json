@@ -100,6 +100,10 @@
       "#name": "A New Frontier",
       "activityModeTypes": [6, 7, 602]
     },
+    "158022875": {
+      "#name": "European Aerial Zone",
+      "activityModeTypes": [604]
+    },
     "175598161": {
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
@@ -387,6 +391,10 @@
     "750649238": {
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
+    },
+    "770505917": {
+      "#name": "European Aerial Zone: [Solar Kill] Day",
+      "activityModeTypes": [604]
     },
     "782175145": {
       "#name": "Assassination Mission",
@@ -679,6 +687,10 @@
     "1194986370": {
       "#name": "Ice and Shadow",
       "activityModeTypes": [2, 7, 205]
+    },
+    "1199493030": {
+      "#name": "European Aerial Zone: [Arc Kill] Day",
+      "activityModeTypes": [604]
     },
     "1202325606": {
       "#name": "Ice and Shadow",
@@ -1375,6 +1387,10 @@
     "2428721124": {
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
+    },
+    "2429391832": {
+      "#name": "European Aerial Zone: [Void Kill] Day",
+      "activityModeTypes": [604]
     },
     "2431838030": {
       "#name": "WANTED: Arcadian Chord",
@@ -2091,6 +2107,10 @@
     "3836086286": {
       "#name": "Unexpected Guests",
       "activityModeTypes": [6, 7, 602]
+    },
+    "3840133183": {
+      "#name": "European Aerial Zone",
+      "activityModeTypes": [604]
     },
     "3858493935": {
       "#name": "The Tribute Hall",

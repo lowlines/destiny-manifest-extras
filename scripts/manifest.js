@@ -1,11 +1,15 @@
 const https = require("https");
 const fs = require("fs");
+const AdmZip = require("adm-zip");
 
 const API_KEY = fs.readFileSync("api-key.txt").toString();
 const BUNGIE_HOSTNAME = "www.bungie.net";
 const MANIFEST_LOCALE = "en";
 const MANIFEST_CACHE_PATH = "cache/manifest.json";
 const MANIFEST_DATA_PATH = "cache/manifest-" + MANIFEST_LOCALE + ".json";
+const MANIFEST_DATA_MOBILE_PATH = "cache/manifest-" + MANIFEST_LOCALE + ".db";
+const MANIFEST_DATA_MOBILE_ZIP_PATH =
+  "cache/manifest-" + MANIFEST_LOCALE + ".zip";
 
 if (!fs.existsSync("cache")) {
   fs.mkdirSync("cache");
@@ -22,7 +26,7 @@ if (fs.existsSync(MANIFEST_DATA_PATH)) {
   console.log("Loaded Manifest Data [" + MANIFEST_LOCALE + "]");
 }
 
-function requestJson(path, isApi = false) {
+function requestFile(path, json = false, isApi = false) {
   return new Promise((resolve, reject) => {
     const headers = {};
     if (isApi) {
@@ -32,6 +36,7 @@ function requestJson(path, isApi = false) {
       hostname: BUNGIE_HOSTNAME,
       port: 443,
       path: path,
+      encoding: null,
       method: "GET",
       headers: headers
     };
@@ -42,12 +47,18 @@ function requestJson(path, isApi = false) {
       }`
     );
     const req = https.request(options, res => {
-      let data = "";
-      res.on("data", stream => {
-        data += stream;
+      const chunks = [];
+      res.on("data", chunk => {
+        chunks.push(chunk);
       });
       res.on("end", function() {
-        resolve(JSON.parse(data));
+        const data = Buffer.concat(chunks);
+        if (json) {
+          const dataJson = JSON.parse(data.toString());
+          resolve(dataJson);
+          return;
+        }
+        resolve(data);
       });
     });
     req.on("error", function(e) {
@@ -55,6 +66,10 @@ function requestJson(path, isApi = false) {
     });
     req.end();
   });
+}
+
+function requestJson(path, isApi = false) {
+  return requestFile(path, true, isApi);
 }
 
 function requestManifest() {
@@ -68,11 +83,39 @@ function requestManifestData(locale) {
   if (!cachedManifest) {
     return Promise.reject();
   }
-  const url = cachedManifest.jsonWorldContentPaths[locale];
-  return requestJson(url);
+  const jsonUrl = cachedManifest.jsonWorldContentPaths[locale];
+  const mobileUrl = cachedManifest.mobileWorldContentPaths[locale];
+
+  const hasJson = fs.existsSync(MANIFEST_DATA_PATH);
+  const hasMobile = fs.existsSync(MANIFEST_DATA_MOBILE_PATH);
+
+  const requestJsonPromise = hasJson
+    ? Promise.resolve(manifestData)
+    : requestJson(jsonUrl).then(data => {
+        fs.writeFileSync(MANIFEST_DATA_PATH, JSON.stringify(data));
+        return data;
+      });
+
+  const requestMobilePromise = hasMobile
+    ? Promise.resolve(null)
+    : requestFile(mobileUrl).then(data => {
+        fs.writeFileSync(MANIFEST_DATA_MOBILE_ZIP_PATH, data);
+
+        const zip = new AdmZip(MANIFEST_DATA_MOBILE_ZIP_PATH);
+        const zipEntries = zip.getEntries();
+
+        zipEntries.forEach(function(zipEntry) {
+          fs.writeFileSync(MANIFEST_DATA_MOBILE_PATH, zipEntry.getData());
+        });
+      });
+
+  return Promise.all([requestJsonPromise, requestMobilePromise]).then(
+    res => res[0]
+  );
 }
 
 function checkManifest() {
+  console.log("Checking Manifest...");
   return requestManifest().then(res => {
     if (res.ErrorCode === 1) {
       const manifest = res.Response;
@@ -83,6 +126,9 @@ function checkManifest() {
         !cachedManifest ||
         cachedManifest.jsonWorldContentPaths[MANIFEST_LOCALE] !==
           manifest.jsonWorldContentPaths[MANIFEST_LOCALE];
+      const noCache =
+        !fs.existsSync(MANIFEST_DATA_PATH) ||
+        !fs.existsSync(MANIFEST_DATA_MOBILE_PATH);
 
       if (hasChanged) {
         cachedManifest = manifest;
@@ -90,9 +136,12 @@ function checkManifest() {
           MANIFEST_CACHE_PATH,
           JSON.stringify(manifest, null, "  ")
         );
+      }
+
+      if (hasChanged || noCache) {
+        console.log("Download Manifest Data...");
         return requestManifestData().then(manifestDataJson => {
           manifestData = manifestDataJson;
-          fs.writeFileSync(MANIFEST_DATA_PATH, JSON.stringify(manifestData));
           return manifestData;
         });
       }
