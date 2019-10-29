@@ -20,10 +20,6 @@
       "#name": "Survey mission",
       "activityModeTypes": [6, 7, 601]
     },
-    "40940368": {
-      "#name": "Curse of Osiris",
-      "activityModeTypes": [2, 7, 204]
-    },
     "51408141": {
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
@@ -35,10 +31,6 @@
     "57103244": {
       "#name": "Survey mission",
       "activityModeTypes": [6, 7, 601]
-    },
-    "60002467": {
-      "#name": "Sacrilege",
-      "activityModeTypes": [2, 7, 203]
     },
     "74501540": {
       "#name": "The Whisper",
@@ -102,7 +94,7 @@
     },
     "158022875": {
       "#name": "European Aerial Zone",
-      "activityModeTypes": [604]
+      "activityModeTypes": [605]
     },
     "175598161": {
       "#name": "Salvage Mission",
@@ -136,10 +128,6 @@
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
     },
-    "255819671": {
-      "#name": "Fury",
-      "activityModeTypes": [2, 7, 203]
-    },
     "261349035": {
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
@@ -147,6 +135,10 @@
     "271962655": {
       "#name": "Daily Heroic Story Mission: Utopia",
       "activityModeTypes": [2, 7, 209]
+    },
+    "282844296": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
     },
     "286324446": {
       "#name": "Salvage Mission",
@@ -163,10 +155,6 @@
     "298793060": {
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
-    },
-    "305709154": {
-      "#name": "Ice and Shadow",
-      "activityModeTypes": [2, 7, 205]
     },
     "313572698": {
       "#name": "Shard of the Traveler",
@@ -216,6 +204,14 @@
       "#name": "Survey mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "417691069": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "424670797": {
+      "#name": "Risk/Reward",
+      "activityModeTypes": [2, 7, 206]
+    },
     "429361491": {
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
@@ -244,12 +240,12 @@
       "#name": "Survey mission",
       "activityModeTypes": [6, 7, 601]
     },
-    "464789944": {
-      "#name": "Chosen",
-      "activityModeTypes": [2, 7, 203]
-    },
     "466447952": {
       "#name": "Destiny 2: Shadowkeep",
+      "activityModeTypes": [2, 7, 213]
+    },
+    "471727774": {
+      "#name": "In the Deep",
       "activityModeTypes": [2, 7, 213]
     },
     "474193231": {
@@ -275,6 +271,10 @@
     "501703034": {
       "#name": "The Reckoning",
       "activityModeTypes": [2, 7, 76]
+    },
+    "502780971": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
     },
     "521403014": {
       "#name": "Last Call",
@@ -312,6 +312,22 @@
       "#name": "[564863404]",
       "activityModeTypes": [2, 7, 999]
     },
+    "571058904": {
+      "#name": "Nightmare Hunt: Anguish: Master",
+      "activityModeTypes": [79]
+    },
+    "571058905": {
+      "#name": "Nightmare Hunt: Anguish: Legend",
+      "activityModeTypes": [79]
+    },
+    "571058910": {
+      "#name": "Nightmare Hunt: Anguish: Hero",
+      "activityModeTypes": [79]
+    },
+    "571058911": {
+      "#name": "Nightmare Hunt: Anguish: Adept",
+      "activityModeTypes": [79]
+    },
     "581323290": {
       "#name": "Survey mission",
       "activityModeTypes": [6, 7, 601]
@@ -340,16 +356,20 @@
       "#name": "Cliffhanger",
       "activityModeTypes": [6, 7, 602]
     },
+    "661325298": {
+      "#name": "In Search of Answers",
+      "activityModeTypes": [2, 7, 213]
+    },
     "666063689": {
       "#name": "Last Call",
       "activityModeTypes": [2, 7, 208]
     },
-    "667604912": {
-      "#name": "Meditation: \"Looped\"",
-      "activityModeTypes": [2, 7, 203]
-    },
     "671904429": {
       "#name": "Salvage Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "690795956": {
+      "#name": "Field Assignment: Active Duty",
       "activityModeTypes": [6, 7, 601]
     },
     "703311712": {
@@ -394,7 +414,15 @@
     },
     "770505917": {
       "#name": "European Aerial Zone: [Solar Kill] Day",
-      "activityModeTypes": [604]
+      "activityModeTypes": [605]
+    },
+    "774103043": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "778535230": {
+      "#name": "Beyond",
+      "activityModeTypes": [2, 7, 213]
     },
     "782175145": {
       "#name": "Assassination Mission",
@@ -423,10 +451,6 @@
     "808931822": {
       "#name": "Postmodern Prometheus",
       "activityModeTypes": [6, 7, 602]
-    },
-    "834864522": {
-      "#name": "Curse of Osiris",
-      "activityModeTypes": [2, 7, 204]
     },
     "837763871": {
       "#name": "Salvage Mission",
@@ -484,10 +508,6 @@
       "#name": "Unbroken",
       "activityModeTypes": [2, 7, 203]
     },
-    "952862146": {
-      "#name": "Target: The Hangman",
-      "activityModeTypes": [6, 7, 602]
-    },
     "955852466": {
       "#name": "1AU",
       "activityModeTypes": [2, 7, 203]
@@ -511,10 +531,6 @@
     "969385987": {
       "#name": "Lighting the Dark",
       "activityModeTypes": [6, 7, 200]
-    },
-    "991410404": {
-      "#name": "Meditation: \"Hijacked\"",
-      "activityModeTypes": [2, 7, 204]
     },
     "993152361": {
       "#name": "Salvage Mission",
@@ -552,10 +568,6 @@
       "#name": "(Heroic) Dark Alliance",
       "activityModeTypes": [6, 7, 58]
     },
-    "1019362992": {
-      "#name": "Meditation: \"Homecoming\"",
-      "activityModeTypes": [2, 7, 203]
-    },
     "1019949956": {
       "#name": "Forge Ignition",
       "activityModeTypes": [2, 7, 210]
@@ -568,17 +580,9 @@
       "#name": "Daily Heroic Story Mission: Payback",
       "activityModeTypes": [2, 7, 209]
     },
-    "1034805570": {
-      "#name": "Meditation: \"A Garden World\"",
-      "activityModeTypes": [2, 7, 204]
-    },
     "1038710420": {
       "#name": "Assassination Mission",
       "activityModeTypes": [6, 7, 601]
-    },
-    "1042784002": {
-      "#name": "Target: The Trickster",
-      "activityModeTypes": [6, 7, 602]
     },
     "1049899965": {
       "#name": "Beyond Infinity",
@@ -591,6 +595,10 @@
     "1057017675": {
       "#name": "The Gateway",
       "activityModeTypes": [2, 7, 204]
+    },
+    "1060539534": {
+      "#name": "Nightmare Hunt: Despair",
+      "activityModeTypes": [2, 7, 79]
     },
     "1063969232": {
       "#name": "Invitation from the Emperor",
@@ -684,13 +692,29 @@
       "#name": "The Gateway",
       "activityModeTypes": [2, 7, 204]
     },
+    "1188363426": {
+      "#name": "Nightmare Hunt: Servitude: Master",
+      "activityModeTypes": [79]
+    },
+    "1188363427": {
+      "#name": "Nightmare Hunt: Servitude: Legend",
+      "activityModeTypes": [79]
+    },
+    "1188363428": {
+      "#name": "Nightmare Hunt: Servitude: Hero",
+      "activityModeTypes": [79]
+    },
+    "1188363429": {
+      "#name": "Nightmare Hunt: Servitude: Adept",
+      "activityModeTypes": [79]
+    },
     "1194986370": {
       "#name": "Ice and Shadow",
       "activityModeTypes": [2, 7, 205]
     },
     "1199493030": {
       "#name": "European Aerial Zone: [Arc Kill] Day",
-      "activityModeTypes": [604]
+      "activityModeTypes": [605]
     },
     "1202325606": {
       "#name": "Ice and Shadow",
@@ -732,13 +756,13 @@
       "#name": "Assassination Mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "1254004276": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
+    },
     "1254990192": {
       "#name": "No Safe Distance",
       "activityModeTypes": [6, 7, 602]
-    },
-    "1255167276": {
-      "#name": "Meditation: \"Strange Terrain\"",
-      "activityModeTypes": [2, 7, 205]
     },
     "1259766043": {
       "#name": "Daily Heroic Story Mission: Beyond Infinity",
@@ -772,6 +796,10 @@
       "#name": "Deathly Tremors",
       "activityModeTypes": [6, 7, 602]
     },
+    "1296063136": {
+      "#name": "Faculties of the Skull",
+      "activityModeTypes": [2, 7, 206]
+    },
     "1302437673": {
       "#name": "(Heroic) A Frame Job",
       "activityModeTypes": [6, 7, 58]
@@ -783,6 +811,10 @@
     "1313738982": {
       "#name": "Dark Monastery",
       "activityModeTypes": [2, 7, 208]
+    },
+    "1326496189": {
+      "#name": "Beyond",
+      "activityModeTypes": [2, 7, 213]
     },
     "1331268141": {
       "#name": "Survey mission",
@@ -796,12 +828,32 @@
       "#name": "A Hum of Starlight",
       "activityModeTypes": [2, 7, 208]
     },
+    "1342492674": {
+      "#name": "Nightmare Hunt: Fear: Legend",
+      "activityModeTypes": [79]
+    },
+    "1342492675": {
+      "#name": "Nightmare Hunt: Fear: Master",
+      "activityModeTypes": [79]
+    },
+    "1342492676": {
+      "#name": "Nightmare Hunt: Fear: Adept",
+      "activityModeTypes": [79]
+    },
+    "1342492677": {
+      "#name": "Nightmare Hunt: Fear: Hero",
+      "activityModeTypes": [79]
+    },
     "1367215417": {
       "#name": "Lost Souvenir",
       "activityModeTypes": [2, 7, 210]
     },
     "1375839088": {
       "#name": "Analysis Mission",
+      "activityModeTypes": [6, 7, 601]
+    },
+    "1399384455": {
+      "#name": "Field Assignment: Active Duty",
       "activityModeTypes": [6, 7, 601]
     },
     "1412142789": {
@@ -828,17 +880,9 @@
       "#name": "My Captain",
       "activityModeTypes": [6, 7, 200]
     },
-    "1429621744": {
-      "#name": "Target: The Rider",
-      "activityModeTypes": [6, 7, 602]
-    },
     "1434072700": {
       "#name": "Bergusia Forge",
       "activityModeTypes": [2, 7, 211]
-    },
-    "1449366986": {
-      "#name": "Target: The Mad Bomber",
-      "activityModeTypes": [6, 7, 602]
     },
     "1451946951": {
       "#name": "Salvage Mission",
@@ -947,10 +991,6 @@
     "1643069750": {
       "#name": "Incursion",
       "activityModeTypes": [6, 7, 602]
-    },
-    "1646219807": {
-      "#name": "Larceny",
-      "activityModeTypes": [2, 7, 203]
     },
     "1651979106": {
       "#name": "Postmodern Prometheus",
@@ -1082,7 +1122,7 @@
     },
     "1893059148": {
       "#name": "The Shattered Throne",
-      "activityModeTypes": [2, 7, 208]
+      "activityModeTypes": [2, 7, 208, 214]
     },
     "1903826490": {
       "#name": "Survey mission",
@@ -1091,6 +1131,22 @@
     "1906514856": {
       "#name": "Daily Heroic Story Mission: Chosen",
       "activityModeTypes": [2, 7, 209]
+    },
+    "1907493624": {
+      "#name": "Nightmare Hunt: Pride: Legend",
+      "activityModeTypes": [79]
+    },
+    "1907493625": {
+      "#name": "Nightmare Hunt: Pride: Master",
+      "activityModeTypes": [79]
+    },
+    "1907493630": {
+      "#name": "Nightmare Hunt: Pride: Adept",
+      "activityModeTypes": [79]
+    },
+    "1907493631": {
+      "#name": "Nightmare Hunt: Pride: Hero",
+      "activityModeTypes": [79]
     },
     "1926167080": {
       "#name": "Strange Terrain",
@@ -1115,6 +1171,10 @@
     "1956541147": {
       "#name": "Calling Them Home",
       "activityModeTypes": [6, 7, 602]
+    },
+    "1962592775": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
     },
     "1967025365": {
       "#name": "Ice and Shadow",
@@ -1166,7 +1226,7 @@
     },
     "2032534090": {
       "#name": "The Shattered Throne",
-      "activityModeTypes": [2, 7, 208]
+      "activityModeTypes": [2, 7, 208, 214]
     },
     "2044882505": {
       "#name": "Defeat enemies",
@@ -1200,6 +1260,10 @@
       "#name": "Survey mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "2090903475": {
+      "#name": "Vex Offensive: Final Assault",
+      "activityModeTypes": [78, 7]
+    },
     "2091731913": {
       "#name": "Legacy Code",
       "activityModeTypes": [6, 7, 200]
@@ -1227,10 +1291,6 @@
     "2174556965": {
       "#name": "A Frame Job",
       "activityModeTypes": [6, 7, 602]
-    },
-    "2183066491": {
-      "#name": "The Farm",
-      "activityModeTypes": [2, 7, 40]
     },
     "2184866967": {
       "#name": "Analysis Mission",
@@ -1284,14 +1344,6 @@
       "#name": "Analysis Mission",
       "activityModeTypes": [6, 7, 601]
     },
-    "2264636552": {
-      "#name": "Meditation: \"Combustion\"",
-      "activityModeTypes": [2, 7, 203]
-    },
-    "2266954523": {
-      "#name": "The Farm",
-      "activityModeTypes": [2, 7, 40]
-    },
     "2272383802": {
       "#name": "Field Assignment: Salvage",
       "activityModeTypes": [6, 7, 601]
@@ -1307,6 +1359,10 @@
     "2279197206": {
       "#name": "A Deadly Trial",
       "activityModeTypes": [2, 7, 204]
+    },
+    "2279262916": {
+      "#name": "Nightmare Hunt: Rage",
+      "activityModeTypes": [2, 7, 79]
     },
     "2287222467": {
       "#name": "Analysis Mission",
@@ -1332,6 +1388,10 @@
       "#name": "Psionic Potential",
       "activityModeTypes": [6, 7, 602]
     },
+    "2306231495": {
+      "#name": "A Mysterious Disturbance",
+      "activityModeTypes": [2, 7, 213]
+    },
     "2307090074": {
       "#name": "Signal Light",
       "activityModeTypes": [6, 7, 200]
@@ -1339,6 +1399,10 @@
     "2310677039": {
       "#name": "(Heroic) Calling Them Home",
       "activityModeTypes": [6, 7, 58]
+    },
+    "2315447242": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
     },
     "2327656989": {
       "#name": "Combat Mission",
@@ -1372,17 +1436,13 @@
       "#name": "Analysis Mission",
       "activityModeTypes": [6, 7, 601]
     },
-    "2400231344": {
-      "#name": "The Frozen God",
-      "activityModeTypes": [2, 7, 205]
+    "2400767363": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
     },
     "2420240009": {
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
-    },
-    "2427944384": {
-      "#name": "Meditation: \"Offworld Recovery\"",
-      "activityModeTypes": [2, 7, 205]
     },
     "2428721124": {
       "#name": "Salvage Mission",
@@ -1390,7 +1450,7 @@
     },
     "2429391832": {
       "#name": "European Aerial Zone: [Void Kill] Day",
-      "activityModeTypes": [604]
+      "activityModeTypes": [605]
     },
     "2431838030": {
       "#name": "WANTED: Arcadian Chord",
@@ -1399,6 +1459,26 @@
     "2445164291": {
       "#name": "Assassination Mission",
       "activityModeTypes": [6, 7, 601]
+    },
+    "2446907856": {
+      "#name": "A Mysterious Disturbance",
+      "activityModeTypes": [2, 7, 213]
+    },
+    "2450170730": {
+      "#name": "Nightmare Hunt: Despair: Legend",
+      "activityModeTypes": [79]
+    },
+    "2450170731": {
+      "#name": "Nightmare Hunt: Despair: Master",
+      "activityModeTypes": [79]
+    },
+    "2450170732": {
+      "#name": "Nightmare Hunt: Despair: Adept",
+      "activityModeTypes": [79]
+    },
+    "2450170733": {
+      "#name": "Nightmare Hunt: Despair: Hero",
+      "activityModeTypes": [79]
     },
     "2468202005": {
       "#name": "Shard of the Traveler",
@@ -1412,9 +1492,13 @@
       "#name": "[2478782573]",
       "activityModeTypes": [2, 7, 999]
     },
-    "2504933700": {
-      "#name": "Target: The Rifleman",
-      "activityModeTypes": [6, 7, 602]
+    "2503939905": {
+      "#name": "The Moon",
+      "activityModeTypes": [6, 7, 600]
+    },
+    "2508299477": {
+      "#name": "Nightmare Hunt: Servitude",
+      "activityModeTypes": [2, 7, 79]
     },
     "2517540332": {
       "#name": "No Safe Distance",
@@ -1460,6 +1544,10 @@
       "#name": "Combat Mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "2576491016": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
+    },
     "2580713007": {
       "#name": "Survey mission",
       "activityModeTypes": [6, 7, 601]
@@ -1480,6 +1568,10 @@
       "#name": "Analysis Mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "2622431190": {
+      "#name": "Nightmare Hunt: Fear",
+      "activityModeTypes": [2, 7, 79]
+    },
     "2629975203": {
       "#name": "Combat Mission",
       "activityModeTypes": [6, 7, 601]
@@ -1488,9 +1580,29 @@
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "2638957477": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
+    },
     "2639045396": {
       "#name": "Scourge of the Armory",
       "activityModeTypes": [2, 7, 210]
+    },
+    "2639701096": {
+      "#name": "Nightmare Hunt: Insanity: Adept",
+      "activityModeTypes": [79]
+    },
+    "2639701097": {
+      "#name": "Nightmare Hunt: Insanity: Hero",
+      "activityModeTypes": [79]
+    },
+    "2639701102": {
+      "#name": "Nightmare Hunt: Insanity: Legend",
+      "activityModeTypes": [79]
+    },
+    "2639701103": {
+      "#name": "Nightmare Hunt: Insanity: Master",
+      "activityModeTypes": [79]
     },
     "2642769170": {
       "#name": "Six",
@@ -1523,14 +1635,6 @@
     "2695348045": {
       "#name": "Survey mission",
       "activityModeTypes": [6, 7, 601]
-    },
-    "2702476101": {
-      "#name": "Tower",
-      "activityModeTypes": [2, 7, 40]
-    },
-    "2708828207": {
-      "#name": "Utopia",
-      "activityModeTypes": [2, 7, 203]
     },
     "2718696427": {
       "#name": "Will of the Thousands",
@@ -1620,6 +1724,10 @@
       "#name": "Survey mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "2918838311": {
+      "#name": "Nightmare Hunt: Anguish",
+      "activityModeTypes": [2, 7, 79]
+    },
     "2926767881": {
       "#name": "Payback",
       "activityModeTypes": [2, 7, 203]
@@ -1647,6 +1755,10 @@
     "2974605887": {
       "#name": "Awakening",
       "activityModeTypes": [2, 7, 208]
+    },
+    "2999911583": {
+      "#name": "Vex Offensive",
+      "activityModeTypes": [78, 7]
     },
     "3002511278": {
       "#name": "Dark Alliance",
@@ -1708,6 +1820,10 @@
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "3111608341": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
+    },
     "3140524926": {
       "#name": "Unbreakable",
       "activityModeTypes": [6, 7, 602]
@@ -1748,13 +1864,25 @@
       "#name": "A Piece of the Past",
       "activityModeTypes": [6, 7, 200]
     },
+    "3205253944": {
+      "#name": "Nightmare Hunt: Isolation: Legend",
+      "activityModeTypes": [79]
+    },
+    "3205253945": {
+      "#name": "Nightmare Hunt: Isolation: Master",
+      "activityModeTypes": [79]
+    },
+    "3205253950": {
+      "#name": "Nightmare Hunt: Isolation: Adept",
+      "activityModeTypes": [79]
+    },
+    "3205253951": {
+      "#name": "Nightmare Hunt: Isolation: Hero",
+      "activityModeTypes": [79]
+    },
     "3205547455": {
       "#name": "Daily Heroic Story Mission: Riptide",
       "activityModeTypes": [2, 7, 209]
-    },
-    "3206026167": {
-      "#name": "The Gateway",
-      "activityModeTypes": [2, 7, 204]
     },
     "3208779612": {
       "#name": "Salvage Mission",
@@ -1768,17 +1896,9 @@
       "#name": "Siren Song",
       "activityModeTypes": [6, 7, 602]
     },
-    "3215844014": {
-      "#name": "Meditation: \"Omega\"",
-      "activityModeTypes": [2, 7, 204]
-    },
     "3226038743": {
-      "#name": "Last Call",
+      "#name": "High Plains Blues",
       "activityModeTypes": [2, 7, 208]
-    },
-    "3226632017": {
-      "#name": "Meditation: \"A Deadly Trial\"",
-      "activityModeTypes": [2, 7, 204]
     },
     "3231065327": {
       "#name": "Analysis Mission",
@@ -1791,10 +1911,6 @@
     "3248193378": {
       "#name": "The Up and Up (Heroic)",
       "activityModeTypes": [6, 7, 58]
-    },
-    "3249986335": {
-      "#name": "Destiny 2: Forsaken",
-      "activityModeTypes": [2, 7, 208]
     },
     "3255524827": {
       "#name": "(Heroic) Cliffhanger",
@@ -1824,14 +1940,6 @@
       "#name": "Lost Crew",
       "activityModeTypes": [6, 7, 602]
     },
-    "3289842296": {
-      "#name": "Curse of Osiris",
-      "activityModeTypes": [2, 7, 204]
-    },
-    "3292523719": {
-      "#name": "Meditation: \"The Gateway\"",
-      "activityModeTypes": [2, 7, 205]
-    },
     "3298775062": {
       "#name": "Survey mission",
       "activityModeTypes": [6, 7, 601]
@@ -1843,10 +1951,6 @@
     "3304835347": {
       "#name": "Calling Them Home",
       "activityModeTypes": [6, 7, 602]
-    },
-    "3336275007": {
-      "#name": "Meditation: \"Six\"",
-      "activityModeTypes": [2, 7, 203]
     },
     "3337731612": {
       "#name": "Combat Mission",
@@ -1892,10 +1996,6 @@
       "#name": "Psionic Potential",
       "activityModeTypes": [6, 7, 602]
     },
-    "3405569225": {
-      "#name": "The Frozen God",
-      "activityModeTypes": [2, 7, 205]
-    },
     "3410237988": {
       "#name": "1AU",
       "activityModeTypes": [2, 7, 207]
@@ -1904,13 +2004,13 @@
       "#name": "Calculated Action",
       "activityModeTypes": [6, 7, 200]
     },
-    "3417504239": {
-      "#name": "Riptide",
-      "activityModeTypes": [2, 7, 203]
-    },
     "3434499700": {
       "#name": "Initiation",
       "activityModeTypes": [2, 7, 210]
+    },
+    "3459379696": {
+      "#name": "Nightmare Hunt: Isolation",
+      "activityModeTypes": [2, 7, 79]
     },
     "3467071851": {
       "#name": "Field Assignment: Pilgrimage",
@@ -1944,6 +2044,10 @@
       "#name": "Analysis Mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "3527700562": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
+    },
     "3535117433": {
       "#name": "Field Assignment: Assassination",
       "activityModeTypes": [6, 7, 601]
@@ -1963,10 +2067,6 @@
     "3559661941": {
       "#name": "Nothing Left to Say",
       "activityModeTypes": [2, 7, 208]
-    },
-    "3580793473": {
-      "#name": "Meditation: \"1AU\"",
-      "activityModeTypes": [2, 7, 203]
     },
     "3601218952": {
       "#name": "The Rifleman (Heroic)",
@@ -2000,10 +2100,6 @@
       "#name": "Refurbished Izanami Igniter",
       "activityModeTypes": [2, 7, 210]
     },
-    "3642412717": {
-      "#name": "Meditation: \"Tree of Probabilities\"",
-      "activityModeTypes": [2, 7, 204]
-    },
     "3644215993": {
       "#name": "(Heroic) Road Rage",
       "activityModeTypes": [6, 7, 58]
@@ -2015,6 +2111,10 @@
     "3652531274": {
       "#name": "Shard of the Traveler",
       "activityModeTypes": [2, 7, 201]
+    },
+    "3655015216": {
+      "#name": "Nightmare Hunt: Pride",
+      "activityModeTypes": [2, 7, 79]
     },
     "3662124488": {
       "#name": "Survey mission",
@@ -2060,9 +2160,9 @@
       "#name": "Data Requisition",
       "activityModeTypes": [6, 7, 200]
     },
-    "3738159218": {
-      "#name": "Unbroken",
-      "activityModeTypes": [2, 7, 203]
+    "3742073480": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
     },
     "3746811765": {
       "#name": "The Oracle Engine",
@@ -2080,13 +2180,13 @@
       "#name": "Stop and Go",
       "activityModeTypes": [6, 7, 602]
     },
+    "3780441058": {
+      "#name": "Field Assignment: Active Duty",
+      "activityModeTypes": [6, 7, 601]
+    },
     "3792746061": {
       "#name": "Combat Mission",
       "activityModeTypes": [6, 7, 601]
-    },
-    "3801976119": {
-      "#name": "Meditation: \"Will of the Thousands\"",
-      "activityModeTypes": [2, 7, 205]
     },
     "3805779101": {
       "#name": "WANTED: Combustor Valus",
@@ -2110,15 +2210,11 @@
     },
     "3840133183": {
       "#name": "European Aerial Zone",
-      "activityModeTypes": [604]
+      "activityModeTypes": [605]
     },
     "3858493935": {
       "#name": "The Tribute Hall",
-      "activityModeTypes": [6, 7, 206]
-    },
-    "3865706603": {
-      "#name": "Meditation: \"Pilgrimage\"",
-      "activityModeTypes": [2, 7, 205]
+      "activityModeTypes": [6, 7, 604]
     },
     "3872525353": {
       "#name": "Stop and Go",
@@ -2140,10 +2236,6 @@
       "#name": "Bug in the System (Heroic)",
       "activityModeTypes": [6, 7, 58]
     },
-    "3926419686": {
-      "#name": "Target: The Mindbender",
-      "activityModeTypes": [6, 7, 602]
-    },
     "3957909528": {
       "#name": "WANTED: Blood Cleaver",
       "activityModeTypes": [6, 7, 603]
@@ -2160,9 +2252,9 @@
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
     },
-    "3982474534": {
-      "#name": "Payback",
-      "activityModeTypes": [2, 7, 203]
+    "4003594394": {
+      "#name": "Nightmare Hunt: Insanity",
+      "activityModeTypes": [2, 7, 79]
     },
     "4009655461": {
       "#name": "Daily Heroic Story Mission: The Machinist",
@@ -2208,13 +2300,25 @@
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "4098556690": {
+      "#name": "Nightmare Hunt: Rage: Adept",
+      "activityModeTypes": [79]
+    },
+    "4098556691": {
+      "#name": "Nightmare Hunt: Rage: Hero",
+      "activityModeTypes": [79]
+    },
+    "4098556692": {
+      "#name": "Nightmare Hunt: Rage: Legend",
+      "activityModeTypes": [79]
+    },
+    "4098556693": {
+      "#name": "Nightmare Hunt: Rage: Master",
+      "activityModeTypes": [79]
+    },
     "4103844069": {
       "#name": "Assassination Mission",
       "activityModeTypes": [6, 7, 601]
-    },
-    "4119522487": {
-      "#name": "Meditation: \"Deep Storage\"",
-      "activityModeTypes": [2, 7, 203]
     },
     "4150577752": {
       "#name": "WANTED: The Eye in the Dark",
@@ -2228,13 +2332,9 @@
       "#name": "Titan",
       "activityModeTypes": [6, 7, 600]
     },
-    "4166632210": {
-      "#name": "The Frozen God",
-      "activityModeTypes": [2, 7, 205]
-    },
-    "4170982146": {
-      "#name": "Meditation: \"Ice and Shadow\"",
-      "activityModeTypes": [2, 7, 205]
+    "4167922031": {
+      "#name": "In the Deep",
+      "activityModeTypes": [2, 7, 213]
     },
     "4174103238": {
       "#name": "Salvage Mission",
@@ -2272,17 +2372,9 @@
       "#name": "The Mad Bomber (Heroic)",
       "activityModeTypes": [6, 7, 58]
     },
-    "4239233351": {
-      "#name": "Meditation: \"Spark\"",
-      "activityModeTypes": [2, 7, 203]
-    },
     "4244464899": {
       "#name": "Daily Heroic Story Mission: Hijacked",
       "activityModeTypes": [2, 7, 209]
-    },
-    "4253800115": {
-      "#name": "The Frozen God",
-      "activityModeTypes": [2, 7, 205]
     },
     "4254776501": {
       "#name": "Salvage Mission",
@@ -2295,10 +2387,6 @@
     "4283649349": {
       "#name": "Assassination Mission",
       "activityModeTypes": [6, 7, 601]
-    },
-    "4291922223": {
-      "#name": "Hope",
-      "activityModeTypes": [2, 7, 203]
     }
   }
 }

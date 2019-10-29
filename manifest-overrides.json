@@ -1,5 +1,5 @@
 {
-  "version": "2019-07-31T14:23:13.631Z",
+  "version": "2019-10-29T12:28:23.953Z",
   "worldContent": {
     "DestinyActivityDefinition": {
       "10898844": {
@@ -47,9 +47,6 @@
           "enemyStrings": []
         }
       },
-      "40940368": {
-        "activityModeTypes": [2, 7, 204]
-      },
       "51408141": {
         "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3311195705,
@@ -78,9 +75,6 @@
           "itemHash": 0,
           "enemyStrings": []
         }
-      },
-      "60002467": {
-        "activityModeTypes": [2, 7, 203]
       },
       "74501540": {
         "activityModeTypes": [2, 7, 206]
@@ -168,7 +162,7 @@
         "activityModeTypes": [6, 7, 602]
       },
       "158022875": {
-        "activityModeTypes": [604]
+        "activityModeTypes": [605]
       },
       "175598161": {
         "activityModeTypes": [6, 7, 601],
@@ -244,9 +238,6 @@
           "enemyStrings": ["Fallen"]
         }
       },
-      "255819671": {
-        "activityModeTypes": [2, 7, 203]
-      },
       "261349035": {
         "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1161967626,
@@ -262,6 +253,9 @@
       },
       "271962655": {
         "activityModeTypes": [2, 7, 209]
+      },
+      "282844296": {
+        "activityModeTypes": [6, 7, 601]
       },
       "286324446": {
         "activityModeTypes": [6, 7, 601],
@@ -314,9 +308,6 @@
           "itemHash": 2641099036,
           "enemyStrings": ["Fallen"]
         }
-      },
-      "305709154": {
-        "activityModeTypes": [2, 7, 205]
       },
       "313572698": {
         "activityModeTypes": [2, 7, 201]
@@ -394,6 +385,12 @@
           "enemyStrings": []
         }
       },
+      "417691069": {
+        "activityModeTypes": [6, 7, 601]
+      },
+      "424670797": {
+        "activityModeTypes": [2, 7, 206]
+      },
       "429361491": {
         "activityModeTypes": [6, 7, 601],
         "bubbleHash": 577912749,
@@ -465,10 +462,10 @@
           "enemyStrings": []
         }
       },
-      "464789944": {
-        "activityModeTypes": [2, 7, 203]
-      },
       "466447952": {
+        "activityModeTypes": [2, 7, 213]
+      },
+      "471727774": {
         "activityModeTypes": [2, 7, 213]
       },
       "474193231": {
@@ -498,6 +495,9 @@
       },
       "501703034": {
         "activityModeTypes": [2, 7, 76]
+      },
+      "502780971": {
+        "activityModeTypes": [6, 7, 601]
       },
       "521403014": {
         "activityModeTypes": [2, 7, 208]
@@ -546,6 +546,18 @@
       "564863404": {
         "activityModeTypes": [2, 7, 999]
       },
+      "571058904": {
+        "activityModeTypes": [79]
+      },
+      "571058905": {
+        "activityModeTypes": [79]
+      },
+      "571058910": {
+        "activityModeTypes": [79]
+      },
+      "571058911": {
+        "activityModeTypes": [79]
+      },
       "581323290": {
         "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1291433366,
@@ -577,11 +589,11 @@
       "632790902": {
         "activityModeTypes": [6, 7, 602]
       },
+      "661325298": {
+        "activityModeTypes": [2, 7, 213]
+      },
       "666063689": {
         "activityModeTypes": [2, 7, 208]
-      },
-      "667604912": {
-        "activityModeTypes": [2, 7, 203]
       },
       "671904429": {
         "activityModeTypes": [6, 7, 601],
@@ -595,6 +607,9 @@
           "itemHash": 2414900593,
           "enemyStrings": ["Vandals"]
         }
+      },
+      "690795956": {
+        "activityModeTypes": [6, 7, 601]
       },
       "703311712": {
         "activityModeTypes": [2, 7, 201]
@@ -677,7 +692,13 @@
         }
       },
       "770505917": {
-        "activityModeTypes": [604]
+        "activityModeTypes": [605]
+      },
+      "774103043": {
+        "activityModeTypes": [6, 7, 601]
+      },
+      "778535230": {
+        "activityModeTypes": [2, 7, 213]
       },
       "782175145": {
         "activityModeTypes": [6, 7, 601],
@@ -729,9 +750,6 @@
       },
       "808931822": {
         "activityModeTypes": [6, 7, 602]
-      },
-      "834864522": {
-        "activityModeTypes": [2, 7, 204]
       },
       "837763871": {
         "activityModeTypes": [6, 7, 601],
@@ -815,9 +833,6 @@
       "938512773": {
         "activityModeTypes": [2, 7, 203]
       },
-      "952862146": {
-        "activityModeTypes": [6, 7, 602]
-      },
       "955852466": {
         "activityModeTypes": [2, 7, 203]
       },
@@ -845,9 +860,6 @@
       },
       "969385987": {
         "activityModeTypes": [6, 7, 200]
-      },
-      "991410404": {
-        "activityModeTypes": [2, 7, 204]
       },
       "993152361": {
         "activityModeTypes": [6, 7, 601],
@@ -886,9 +898,6 @@
       "1018385878": {
         "activityModeTypes": [6, 7, 58]
       },
-      "1019362992": {
-        "activityModeTypes": [2, 7, 203]
-      },
       "1019949956": {
         "activityModeTypes": [2, 7, 210]
       },
@@ -897,9 +906,6 @@
       },
       "1023966646": {
         "activityModeTypes": [2, 7, 209]
-      },
-      "1034805570": {
-        "activityModeTypes": [2, 7, 204]
       },
       "1038710420": {
         "activityModeTypes": [6, 7, 601],
@@ -913,9 +919,6 @@
           "itemHash": 0,
           "enemyStrings": ["Taken Virologist", "Ravenous Taken Goblin x2"]
         }
-      },
-      "1042784002": {
-        "activityModeTypes": [6, 7, 602]
       },
       "1049899965": {
         "activityModeTypes": [2, 7, 204]
@@ -935,6 +938,9 @@
       },
       "1057017675": {
         "activityModeTypes": [2, 7, 204]
+      },
+      "1060539534": {
+        "activityModeTypes": [2, 7, 79]
       },
       "1063969232": {
         "activityModeTypes": [6, 7, 602]
@@ -1075,11 +1081,23 @@
       "1175770231": {
         "activityModeTypes": [2, 7, 204]
       },
+      "1188363426": {
+        "activityModeTypes": [79]
+      },
+      "1188363427": {
+        "activityModeTypes": [79]
+      },
+      "1188363428": {
+        "activityModeTypes": [79]
+      },
+      "1188363429": {
+        "activityModeTypes": [79]
+      },
       "1194986370": {
         "activityModeTypes": [2, 7, 205]
       },
       "1199493030": {
-        "activityModeTypes": [604]
+        "activityModeTypes": [605]
       },
       "1202325606": {
         "activityModeTypes": [2, 7, 205]
@@ -1141,11 +1159,11 @@
           "enemyStrings": ["Accumulative Mind", "Quantum Harpy x2"]
         }
       },
+      "1254004276": {
+        "activityModeTypes": [6, 7, 601]
+      },
       "1254990192": {
         "activityModeTypes": [6, 7, 602]
-      },
-      "1255167276": {
-        "activityModeTypes": [2, 7, 205]
       },
       "1259766043": {
         "activityModeTypes": [2, 7, 209]
@@ -1171,6 +1189,9 @@
       "1294490226": {
         "activityModeTypes": [6, 7, 602]
       },
+      "1296063136": {
+        "activityModeTypes": [2, 7, 206]
+      },
       "1302437673": {
         "activityModeTypes": [6, 7, 58]
       },
@@ -1179,6 +1200,9 @@
       },
       "1313738982": {
         "activityModeTypes": [2, 7, 208]
+      },
+      "1326496189": {
+        "activityModeTypes": [2, 7, 213]
       },
       "1331268141": {
         "activityModeTypes": [6, 7, 601],
@@ -1199,6 +1223,18 @@
       "1338487764": {
         "activityModeTypes": [2, 7, 208]
       },
+      "1342492674": {
+        "activityModeTypes": [79]
+      },
+      "1342492675": {
+        "activityModeTypes": [79]
+      },
+      "1342492676": {
+        "activityModeTypes": [79]
+      },
+      "1342492677": {
+        "activityModeTypes": [79]
+      },
       "1367215417": {
         "activityModeTypes": [2, 7, 210]
       },
@@ -1214,6 +1250,9 @@
           "itemHash": 0,
           "enemyStrings": []
         }
+      },
+      "1399384455": {
+        "activityModeTypes": [6, 7, 601]
       },
       "1412142789": {
         "activityModeTypes": [2, 7, 999]
@@ -1233,14 +1272,8 @@
       "1428050875": {
         "activityModeTypes": [6, 7, 200]
       },
-      "1429621744": {
-        "activityModeTypes": [6, 7, 602]
-      },
       "1434072700": {
         "activityModeTypes": [2, 7, 211]
-      },
-      "1449366986": {
-        "activityModeTypes": [6, 7, 602]
       },
       "1451946951": {
         "activityModeTypes": [6, 7, 601],
@@ -1393,9 +1426,6 @@
       "1643069750": {
         "activityModeTypes": [6, 7, 602]
       },
-      "1646219807": {
-        "activityModeTypes": [2, 7, 203]
-      },
       "1651979106": {
         "activityModeTypes": [6, 7, 602]
       },
@@ -1533,13 +1563,25 @@
         "activityModeTypes": [2, 7, 209]
       },
       "1893059148": {
-        "activityModeTypes": [2, 7, 208]
+        "activityModeTypes": [2, 7, 208, 214]
       },
       "1903826490": {
         "activityModeTypes": [6, 7, 601]
       },
       "1906514856": {
         "activityModeTypes": [2, 7, 209]
+      },
+      "1907493624": {
+        "activityModeTypes": [79]
+      },
+      "1907493625": {
+        "activityModeTypes": [79]
+      },
+      "1907493630": {
+        "activityModeTypes": [79]
+      },
+      "1907493631": {
+        "activityModeTypes": [79]
       },
       "1926167080": {
         "activityModeTypes": [2, 7, 205]
@@ -1568,6 +1610,9 @@
       },
       "1956541147": {
         "activityModeTypes": [6, 7, 602]
+      },
+      "1962592775": {
+        "activityModeTypes": [6, 7, 601]
       },
       "1967025365": {
         "activityModeTypes": [2, 7, 205]
@@ -1636,7 +1681,7 @@
         }
       },
       "2032534090": {
-        "activityModeTypes": [2, 7, 208]
+        "activityModeTypes": [2, 7, 208, 214]
       },
       "2044882505": {
         "activityModeTypes": [6, 7, 601],
@@ -1682,6 +1727,9 @@
           "enemyStrings": []
         }
       },
+      "2090903475": {
+        "activityModeTypes": [78, 7]
+      },
       "2091731913": {
         "activityModeTypes": [6, 7, 200]
       },
@@ -1722,9 +1770,6 @@
       },
       "2174556965": {
         "activityModeTypes": [6, 7, 602]
-      },
-      "2183066491": {
-        "activityModeTypes": [2, 7, 40]
       },
       "2184866967": {
         "activityModeTypes": [6, 7, 601],
@@ -1795,12 +1840,6 @@
       "2261527950": {
         "activityModeTypes": [6, 7, 601]
       },
-      "2264636552": {
-        "activityModeTypes": [2, 7, 203]
-      },
-      "2266954523": {
-        "activityModeTypes": [2, 7, 40]
-      },
       "2272383802": {
         "activityModeTypes": [6, 7, 601]
       },
@@ -1812,6 +1851,9 @@
       },
       "2279197206": {
         "activityModeTypes": [2, 7, 204]
+      },
+      "2279262916": {
+        "activityModeTypes": [2, 7, 79]
       },
       "2287222467": {
         "activityModeTypes": [6, 7, 601],
@@ -1861,11 +1903,17 @@
       "2302677459": {
         "activityModeTypes": [6, 7, 602]
       },
+      "2306231495": {
+        "activityModeTypes": [2, 7, 213]
+      },
       "2307090074": {
         "activityModeTypes": [6, 7, 200]
       },
       "2310677039": {
         "activityModeTypes": [6, 7, 58]
+      },
+      "2315447242": {
+        "activityModeTypes": [6, 7, 601]
       },
       "2327656989": {
         "activityModeTypes": [6, 7, 601]
@@ -1901,8 +1949,8 @@
           "enemyStrings": []
         }
       },
-      "2400231344": {
-        "activityModeTypes": [2, 7, 205]
+      "2400767363": {
+        "activityModeTypes": [6, 7, 601]
       },
       "2420240009": {
         "activityModeTypes": [6, 7, 601],
@@ -1917,14 +1965,11 @@
           "enemyStrings": ["Vex"]
         }
       },
-      "2427944384": {
-        "activityModeTypes": [2, 7, 205]
-      },
       "2428721124": {
         "activityModeTypes": [6, 7, 601]
       },
       "2429391832": {
-        "activityModeTypes": [604]
+        "activityModeTypes": [605]
       },
       "2431838030": {
         "activityModeTypes": [6, 7, 603]
@@ -1942,6 +1987,21 @@
           "enemyStrings": ["Scavenging Crew Leader", "Ravenous Taken Goblin x2"]
         }
       },
+      "2446907856": {
+        "activityModeTypes": [2, 7, 213]
+      },
+      "2450170730": {
+        "activityModeTypes": [79]
+      },
+      "2450170731": {
+        "activityModeTypes": [79]
+      },
+      "2450170732": {
+        "activityModeTypes": [79]
+      },
+      "2450170733": {
+        "activityModeTypes": [79]
+      },
       "2468202005": {
         "activityModeTypes": [2, 7, 201]
       },
@@ -1951,8 +2011,11 @@
       "2478782573": {
         "activityModeTypes": [2, 7, 999]
       },
-      "2504933700": {
-        "activityModeTypes": [6, 7, 602]
+      "2503939905": {
+        "activityModeTypes": [6, 7, 600]
+      },
+      "2508299477": {
+        "activityModeTypes": [2, 7, 79]
       },
       "2517540332": {
         "activityModeTypes": [6, 7, 602]
@@ -2047,6 +2110,9 @@
           "enemyStrings": []
         }
       },
+      "2576491016": {
+        "activityModeTypes": [6, 7, 601]
+      },
       "2580713007": {
         "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3340296448,
@@ -2102,6 +2168,9 @@
           "enemyStrings": []
         }
       },
+      "2622431190": {
+        "activityModeTypes": [2, 7, 79]
+      },
       "2629975203": {
         "activityModeTypes": [6, 7, 601],
         "bubbleHash": 577912749,
@@ -2128,8 +2197,23 @@
           "enemyStrings": ["Fallen"]
         }
       },
+      "2638957477": {
+        "activityModeTypes": [6, 7, 601]
+      },
       "2639045396": {
         "activityModeTypes": [2, 7, 210]
+      },
+      "2639701096": {
+        "activityModeTypes": [79]
+      },
+      "2639701097": {
+        "activityModeTypes": [79]
+      },
+      "2639701102": {
+        "activityModeTypes": [79]
+      },
+      "2639701103": {
+        "activityModeTypes": [79]
       },
       "2642769170": {
         "activityModeTypes": [2, 7, 203]
@@ -2174,12 +2258,6 @@
       },
       "2695348045": {
         "activityModeTypes": [6, 7, 601]
-      },
-      "2702476101": {
-        "activityModeTypes": [2, 7, 40]
-      },
-      "2708828207": {
-        "activityModeTypes": [2, 7, 203]
       },
       "2718696427": {
         "activityModeTypes": [2, 7, 205]
@@ -2327,6 +2405,9 @@
           "enemyStrings": []
         }
       },
+      "2918838311": {
+        "activityModeTypes": [2, 7, 79]
+      },
       "2926767881": {
         "activityModeTypes": [2, 7, 203]
       },
@@ -2357,6 +2438,9 @@
       },
       "2974605887": {
         "activityModeTypes": [2, 7, 208]
+      },
+      "2999911583": {
+        "activityModeTypes": [78, 7]
       },
       "3002511278": {
         "activityModeTypes": [6, 7, 602]
@@ -2433,6 +2517,9 @@
       "3108278497": {
         "activityModeTypes": [6, 7, 601]
       },
+      "3111608341": {
+        "activityModeTypes": [6, 7, 601]
+      },
       "3140524926": {
         "activityModeTypes": [6, 7, 602]
       },
@@ -2473,11 +2560,20 @@
       "3204449126": {
         "activityModeTypes": [6, 7, 200]
       },
+      "3205253944": {
+        "activityModeTypes": [79]
+      },
+      "3205253945": {
+        "activityModeTypes": [79]
+      },
+      "3205253950": {
+        "activityModeTypes": [79]
+      },
+      "3205253951": {
+        "activityModeTypes": [79]
+      },
       "3205547455": {
         "activityModeTypes": [2, 7, 209]
-      },
-      "3206026167": {
-        "activityModeTypes": [2, 7, 204]
       },
       "3208779612": {
         "activityModeTypes": [6, 7, 601],
@@ -2508,14 +2604,8 @@
       "3211568383": {
         "activityModeTypes": [6, 7, 602]
       },
-      "3215844014": {
-        "activityModeTypes": [2, 7, 204]
-      },
       "3226038743": {
         "activityModeTypes": [2, 7, 208]
-      },
-      "3226632017": {
-        "activityModeTypes": [2, 7, 204]
       },
       "3231065327": {
         "activityModeTypes": [6, 7, 601],
@@ -2535,9 +2625,6 @@
       },
       "3248193378": {
         "activityModeTypes": [6, 7, 58]
-      },
-      "3249986335": {
-        "activityModeTypes": [2, 7, 208]
       },
       "3255524827": {
         "activityModeTypes": [6, 7, 58]
@@ -2570,12 +2657,6 @@
       "3289681664": {
         "activityModeTypes": [6, 7, 602]
       },
-      "3289842296": {
-        "activityModeTypes": [2, 7, 204]
-      },
-      "3292523719": {
-        "activityModeTypes": [2, 7, 205]
-      },
       "3298775062": {
         "activityModeTypes": [6, 7, 601],
         "bubbleHash": 3340296448,
@@ -2604,9 +2685,6 @@
       },
       "3304835347": {
         "activityModeTypes": [6, 7, 602]
-      },
-      "3336275007": {
-        "activityModeTypes": [2, 7, 203]
       },
       "3337731612": {
         "activityModeTypes": [6, 7, 601],
@@ -2691,20 +2769,17 @@
       "3384410381": {
         "activityModeTypes": [6, 7, 602]
       },
-      "3405569225": {
-        "activityModeTypes": [2, 7, 205]
-      },
       "3410237988": {
         "activityModeTypes": [2, 7, 207]
       },
       "3410530777": {
         "activityModeTypes": [6, 7, 200]
       },
-      "3417504239": {
-        "activityModeTypes": [2, 7, 203]
-      },
       "3434499700": {
         "activityModeTypes": [2, 7, 210]
+      },
+      "3459379696": {
+        "activityModeTypes": [2, 7, 79]
       },
       "3467071851": {
         "activityModeTypes": [6, 7, 601]
@@ -2780,6 +2855,9 @@
           "enemyStrings": []
         }
       },
+      "3527700562": {
+        "activityModeTypes": [6, 7, 601]
+      },
       "3535117433": {
         "activityModeTypes": [6, 7, 601]
       },
@@ -2794,9 +2872,6 @@
       },
       "3559661941": {
         "activityModeTypes": [2, 7, 208]
-      },
-      "3580793473": {
-        "activityModeTypes": [2, 7, 203]
       },
       "3601218952": {
         "activityModeTypes": [6, 7, 58]
@@ -2842,9 +2917,6 @@
       "3641102502": {
         "activityModeTypes": [2, 7, 210]
       },
-      "3642412717": {
-        "activityModeTypes": [2, 7, 204]
-      },
       "3644215993": {
         "activityModeTypes": [6, 7, 58]
       },
@@ -2853,6 +2925,9 @@
       },
       "3652531274": {
         "activityModeTypes": [2, 7, 201]
+      },
+      "3655015216": {
+        "activityModeTypes": [2, 7, 79]
       },
       "3662124488": {
         "activityModeTypes": [6, 7, 601],
@@ -2907,8 +2982,8 @@
       "3702064261": {
         "activityModeTypes": [6, 7, 200]
       },
-      "3738159218": {
-        "activityModeTypes": [2, 7, 203]
+      "3742073480": {
+        "activityModeTypes": [6, 7, 601]
       },
       "3746811765": {
         "activityModeTypes": [2, 7, 208]
@@ -2922,6 +2997,9 @@
       "3780356141": {
         "activityModeTypes": [6, 7, 602]
       },
+      "3780441058": {
+        "activityModeTypes": [6, 7, 601]
+      },
       "3792746061": {
         "activityModeTypes": [6, 7, 601],
         "bubbleHash": 1702304883,
@@ -2934,9 +3012,6 @@
           "itemHash": 0,
           "enemyStrings": []
         }
-      },
-      "3801976119": {
-        "activityModeTypes": [2, 7, 205]
       },
       "3805779101": {
         "activityModeTypes": [6, 7, 603]
@@ -2974,13 +3049,10 @@
         "activityModeTypes": [6, 7, 602]
       },
       "3840133183": {
-        "activityModeTypes": [604]
+        "activityModeTypes": [605]
       },
       "3858493935": {
-        "activityModeTypes": [6, 7, 206]
-      },
-      "3865706603": {
-        "activityModeTypes": [2, 7, 205]
+        "activityModeTypes": [6, 7, 604]
       },
       "3872525353": {
         "activityModeTypes": [6, 7, 602]
@@ -3006,9 +3078,6 @@
       },
       "3920569453": {
         "activityModeTypes": [6, 7, 58]
-      },
-      "3926419686": {
-        "activityModeTypes": [6, 7, 602]
       },
       "3957909528": {
         "activityModeTypes": [6, 7, 603]
@@ -3042,8 +3111,8 @@
           "enemyStrings": ["Harpies"]
         }
       },
-      "3982474534": {
-        "activityModeTypes": [2, 7, 203]
+      "4003594394": {
+        "activityModeTypes": [2, 7, 79]
       },
       "4009655461": {
         "activityModeTypes": [2, 7, 209]
@@ -3118,6 +3187,18 @@
           "enemyStrings": ["Psions"]
         }
       },
+      "4098556690": {
+        "activityModeTypes": [79]
+      },
+      "4098556691": {
+        "activityModeTypes": [79]
+      },
+      "4098556692": {
+        "activityModeTypes": [79]
+      },
+      "4098556693": {
+        "activityModeTypes": [79]
+      },
       "4103844069": {
         "activityModeTypes": [6, 7, 601],
         "bubbleHash": 4035573696,
@@ -3131,9 +3212,6 @@
           "enemyStrings": ["Energized Brute", "Revenant Acolyte x2"]
         }
       },
-      "4119522487": {
-        "activityModeTypes": [2, 7, 203]
-      },
       "4150577752": {
         "activityModeTypes": [6, 7, 603]
       },
@@ -3143,11 +3221,8 @@
       "4166562681": {
         "activityModeTypes": [6, 7, 600]
       },
-      "4166632210": {
-        "activityModeTypes": [2, 7, 205]
-      },
-      "4170982146": {
-        "activityModeTypes": [2, 7, 205]
+      "4167922031": {
+        "activityModeTypes": [2, 7, 213]
       },
       "4174103238": {
         "activityModeTypes": [6, 7, 601],
@@ -3216,14 +3291,8 @@
       "4238309598": {
         "activityModeTypes": [6, 7, 58]
       },
-      "4239233351": {
-        "activityModeTypes": [2, 7, 203]
-      },
       "4244464899": {
         "activityModeTypes": [2, 7, 209]
-      },
-      "4253800115": {
-        "activityModeTypes": [2, 7, 205]
       },
       "4254776501": {
         "activityModeTypes": [6, 7, 601],
@@ -3253,9 +3322,6 @@
           "itemHash": 0,
           "enemyStrings": ["Recursive Mind", "Quantum Hobgoblin x2"]
         }
-      },
-      "4291922223": {
-        "activityModeTypes": [2, 7, 203]
       }
     }
   }

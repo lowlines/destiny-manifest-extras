@@ -46,7 +46,10 @@ const ModeTypeQuest = [
   2731208666, // Zero Hour (Heroic) (700)
 
   3536651661, // The Other Side (350)
-  3858493935 // The Tribute Hall (300)
+
+  424670797, // Risk/Reward (750) : Story
+  1296063136, // Faculties of the Skull (860) : Story
+  1396849690 // Choir of the Damned (920) : Story
 ];
 
 const ModeTypeSocial = [
@@ -80,7 +83,9 @@ const ModeTypeExplore = [
   1928964033, // The Tangled Shore (10)
 
   2814646673, // The Dreaming City (10)
-  2047813119 // The Dreaming City (10)
+  2047813119, // The Dreaming City (10)
+
+  2503939905 // The Moon (0) : Patrol
 ];
 
 const ModeTypeRedWar = [
@@ -202,6 +207,20 @@ const ModeTypeForsaken = [
   2278374121 // Unknown Space (10)
 ];
 
+const ModeTypeShadowkeep = [
+  466447952, // Destiny 2: Shadowkeep (10)
+
+  2306231495, // A Mysterious Disturbance (860) : Story
+  2446907856, // A Mysterious Disturbance (760) : Story
+  661325298, // In Search of Answers (760) : Story
+
+  4167922031, // In the Deep (800) : Story
+  471727774, // In the Deep (860) : Story
+
+  778535230, // Beyond (850) : Story
+  1326496189 // Beyond (860) : Story
+];
+
 const ModeTypeSolstice = [
   877831883,
   3679941640,
@@ -234,10 +253,6 @@ const ModeTypeForge = [
   1506080581, // Volundr Forge (610)
   2656947700, // Izanami Forge (610)
   1434072700 // Bergusia Forge (650)
-];
-
-const ModeTypeShadowkeep = [
-  466447952 // Destiny 2: Shadowkeep (10)
 ];
 
 const ModeTypeHeroicStory = [
@@ -471,7 +486,25 @@ const ModeTypePatrols = [
   3535117433, // Field Assignment: Assassination (10)
   3601558330, // Field Assignment: Salvage (10)
   3634370598, // Field Assignment: Active Duty (10)
-  840467755 // Field Assignment: Assassination (10)
+  840467755, // Field Assignment: Assassination (10)
+
+  // Moon
+  282844296, // Field Assignment: Active Duty (0) : Patrol
+  417691069, // Field Assignment: Active Duty (0) : Patrol
+  502780971, // Field Assignment: Active Duty (0) : Patrol
+  690795956, // Field Assignment: Active Duty (0) : Patrol
+  774103043, // Field Assignment: Active Duty (0) : Patrol
+  1254004276, // Field Assignment: Active Duty (0) : Patrol
+  1399384455, // Field Assignment: Active Duty (0) : Patrol
+  1962592775, // Field Assignment: Active Duty (0) : Patrol
+  2315447242, // Field Assignment: Active Duty (0) : Patrol
+  2400767363, // Field Assignment: Active Duty (0) : Patrol
+  2576491016, // Field Assignment: Active Duty (0) : Patrol
+  2638957477, // Field Assignment: Active Duty (0) : Patrol
+  3111608341, // Field Assignment: Active Duty (0) : Patrol
+  3527700562, // Field Assignment: Active Duty (0) : Patrol
+  3742073480, // Field Assignment: Active Duty (0) : Patrol
+  3780441058 // Field Assignment: Active Duty (0) : Patrol
 ];
 
 const ModeTypeAdventure = [
@@ -656,12 +689,69 @@ const ModeTypeMenagerie = [
   3115455134 // The Menagerie: The Menagerie (Heroic) Matchmaking (740)
 ];
 
+const ModeTypeTributeHall = [
+  3858493935 // The Tribute Hall (300)
+];
+
 const ModeTypeEAZ = [
   158022875, // European Aerial Zone (200)
   770505917, // European Aerial Zone: [Solar Kill] Day (200)
   1199493030, // European Aerial Zone: [Arc Kill] Day (200)
   2429391832, // European Aerial Zone: [Void Kill] Day (200)
   3840133183 // European Aerial Zone (200)
+];
+
+const ModeTypeNightmareHunt = [
+  571058904, // Nightmare Hunt: Anguish: Master (980)
+  571058905, // Nightmare Hunt: Anguish: Legend (950)
+  571058910, // Nightmare Hunt: Anguish: Hero (920)
+  571058911, // Nightmare Hunt: Anguish: Adept (860)
+  1060539534, // Nightmare Hunt: Despair (0) : Story
+  1188363426, // Nightmare Hunt: Servitude: Master (980)
+  1188363427, // Nightmare Hunt: Servitude: Legend (950)
+  1188363428, // Nightmare Hunt: Servitude: Hero (920)
+  1188363429, // Nightmare Hunt: Servitude: Adept (860)
+  1342492674, // Nightmare Hunt: Fear: Legend (950)
+  1342492675, // Nightmare Hunt: Fear: Master (980)
+  1342492676, // Nightmare Hunt: Fear: Adept (860)
+  1342492677, // Nightmare Hunt: Fear: Hero (920)
+  1907493624, // Nightmare Hunt: Pride: Legend (950)
+  1907493625, // Nightmare Hunt: Pride: Master (980)
+  1907493630, // Nightmare Hunt: Pride: Adept (860)
+  1907493631, // Nightmare Hunt: Pride: Hero (920)
+  2279262916, // Nightmare Hunt: Rage (0) : Story
+  2450170730, // Nightmare Hunt: Despair: Legend (950)
+  2450170731, // Nightmare Hunt: Despair: Master (980)
+  2450170732, // Nightmare Hunt: Despair: Adept (860)
+  2450170733, // Nightmare Hunt: Despair: Hero (920)
+  2508299477, // Nightmare Hunt: Servitude (0) : Story
+  2622431190, // Nightmare Hunt: Fear (830) : Story
+  2639701096, // Nightmare Hunt: Insanity: Adept (860)
+  2639701097, // Nightmare Hunt: Insanity: Hero (920)
+  2639701102, // Nightmare Hunt: Insanity: Legend (950)
+  2639701103, // Nightmare Hunt: Insanity: Master (980)
+  2918838311, // Nightmare Hunt: Anguish (770) : Story
+  3205253944, // Nightmare Hunt: Isolation: Legend (950)
+  3205253945, // Nightmare Hunt: Isolation: Master (980)
+  3205253950, // Nightmare Hunt: Isolation: Adept (860)
+  3205253951, // Nightmare Hunt: Isolation: Hero (920)
+  3459379696, // Nightmare Hunt: Isolation (810) : Story
+  3655015216, // Nightmare Hunt: Pride (800) : Story
+  4003594394, // Nightmare Hunt: Insanity (0) : Story
+  4098556690, // Nightmare Hunt: Rage: Adept (860)
+  4098556691, // Nightmare Hunt: Rage: Hero (920)
+  4098556692, // Nightmare Hunt: Rage: Legend (950)
+  4098556693 // Nightmare Hunt: Rage: Master (980)
+];
+
+const ModeTypeDungeon = [
+  2032534090, // Shattered Throne
+  1893059148 // Shattered Throne (Dupe)
+];
+
+const ModeVexOffensive = [
+  2999911583, // Vex Offensive (750)
+  2090903475 // Vex Offensive: Final Assault (750)
 ];
 
 const ModeTypeUnknown = [
@@ -701,6 +791,8 @@ const ModeTypes = {
   "58": ModeTypeHeroicAdventure,
   "76": ModeTypeReckoning,
   "77": ModeTypeMenagerie,
+  "78": ModeVexOffensive,
+  "79": ModeTypeNightmareHunt,
 
   "200": ModeTypeLegacyQuest,
   "201": ModeTypeSubclassQuest,
@@ -715,12 +807,14 @@ const ModeTypes = {
   "211": ModeTypeForge,
   "212": ModeTypeInvitationsOfTheNine,
   "213": ModeTypeShadowkeep,
+  "214": ModeTypeDungeon,
 
   "600": ModeTypeExplore,
   "601": ModeTypePatrols,
   "602": ModeTypeAdventure,
   "603": ModeTypeWantedAdventure,
-  "604": ModeTypeEAZ,
+  "604": ModeTypeTributeHall,
+  "605": ModeTypeEAZ,
 
   "999": ModeTypeUnknown
 };
