@@ -1,5 +1,5 @@
 {
-  "version": "2019-10-29T12:28:23.953Z",
+  "version": "2019-10-30T13:15:08.029Z",
   "worldContent": {
     "DestinyActivityDefinition": {
       "10898844": {
@@ -1238,6 +1238,9 @@
       "1367215417": {
         "activityModeTypes": [2, 7, 210]
       },
+      "1375089621": {
+        "activityModeTypes": [82, 7, 214]
+      },
       "1375839088": {
         "activityModeTypes": [6, 7, 601],
         "bubbleHash": 2132187573,
@@ -1250,6 +1253,9 @@
           "itemHash": 0,
           "enemyStrings": []
         }
+      },
+      "1396849690": {
+        "activityModeTypes": [2, 7, 206]
       },
       "1399384455": {
         "activityModeTypes": [6, 7, 601]
@@ -1617,6 +1623,9 @@
       "1967025365": {
         "activityModeTypes": [2, 7, 205]
       },
+      "1967175017": {
+        "activityModeTypes": [78, 7]
+      },
       "1969800443": {
         "activityModeTypes": [6, 7, 602]
       },
@@ -1808,6 +1817,9 @@
       },
       "2231840083": {
         "activityModeTypes": [6, 7, 602]
+      },
+      "2237396749": {
+        "activityModeTypes": [78, 7]
       },
       "2243336789": {
         "activityModeTypes": [6, 7, 601],
@@ -2061,6 +2073,12 @@
           "itemHash": 0,
           "enemyStrings": []
         }
+      },
+      "2559374374": {
+        "activityModeTypes": [82, 7, 214]
+      },
+      "2559374375": {
+        "activityModeTypes": [82, 7, 214]
       },
       "2559514952": {
         "activityModeTypes": [2, 7, 203]

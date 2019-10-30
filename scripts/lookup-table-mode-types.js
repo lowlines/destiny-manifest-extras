@@ -746,12 +746,19 @@ const ModeTypeNightmareHunt = [
 
 const ModeTypeDungeon = [
   2032534090, // Shattered Throne
-  1893059148 // Shattered Throne (Dupe)
+  1893059148, // Shattered Throne (Dupe)
+
+  1375089621, // Pit of Heresy (940)
+  2559374375, // Pit of Heresy: Legend (950)
+  2559374374 // Pit of Heresy: Master (980)
 ];
 
 const ModeVexOffensive = [
   2999911583, // Vex Offensive (750)
-  2090903475 // Vex Offensive: Final Assault (750)
+  2090903475, // Vex Offensive: Final Assault (750)
+
+  2237396749, // Vex Offensive (750)
+  1967175017 // Vex Offensive: Final Assault (750)
 ];
 
 const ModeTypeUnknown = [

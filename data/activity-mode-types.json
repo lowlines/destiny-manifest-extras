@@ -413,7 +413,7 @@
       "activityModeTypes": [6, 7, 601]
     },
     "770505917": {
-      "#name": "European Aerial Zone: [Solar Kill] Day",
+      "#name": "European Aerial Zone:  Day",
       "activityModeTypes": [605]
     },
     "774103043": {
@@ -713,7 +713,7 @@
       "activityModeTypes": [2, 7, 205]
     },
     "1199493030": {
-      "#name": "European Aerial Zone: [Arc Kill] Day",
+      "#name": "European Aerial Zone:  Day",
       "activityModeTypes": [605]
     },
     "1202325606": {
@@ -848,9 +848,17 @@
       "#name": "Lost Souvenir",
       "activityModeTypes": [2, 7, 210]
     },
+    "1375089621": {
+      "#name": "Pit of Heresy",
+      "activityModeTypes": [82, 7, 214]
+    },
     "1375839088": {
       "#name": "Analysis Mission",
       "activityModeTypes": [6, 7, 601]
+    },
+    "1396849690": {
+      "#name": "Choir of the Damned",
+      "activityModeTypes": [2, 7, 206]
     },
     "1399384455": {
       "#name": "Field Assignment: Active Duty",
@@ -1180,6 +1188,10 @@
       "#name": "Ice and Shadow",
       "activityModeTypes": [2, 7, 205]
     },
+    "1967175017": {
+      "#name": "Vex Offensive: Final Assault",
+      "activityModeTypes": [78, 7]
+    },
     "1969800443": {
       "#name": "Arecibo",
       "activityModeTypes": [6, 7, 602]
@@ -1316,6 +1328,10 @@
       "#name": "Siren Song",
       "activityModeTypes": [6, 7, 602]
     },
+    "2237396749": {
+      "#name": "Vex Offensive",
+      "activityModeTypes": [78, 7]
+    },
     "2243336789": {
       "#name": "Combat Mission",
       "activityModeTypes": [6, 7, 601]
@@ -1449,7 +1465,7 @@
       "activityModeTypes": [6, 7, 601]
     },
     "2429391832": {
-      "#name": "European Aerial Zone: [Void Kill] Day",
+      "#name": "European Aerial Zone:  Day",
       "activityModeTypes": [605]
     },
     "2431838030": {
@@ -1519,6 +1535,14 @@
     "2558926634": {
       "#name": "Survey mission",
       "activityModeTypes": [6, 7, 601]
+    },
+    "2559374374": {
+      "#name": "Pit of Heresy: Master",
+      "activityModeTypes": [82, 7, 214]
+    },
+    "2559374375": {
+      "#name": "Pit of Heresy: Legend",
+      "activityModeTypes": [82, 7, 214]
     },
     "2559514952": {
       "#name": "Utopia",
