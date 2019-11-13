@@ -1,5 +1,5 @@
 {
-  "version": "2019-10-30T13:15:08.029Z",
+  "version": "2019-11-13T12:49:05.228Z",
   "worldContent": {
     "DestinyActivityDefinition": {
       "10898844": {
@@ -1239,7 +1239,7 @@
         "activityModeTypes": [2, 7, 210]
       },
       "1375089621": {
-        "activityModeTypes": [82, 7, 214]
+        "activityModeTypes": [82, 7]
       },
       "1375839088": {
         "activityModeTypes": [6, 7, 601],
@@ -1569,7 +1569,7 @@
         "activityModeTypes": [2, 7, 209]
       },
       "1893059148": {
-        "activityModeTypes": [2, 7, 208, 214]
+        "activityModeTypes": [2, 7, 82, 208]
       },
       "1903826490": {
         "activityModeTypes": [6, 7, 601]
@@ -1690,7 +1690,7 @@
         }
       },
       "2032534090": {
-        "activityModeTypes": [2, 7, 208, 214]
+        "activityModeTypes": [2, 7, 82, 208]
       },
       "2044882505": {
         "activityModeTypes": [6, 7, 601],
@@ -2075,10 +2075,10 @@
         }
       },
       "2559374374": {
-        "activityModeTypes": [82, 7, 214]
+        "activityModeTypes": [82, 7]
       },
       "2559374375": {
-        "activityModeTypes": [82, 7, 214]
+        "activityModeTypes": [82, 7]
       },
       "2559514952": {
         "activityModeTypes": [2, 7, 203]

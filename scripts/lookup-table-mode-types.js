@@ -800,6 +800,7 @@ const ModeTypes = {
   "77": ModeTypeMenagerie,
   "78": ModeVexOffensive,
   "79": ModeTypeNightmareHunt,
+  "82": ModeTypeDungeon,
 
   "200": ModeTypeLegacyQuest,
   "201": ModeTypeSubclassQuest,
@@ -814,7 +815,6 @@ const ModeTypes = {
   "211": ModeTypeForge,
   "212": ModeTypeInvitationsOfTheNine,
   "213": ModeTypeShadowkeep,
-  "214": ModeTypeDungeon,
 
   "600": ModeTypeExplore,
   "601": ModeTypePatrols,

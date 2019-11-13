@@ -413,7 +413,7 @@
       "activityModeTypes": [6, 7, 601]
     },
     "770505917": {
-      "#name": "European Aerial Zone:  Day",
+      "#name": "European Aerial Zone: [Solar] Day",
       "activityModeTypes": [605]
     },
     "774103043": {
@@ -713,7 +713,7 @@
       "activityModeTypes": [2, 7, 205]
     },
     "1199493030": {
-      "#name": "European Aerial Zone:  Day",
+      "#name": "European Aerial Zone: [Arc] Day",
       "activityModeTypes": [605]
     },
     "1202325606": {
@@ -850,7 +850,7 @@
     },
     "1375089621": {
       "#name": "Pit of Heresy",
-      "activityModeTypes": [82, 7, 214]
+      "activityModeTypes": [82, 7]
     },
     "1375839088": {
       "#name": "Analysis Mission",
@@ -1130,7 +1130,7 @@
     },
     "1893059148": {
       "#name": "The Shattered Throne",
-      "activityModeTypes": [2, 7, 208, 214]
+      "activityModeTypes": [2, 7, 82, 208]
     },
     "1903826490": {
       "#name": "Survey mission",
@@ -1238,7 +1238,7 @@
     },
     "2032534090": {
       "#name": "The Shattered Throne",
-      "activityModeTypes": [2, 7, 208, 214]
+      "activityModeTypes": [2, 7, 82, 208]
     },
     "2044882505": {
       "#name": "Defeat enemies",
@@ -1465,7 +1465,7 @@
       "activityModeTypes": [6, 7, 601]
     },
     "2429391832": {
-      "#name": "European Aerial Zone:  Day",
+      "#name": "European Aerial Zone: [Void] Day",
       "activityModeTypes": [605]
     },
     "2431838030": {
@@ -1538,11 +1538,11 @@
     },
     "2559374374": {
       "#name": "Pit of Heresy: Master",
-      "activityModeTypes": [82, 7, 214]
+      "activityModeTypes": [82, 7]
     },
     "2559374375": {
       "#name": "Pit of Heresy: Legend",
-      "activityModeTypes": [82, 7, 214]
+      "activityModeTypes": [82, 7]
     },
     "2559514952": {
       "#name": "Utopia",
