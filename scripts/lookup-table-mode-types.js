@@ -49,7 +49,13 @@ const ModeTypeQuest = [
 
   424670797, // Risk/Reward (750) : Story
   1296063136, // Faculties of the Skull (860) : Story
-  1396849690 // Choir of the Damned (920) : Story
+  1396849690, // Choir of the Damned (920) : Story
+
+  2807026050, // Parts Long Lost (750) : Story
+  189477140, // Open the Gate (800) : Story
+  1406685380, // Exploring the Corridors of Time (800) : Story
+  2163254576, // Corridors of Time Part 1 (850) : Story
+  1657533742 // Corridors of Time Part 2 (900) : Story
 ];
 
 const ModeTypeSocial = [
@@ -761,6 +767,11 @@ const ModeVexOffensive = [
   1967175017 // Vex Offensive: Final Assault (750)
 ];
 
+const ModeSundial = [
+  787912925, // The Sundial: Normal
+  3611556688 // The Sundial: Legend
+];
+
 const ModeTypeUnknown = [
   2472211469, // Contested Zone: Metropolis (330)
   2759086913, //  (200)
@@ -801,6 +812,7 @@ const ModeTypes = {
   "78": ModeVexOffensive,
   "79": ModeTypeNightmareHunt,
   "82": ModeTypeDungeon,
+  "83": ModeSundial,
 
   "200": ModeTypeLegacyQuest,
   "201": ModeTypeSubclassQuest,

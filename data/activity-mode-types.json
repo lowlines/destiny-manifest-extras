@@ -112,6 +112,10 @@
       "#name": "Salvage Mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "189477140": {
+      "#name": "Open the Gate",
+      "activityModeTypes": [2, 7, 206]
+    },
     "197670945": {
       "#name": "Assassination Mission",
       "activityModeTypes": [6, 7, 601]
@@ -435,6 +439,10 @@
     "785871069": {
       "#name": "(Heroic) Unbreakable",
       "activityModeTypes": [6, 7, 58]
+    },
+    "787912925": {
+      "#name": "The Sundial: Normal",
+      "activityModeTypes": [83, 7]
     },
     "789332628": {
       "#name": "Thief of Thieves",
@@ -864,6 +872,10 @@
       "#name": "Field Assignment: Active Duty",
       "activityModeTypes": [6, 7, 601]
     },
+    "1406685380": {
+      "#name": "Exploring the Corridors of Time",
+      "activityModeTypes": [2, 7, 206]
+    },
     "1412142789": {
       "#name": "[1412142789]",
       "activityModeTypes": [2, 7, 999]
@@ -1007,6 +1019,10 @@
     "1657356109": {
       "#name": "Psionic Potential (Heroic)",
       "activityModeTypes": [2, 7, 58]
+    },
+    "1657533742": {
+      "#name": "Corridors of Time Part 2",
+      "activityModeTypes": [2, 7, 206]
     },
     "1658347443": {
       "#name": "Homecoming",
@@ -1299,6 +1315,10 @@
     "2159219121": {
       "#name": "Combat Mission",
       "activityModeTypes": [6, 7, 601]
+    },
+    "2163254576": {
+      "#name": "Corridors of Time Part 1",
+      "activityModeTypes": [2, 7, 206]
     },
     "2174556965": {
       "#name": "A Frame Job",
@@ -1716,6 +1736,10 @@
       "#name": "Survey mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "2807026050": {
+      "#name": "Parts Long Lost",
+      "activityModeTypes": [2, 7, 206]
+    },
     "2814410372": {
       "#name": "Assassination Mission",
       "activityModeTypes": [6, 7, 601]
@@ -2099,6 +2123,10 @@
     "3601558330": {
       "#name": "Field Assignment: Salvage",
       "activityModeTypes": [6, 7, 601]
+    },
+    "3611556688": {
+      "#name": "The Sundial: Legend",
+      "activityModeTypes": [83, 7]
     },
     "3612741503": {
       "#name": "Survey mission",

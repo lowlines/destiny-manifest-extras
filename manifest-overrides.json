@@ -1,5 +1,5 @@
 {
-  "version": "2019-11-13T12:49:05.228Z",
+  "version": "2019-12-11T04:40:07.374Z",
   "worldContent": {
     "DestinyActivityDefinition": {
       "10898844": {
@@ -195,6 +195,9 @@
           "itemHash": 1459201683,
           "enemyStrings": ["Psions"]
         }
+      },
+      "189477140": {
+        "activityModeTypes": [2, 7, 206]
       },
       "197670945": {
         "activityModeTypes": [6, 7, 601],
@@ -729,6 +732,9 @@
       "785871069": {
         "activityModeTypes": [6, 7, 58]
       },
+      "787912925": {
+        "activityModeTypes": [83, 7]
+      },
       "789332628": {
         "activityModeTypes": [6, 7, 602]
       },
@@ -1260,6 +1266,9 @@
       "1399384455": {
         "activityModeTypes": [6, 7, 601]
       },
+      "1406685380": {
+        "activityModeTypes": [2, 7, 206]
+      },
       "1412142789": {
         "activityModeTypes": [2, 7, 999]
       },
@@ -1437,6 +1446,9 @@
       },
       "1657356109": {
         "activityModeTypes": [2, 7, 58]
+      },
+      "1657533742": {
+        "activityModeTypes": [2, 7, 206]
       },
       "1658347443": {
         "activityModeTypes": [2, 7, 203]
@@ -1776,6 +1788,9 @@
       },
       "2159219121": {
         "activityModeTypes": [6, 7, 601]
+      },
+      "2163254576": {
+        "activityModeTypes": [2, 7, 206]
       },
       "2174556965": {
         "activityModeTypes": [6, 7, 602]
@@ -2369,6 +2384,9 @@
           "enemyStrings": []
         }
       },
+      "2807026050": {
+        "activityModeTypes": [2, 7, 206]
+      },
       "2814410372": {
         "activityModeTypes": [6, 7, 601]
       },
@@ -2896,6 +2914,9 @@
       },
       "3601558330": {
         "activityModeTypes": [6, 7, 601]
+      },
+      "3611556688": {
+        "activityModeTypes": [83, 7]
       },
       "3612741503": {
         "activityModeTypes": [6, 7, 601],
