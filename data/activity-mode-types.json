@@ -1340,6 +1340,10 @@
       "#name": "Assassination Mission",
       "activityModeTypes": [6, 7, 601]
     },
+    "2211843879": {
+      "#name": "Sundial Spire",
+      "activityModeTypes": [6, 7, 606]
+    },
     "2219006909": {
       "#name": "(Heroic) Arecibo",
       "activityModeTypes": [6, 7, 58]

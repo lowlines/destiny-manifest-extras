@@ -1,5 +1,5 @@
 {
-  "version": "2019-12-11T04:40:07.374Z",
+  "version": "2019-12-11T04:45:03.900Z",
   "worldContent": {
     "DestinyActivityDefinition": {
       "10898844": {
@@ -1826,6 +1826,9 @@
       },
       "2207037656": {
         "activityModeTypes": [6, 7, 601]
+      },
+      "2211843879": {
+        "activityModeTypes": [6, 7, 606]
       },
       "2219006909": {
         "activityModeTypes": [6, 7, 58]

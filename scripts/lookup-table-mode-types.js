@@ -772,6 +772,10 @@ const ModeSundial = [
   3611556688 // The Sundial: Legend
 ];
 
+const ModeSundialSpire = [
+  2211843879 // Sundial Spire (0) : Patrol
+];
+
 const ModeTypeUnknown = [
   2472211469, // Contested Zone: Metropolis (330)
   2759086913, //  (200)
@@ -834,6 +838,7 @@ const ModeTypes = {
   "603": ModeTypeWantedAdventure,
   "604": ModeTypeTributeHall,
   "605": ModeTypeEAZ,
+  "606": ModeSundialSpire,
 
   "999": ModeTypeUnknown
 };
